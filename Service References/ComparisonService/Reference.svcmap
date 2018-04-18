@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6bb85b63-38d0-421a-a4a3-9fa0217f3516" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:60716/ComparisonOperations/ComparisonTasks.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ComparisonTasks.xsd" MetadataType="Schema" ID="b9a28438-8a4c-4a66-8574-22bc798792f4" SourceId="1" SourceUrl="http://localhost:60716/ComparisonOperations/ComparisonTasks.svc?xsd=xsd0" />
+    <MetadataFile FileName="ComparisonTasks.disco" MetadataType="Disco" ID="4c6a8670-c460-4eb0-b135-01aa4fabf354" SourceId="1" SourceUrl="http://localhost:60716/ComparisonOperations/ComparisonTasks.svc?disco" />
+    <MetadataFile FileName="ComparisonTasks.wsdl" MetadataType="Wsdl" ID="8ff6e51c-2eb5-4312-8727-51efa59d5235" SourceId="1" SourceUrl="http://localhost:60716/ComparisonOperations/ComparisonTasks.svc?wsdl" />
+    <MetadataFile FileName="ComparisonTasks1.xsd" MetadataType="Schema" ID="9e742ad3-af5b-4ba7-914d-486c3fd8fda0" SourceId="1" SourceUrl="http://localhost:60716/ComparisonOperations/ComparisonTasks.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

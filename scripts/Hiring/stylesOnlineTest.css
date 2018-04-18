@@ -1,0 +1,146 @@
+body {margin-top:0px; overflow-x:hidden; font-family:"Open Sans"; font-size:14px; color:#333333; }
+
+#lb{ font-family:"Open Sans"; font-size:18px; color:#999999; }
+
+#container {	width:100%; margin:0 auto;}
+#container #header { width:100%; margin:0 auto;}
+#container #header #logo { float:left; background-image:url(../../img/logo.gif); background-repeat:no-repeat; width:407px; height:108px; }
+#container #header #info { float:right; font-family:"Open Sans"; font-size:24px; color:#fc8b01; padding:5px 0px 5px 0px; }
+#container #header #info #title { text-align:right; padding-right:51px; clear:both;}
+#container #header #info #phone {text-align:right; }
+#container #header #info #phone #img{ float:left;}
+#container #header #info #phone #txt{ float:left; padding-top:12px; padding-left:46px}
+#container #header #info #email {clear:both; text-align:right; }
+#container #header #info #email #img{float:left; }
+#container #header #info #email #txt{float:left; padding-top:12px; padding-left:46px}
+
+#container #menu {clear:both;padding:15px 0px 25px 0px; font-family:"Open Sans"; font-size:26px; text-align:center; }
+#container #menu a {padding:0px 12px 0px 12px; text-decoration:none; color:#2a4f96;}
+#container #menu a:hover { border-bottom:3px solid #fc8b01;}
+
+#container #mid { width:100%; }
+#container #mid h1 { font-family:"Futura Md BT"; font-size:43px; color:#666666; text-align:center; }
+#container #mid #video #videoPanel #video{ margin:0 auto; width:525px;}
+
+#container #mid #videoPanel #videoBox{ width:525px; margin:0 auto;}
+#container #mid #videoBox
+{ 
+	border: 1px solid #cccccc;
+	padding:10px 10px 10px 10px;
+	text-align:left; width:100%;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius: 25px;
+	-webkit-box-shadow: #666 0px 2px 3px;
+	-moz-box-shadow: #666 0px 2px 3px;
+	box-shadow: #666 0px 2px 3px;
+	background: #cccccc;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#cccccc), to(#666666));
+	background: -webkit-linear-gradient(#cccccc, #666666);
+	background: -moz-linear-gradient(#cccccc, #666666);
+	background: -ms-linear-gradient(#cccccc, #666666);
+	background: -o-linear-gradient(#cccccc, #666666);
+	background: linear-gradient(#cccccc, #666666);
+	-pie-background: linear-gradient(#cccccc, #666666);
+	behavior: url(/PIE.htc);
+}
+#container #mid #btn { margin:0 auto; margin-top:20px; width:490px; height:109px; background-image:url(img/button_startTest.jpg); background-repeat:no-repeat; }
+
+#container #footer { height:75px;  margin:20px 0px 0px 0px;  }
+#container #footer p{ color:#666666; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:16px; padding-top:5px; text-align:center; }
+
+/************MODAL POPUP*****************/
+.modal p {
+  font-size: 14px;
+  text-align: left;
+  margin: 10px 0 0;
+}
+.modal p:hover {
+  cursor: pointer;
+}
+#popup{
+margin:0 auto;
+margin-top:10px;
+}
+#popup h2 { font-family:"Open Sans"; font-size:24px; color:#fc8b01; }
+#popup a {
+margin:0 auto;
+margin-top:10px;
+}
+a:hover {
+  
+}
+
+/* \\\\\\\\\\\\\\\\\ background: #ea5234;   END DEMO CODE   ///////////////////////////////// */
+/* \\\\\\\\\\\\\\\\\    MODAL CODE   ///////////////////////////////// */
+.overlay {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  display: none;
+}
+
+.modal {
+  display: none;
+  padding: 0 20px 20px;
+  overflow: auto;
+  z-index: 1001;
+  position: absolute;
+  width: 500px;
+  min-height: 200px;
+  
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+-webkit-box-shadow: #666 0px 12px 13px;
+-moz-box-shadow: #666 0px 12px 13px;
+box-shadow: #666 0px 12px 13px;
+background: #f2f7dd;
+}
+
+/*******************CHART**************************/
+
+.chart {
+  position: relative;
+  display: inline-block;
+  width: 110px;
+  height: 110px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.chart canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.percent {
+  display: inline-block;
+  line-height: 110px;
+  z-index: 2;
+}
+.percent:after {
+  content: '%';
+  margin-left: 0.1em;
+  font-size: .8em;
+}
+.angular {
+  margin-top: 100px;
+}
+.angular .chart {
+  margin-top: 0;
+}
+
+li .amazingcarousel-item a:visited 
+{
+    opacity:0.1;
+    color: blue;
+}
+li .amazingcarousel-item a:hover 
+{
+    opacity:0.1;
+    color: red;
+}

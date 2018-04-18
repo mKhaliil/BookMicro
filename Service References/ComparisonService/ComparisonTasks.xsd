@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="CovertParas">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="txtCurrentPage" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="txtSelectedLineHidden" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="upara" type="xs:boolean" />
+        <xs:element minOccurs="0" name="sapara" type="xs:boolean" />
+        <xs:element minOccurs="0" name="npara" type="xs:boolean" />
+        <xs:element minOccurs="0" name="ddlSparaOrientation" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ddlSparaBackground" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ddlSparaType" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ddlSparaSubType" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="chkStanza" type="xs:boolean" />
+        <xs:element minOccurs="0" name="chkHasNumbers" type="xs:boolean" />
+        <xs:element minOccurs="0" name="ddlHasStartNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ddlSign" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="xmlPath" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="CovertParasResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="CovertParasResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SaveText">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="txtCurrentPage" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="txtSelectedLineHidden" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="txtSelectedWordHidden" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="newText" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="xmlpath" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SaveTextResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="SaveTextResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AddSection">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="type" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="newlevel" type="xs:int" />
+        <xs:element minOccurs="0" name="txtCurrentPage" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="txtSelectedLineHidden" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="xmlpath" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AddSectionResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="AddSectionResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SplitOperation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="txtCurrentPage" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="txtSelectedLineHidden" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="xmlpath" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="SplitOperationResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="SplitOperationResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="MergeOperation">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="txtCurrentPage" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="txtSelectedLineHidden" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="xmlpath" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="MergeOperationResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="MergeOperationResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AddLevels">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="type" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="newlevel" type="xs:int" />
+        <xs:element minOccurs="0" name="txtCurrentPage" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="txtSelectedLineHidden" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="xmlpath" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="AddLevelsResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="AddLevelsResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,4501 @@
+/* CSS Document */
+
+@import "reset.css";
+
+.floatL
+{
+    float: left;
+}
+.floatR
+{
+    float: right;
+}
+.noFloat
+{
+    clear: both !important;
+    float: none;
+    width: 1px !important;
+    height: 0px;
+    line-height: 0em !important;
+    font-size: 0px !important;
+    margin: 0px !important;
+    padding: 0 !important;
+}
+.noFloatSpan
+{
+    /*no 1px height*/
+    display: block;
+    clear: both !important;
+    width: 1px !important;
+    height: 0px;
+    line-height: 0em !important;
+    font-size: 0px !important;
+    margin: 0px !important;
+    padding: 0 !important;
+}
+/*to remove the css validation warning '*display: inline' is changed to this*/
+.noFloatSpan *
+{
+    display: inline;
+}
+
+body
+{
+    background-color: white; /*background:url(../images/bodybg.png) repeat;*/ /*background:url(../images/bodybg.png) ; background-size: 100%;*/
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    height: 100%;
+}
+img#bg
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+#MainContainer
+{
+    width: 1000px;
+    margin: 0px auto 0 auto;
+    position: relative;
+    z-index: 0;
+}
+#Header
+{
+    width: 1000px;
+    background: url(../images/footer-bg.png) no-repeat;
+    height: 93px;
+}
+a.logo
+{
+    width: 280px;
+    height: 52px;
+    background: url(~/img/logo.gif) no-repeat;
+    float: left;
+    display: inline;
+    margin: 20px 0 0 15px;
+}
+
+
+/*div.logo added instead of a.logo to avoid accessibility issues*/
+/*div.headerLogo { cursor:pointer; width:254px; height:82px; background:url(../images/header.gif) no-repeat; float:left; display: inline; margin:20px 0 0 15px;}*/
+/*#MainContainer #Header .headerLogo { cursor:pointer; width:254px; height:52px; background:url(../images/logo.gif) no-repeat; float:left; display: inline; margin:20px 0 0 15px;}*/
+/*#MainContainer #Header .headerLogo { cursor:pointer; width:510px; height:63px; background:url(../images/rhyw-logo-new.jpg) no-repeat; float:left; display: inline; margin:20px 0 0 15px;}*/
+/*Added new logo with choose format button*/
+#MainContainer #Header .headerLogo
+{
+    width: 510px;
+    height: 82px;
+    background: url(../images/header.gif) no-repeat;
+    float: left;
+    display: inline;
+    margin: 10px 0 0 15px;
+}
+#MainContainer #Header .headerLogo .headerLogoLinkArea
+{
+    cursor: pointer;
+    width: 320px;
+    height: 82px;
+    float: left;
+    display: inline;
+}
+#MainContainer #Header .headerLogo .chooseFormatButtonLink
+{
+    cursor: pointer;
+    width: 115px;
+    height: 30px;
+    float: left;
+    display: inline;
+    margin-top: 50px;
+    margin-left: 35px;
+}
+
+/*div.logo added instead of a.logo to avoid accessibility issues*/
+.TopInfo
+{
+    float: right;
+    margin: 20px 20px 0 0;
+    display: inline;
+}
+.TopInfo .PhoneNr
+{
+    font-size: 16px;
+    color: #111111;
+    margin: 0 0 5px 53px;
+}
+/*83px;}*/
+.TopInfo .PhoneNr a
+{
+    color: #016dff;
+    font-size: 16px;
+    padding-bottom: 0px;
+    font-weight: normal;
+    text-decoration: none;
+    padding-bottom: 5px;
+}
+
+.TopInfo .PhoneNr span
+{
+    color: #0061d2;
+}
+.TopInfo .SelectBox
+{
+    width: 381px;
+    height: 30px;
+    background: url(../images/select-top.gif) no-repeat;
+}
+.TopInfo .SelectBox .BlueTxt
+{
+    color: #004fb9;
+    float: left;
+    padding: 6px 0 0 7px;
+}
+.TopInfo .SelectBox .BlueTxt a
+{
+    color: #004fb9;
+    text-decoration: underline;
+}
+.TopInfo .SelectBox .BlueTxt a:hover
+{
+    color: #004fb9;
+    text-decoration: none;
+}
+.TopInfo .SelectBox .Region
+{
+    color: #000000;
+    float: left;
+    padding: 6px 0 0 12px;
+}
+.TopInfo .SelectBox .SelectList
+{
+    width: 123px;
+    height: 20px;
+    color: #000000;
+    float: left;
+    margin: 4px 0 0 10px;
+}
+.TopInfo .SelectBox .LetterBig
+{
+    color: #191919;
+    font-size: 16px;
+    float: left;
+    font-weight: normal;
+    padding: 6px 0 0 15px;
+}
+.TopInfo .SelectBox .LetterBig a
+{
+    color: #191919;
+    text-decoration: none;
+    letter-spacing: 2px;
+}
+.TopInfo .SelectBox .LetterBig a:hover
+{
+    color: #191919;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#ContentContainer
+{
+    width: 1000px;
+    background-color: #ffffff;
+    padding-top: 0px;
+}
+
+#Navigation
+{
+    width: 996px;
+    height: 36px;
+    margin: 0px 0 0 2px;
+    background: url(../images/menu-bg.gif) no-repeat;
+}
+#Navigation ul
+{
+    list-style-type: none;
+}
+#Navigation ul li
+{
+    float: left;
+    background: url(../images/menu-sep.gif) right top no-repeat;
+    padding-top: 7px;
+    height: 28px;
+}
+#Navigation ul li a
+{
+    color: #ffffff;
+    font-size: 14px;
+    text-decoration: none;
+    padding: 0px 13px 0 13px;
+    height: 47px;
+}
+#Navigation ul li a:hover
+{
+    color: #ffffff;
+    text-decoration: underline; /*background: url(../images/menu-hover.gif) repeat-y;*/
+    padding: 0 13px 0 13px;
+    height: 28px;
+}
+#Navigation ul li:hover
+{
+    color: #ffffff;
+    text-decoration: none;
+    background: url(../images/menu-hover.gif) repeat-x;
+    height: 28px;
+}
+
+#Navigation ul ul
+{
+    display: none;
+    z-index: 500;
+    position: absolute;
+    list-style-type: none;
+    padding: 11px 10px 10px 0;
+    width: 130px;
+    font-size: smaller;
+}
+#Navigation ul li:hover > ul
+{
+    display: block;
+    height: 32px;
+}
+/*Usman 22/07/09: Second level*/
+#Navigation ul ul li
+{
+    display: block;
+    float: none;
+    height: 32px;
+    padding: 0;
+}
+/*Usman 22/07/09: Second level*/
+#Navigation ul ul li a
+{
+    display: block;
+    color: #ffffff;
+    font-size: 12px;
+    text-decoration: none;
+    background: url(../images/menu-sub-item.gif) left top repeat-x;
+    height: 32px; /*padding: 5px 0 0 20px;*/
+}
+/*Usman 22/07/09: Second level*/
+#Navigation ul ul li a:hover
+{
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    background: url(../images/menu-sub-item-hover.gif)left top reapeat-x;
+    height: 32px; /*padding: 5px 0 0 20px;*/
+}
+/*Usman 22/07/09: Second level*/
+
+#Navigation ul ul ul
+{
+    display: none;
+    z-index: 500;
+    position: absolute;
+    list-style-type: none;
+    padding: 0 10px 10px 0;
+    width: 200px;
+    margin: -28px 0 0 130px;
+}
+#Navigation ul li ul li:hover > ul
+{
+    display: block;
+    height: 28px;
+}
+/*Usman 22/07/09: Third level*/
+#Navigation ul ul ul li
+{
+    display: block;
+    float: none;
+    height: 28px;
+    padding: 0;
+}
+/*Usman 22/07/09: Third level*/
+#Navigation ul ul ul li a
+{
+    display: block;
+    color: #ffffff;
+    font-size: 8px;
+    text-decoration: none;
+    background: url(../images/menu-sub-item.gif) left top repeat-x;
+    height: 28px;
+    padding: 5px 0 0 25px;
+}
+/*Usman 22/07/09: Third level*/
+#Navigation ul ul ul li a:hover
+{
+    display: block;
+    color: #ffffff;
+    text-decoration: none;
+    background: url(../images/menu-sub-item-hover.gif)left top reapeat-x;
+    height: 28px;
+    padding: 5px 0 0 20px;
+}
+
+/*Hammad for new CrumbBar*/
+.NewBreadcrumbs
+{
+    width: 552px;
+    background-color: #eeeeee;
+    border-bottom: 1px solid #e2e2e2;
+    border-top: 1px solid #e2e2e2;
+    height: 27px;
+    padding-bottom: 2px;
+}
+
+.NewBreadcrumbsWide
+{
+    width: 768px;
+    margin: 2px 0 0 7px;
+    background-color: #eeeeee;
+    border-bottom: 1px solid #e2e2e2;
+    border-top: 1px solid #e2e2e2;
+    height: 27px;
+}
+
+.NewBreadcrumbs .BreadTxt
+{
+    float: left;
+    color: #000000;
+    font-size: 11px;
+    padding: 5px 0 0 13px;
+}
+
+.NewBreadcrumbs .BreadTxt a:visited
+{
+    color: Blue;
+    text-decoration: none;
+}
+.NewBreadcrumbs .BreadTxt a:hover
+{
+    color: Blue;
+    text-decoration: underline;
+}
+
+.NewBreadcrumbs .BreadTxt a:active
+{
+    color: Blue;
+    text-decoration: none;
+}
+/*Hammad for new CrumbBar*/
+
+.Breadcrumbs
+{
+    width: 996px;
+    margin: 2px 0 0 2px;
+    background-color: #eeeeee;
+    border-bottom: 1px solid #e2e2e2;
+    border-top: 1px solid #e2e2e2;
+    height: 27px;
+}
+.Breadcrumbs .BreadTxt
+{
+    float: left;
+    color: #000000;
+    font-size: 11px;
+    padding: 5px 0 0 13px;
+}
+.Breadcrumbs .BreadTxt a
+{
+    text-decoration: none;
+    color: #000000;
+}
+.Breadcrumbs .BreadTxt a:hover
+{
+    text-decoration: underline;
+    color: #000000;
+}
+.Breadcrumbs .Login
+{
+    float: right;
+    font-size: 11px;
+    padding: 5px 20px 0 0;
+}
+.Breadcrumbs .Login a
+{
+    color: #004cc8;
+    text-decoration: underline;
+}
+.Breadcrumbs .Login a:hover
+{
+    color: #004cc8;
+    text-decoration: none;
+}
+
+#SiteContainer
+{
+    padding-top: 4px;
+}
+#SiteContainer .LeftNavigation
+{
+    float: left;
+    width: 219px;
+    margin-left: 2px;
+    background: url(../images/leftnav-bg.gif) left top no-repeat;
+    min-height: 1749px;
+    height: 1749px;
+    height: auto !important;
+}
+/*Asad:Editted Today height mentioned*//*Usman 06/07/09: border-right(remove)*/
+*html #SiteContainer .LeftNavigation
+{
+    float: left;
+    width: 217px;
+    margin-left: 2px;
+    background: url(../images/leftnav-bg.gif) left top no-repeat;
+}
+/*Usman 06/07/09: border-right(remove)*/
+#SiteContainer .CenterContent
+{
+    float: left; /* min-height: 2249px;*/
+    min-height: 2622px;
+    height: auto;
+    margin: 0 2px 0 3px;
+}
+/*Asad:Editted Today->Decreased Margin by 2 points width:547px;*//*Usman 06/07/09: min-height, border-left,border- right*/
+#SiteContainer .RightSide
+{
+    float: left;
+    width: 219px;
+    border-top: 1px solid #e4e4e4;
+    min-height: 2249px;
+    height: 1749px;
+    height: auto !important;
+}
+/*Asad:Editted Today height increased from 1749*//*Usman 06/07/09: border-left(remove)*/
+#Bottom
+{
+    width: 1000px;
+    background: url(../images/bottom-content-bg.gif) bottom no-repeat;
+    height: 10px;
+}
+*html #Bottom
+{
+    width: 1000px;
+    background: url(../images/bottom-content-bg.gif) bottom no-repeat;
+    height: 19px;
+    margin: -4px auto;
+}
+
+#SiteContainer .LeftNavigation .TitleNav
+{
+    font-size: 14px;
+    font-weight: bold;
+    color: #000000;
+    border-bottom: 1px solid #e4e4e4;
+    padding: 0px 0 0px 10px;
+}
+#SiteContainer .LeftNavigation .TitleNavCustom
+{
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+    background-color: #F5F5F5;
+    color: #000;
+    border: 1px solid #e4e4e4;
+    padding: 15px 0 10px 10px;
+    height: 50px;
+}
+#SiteContainer .LeftNavigation .TitleNavCustom a
+{
+    color: #000 /*1a8dee*/;
+    text-decoration: none;
+}
+
+#SiteContainer .LeftNavigation .TitleNav a
+{
+    font-size: 14px;
+    font-weight: bold; /*    color: #000000;*/
+    color: #C6631A;
+    text-decoration: none;
+    padding: 4px 0 5px 15px;
+}
+/*Added by Usman for link support*/
+
+
+#SiteContainer .LeftNavigation .TitleNav a.collapsed
+{
+    background-image: url(/images/category-expand-icon.png);
+    background-attachment: inherit;
+    background-position: left center;
+    background-repeat: no-repeat;
+}
+/*Added by Usman for link support*/
+
+#SiteContainer .LeftNavigation .TitleNav a.expanded
+{
+    background-image: url(/images/category-collapse-icon.png);
+    background-attachment: inherit;
+    background-position: left center;
+    background-repeat: no-repeat;
+}
+/*Added by Usman for link support*/
+
+#SiteContainer .LeftNavigation .TitleNav a:hover
+{
+    font-size: 14px;
+    font-weight: bold;
+    color: #000000;
+    text-decoration: none;
+}
+/*Added by Usman for link support*/
+
+#SiteContainer .LeftNavigation .NavList
+{
+}
+#SiteContainer .LeftNavigation .NavList ul
+{
+    list-style-type: none;
+    margin-left: 18px;
+    margin-right: 20px;
+}
+#SiteContainer .LeftNavigation .NavList ul li
+{
+    background: url(../images/nav-arrow.png) left 10px no-repeat;
+    border-bottom: 1px solid #f0f0f0;
+    padding: 4px 0 0px 20px;
+}
+#SiteContainer .LeftNavigation .NavList ul li a
+{
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+}
+#SiteContainer .LeftNavigation .NavList ul li a:hover
+{
+    text-decoration: none;
+    color: #1a8dee;
+}
+#SiteContainer .LeftNavigation .ViewAll
+{
+    background: url(../images/view-arrow.png) left 5px no-repeat;
+    color: #b40011;
+    padding-left: 15px;
+    margin: 6px 0 30px 135px;
+}
+#SiteContainer .LeftNavigation .ViewAll a
+{
+    text-decoration: none;
+    color: #b40011;
+}
+#SiteContainer .LeftNavigation .ViewAll a:hover
+{
+    text-decoration: underline;
+    color: #b40011;
+}
+
+#SiteContainer .CenterContent .PageTitleText h1
+{
+    color: #413F3F;
+    font-size: 20pt;
+    padding: 5px 0 0 5px;
+    font-weight: bold;
+    height: 30px;
+}
+#SiteContainer .CenterContent .Intro h1
+{
+    color: #FFF;
+    font-size: 24px;
+    padding: 30px 0 0 15px;
+    font-weight: normal;
+}
+#SiteContainer .CenterContent .Intro p
+{
+    padding: 5px;
+    text-align: justify;
+}
+#SiteContainer .CenterContent .Best-Sel-Titles
+{
+    padding: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+#SiteContainer .CenterContent .Banner
+{
+    width: 547px;
+    height: 235px;
+    margin: 1px 2px 2px 2px;
+    background: url(../images/banner-bg.jpg) no-repeat;
+}
+#SiteContainer .CenterContent .BannerChristian
+{
+    width: 547px;
+    height: 250px;
+    margin: 1px 2px 2px 2px;
+    background: url(../images/gray-bg.jpg) no-repeat;
+}
+
+#SiteContainer .CenterContent .BannerUS
+{
+    margin: 1px 2px 2px 2px;
+}
+
+#SiteContainer .CenterContent .Banner .Subtitle
+{
+    color: #aa1a19;
+    font-size: 14px;
+    padding: 7px 0 0 30px;
+    font-style: italic;
+}
+
+#SiteContainer .CenterContent .Banner1
+{
+    width: 547px;
+    height: 287px;
+    background: url(../images/librarian-banner.jpg) no-repeat;
+}
+#SiteContainer .CenterContent .Banner h1
+{
+    color: #0b2556;
+    font-size: 20px;
+    padding: 15px 0 0 30px;
+    font-style: bold;
+    font-family: Arial;
+}
+
+
+
+#SiteContainer .CenterContent .Banner a.LearnBtn
+{
+    cursor: pointer;
+    width: 185px;
+    height: 23px;
+    display: block;
+    background: url(../images/banner_btn.png) no-repeat;
+    margin: 25px 0 0 30px;
+}
+#SiteContainer .CenterContent .Banner p
+{
+    font-size: 12px;
+    color: #000000;
+    padding: 6px 0 0 30px;
+    width: 90%;
+}
+
+
+#SiteContainer .CenterContent .Banner a.LearnBtn
+{
+    cursor: pointer;
+    width: 185px;
+    height: 23px;
+    display: block;
+    background: url(../images/banner_btn.png) no-repeat;
+    margin: 45px 0 0 30px;
+}
+#SiteContainer .CenterContent .Banner div.LearnBtn
+{
+    cursor: pointer;
+    width: 185px;
+    height: 23px;
+    display: block;
+    background: url(../images/banner_btn.png) no-repeat;
+    margin: 50px 0 5px 30px;
+}
+#SiteContainer .CenterContent .Banner a.LearnBtnBuy
+{
+    cursor: pointer;
+    width: 82px;
+    height: 59px;
+    display: block;
+    background: url(../images/home-page-buy-now-btn.jpg) no-repeat;
+    margin: 45px 0 0 30px;
+}
+#SiteContainer .CenterContent .Banner div.LearnBtnBuy
+{
+    cursor: pointer;
+    width: 77px;
+    height: 34px;
+    display: block;
+    background: url(../images/home-page-buy-now-btn.jpg) no-repeat;
+    margin: 5px 0 0 30px;
+}
+#SiteContainer .CenterContent .Banner div.WatchVideo
+{
+    cursor: pointer;
+    width: 167px;
+    height: 64px;
+    display: block;
+    background: url(/images/read-excerpt.jpg) no-repeat;
+    margin: -33px 0 0 110px;
+}
+#SiteContainer .CenterContent .Banner div.ReadExcerpt
+{
+    cursor: pointer;
+    width: 126px;
+    height: 34px;
+    display: block;
+    background: url(/images/read-excerpt.jpg) no-repeat;
+    margin: -33px 0 0 110px;
+}
+#SiteContainer .CenterContent .Banner1 a.btnMoreInfo
+{
+    float: right;
+    text-align: right;
+    cursor: pointer;
+    width: 167px;
+    height: 59px;
+    display: block;
+    background: url(../images/banner_btn.png) no-repeat;
+    margin: 20px 20px 30px 30px;
+}
+#SiteContainer .CenterContent .Banner1 .btnMoreInfo
+{
+    float: right;
+    text-align: right;
+    cursor: pointer;
+    width: 167px;
+    height: 59px;
+    display: block;
+    background: url(../images/banner_btn.png) no-repeat;
+    margin: 20px 20px 30px 30px;
+}
+
+
+/*Publisher Bio will copy some style from Banner*/
+#SiteContainer .CenterContent .PublisherBio
+{
+    width: 547px;
+    height: 287px;
+    background: url(../images/gray-bg.jpg) no-repeat;
+}
+#SiteContainer .CenterContent .PublisherBio .infoContent
+{
+    width: 535px;
+    height: 275px; /*font-size:12px;*/
+    color: #000000;
+    padding: 6px 0 0 10px;
+    overflow-y: scroll;
+}
+#SiteContainer .CenterContent .PublisherBio .infoContent .publisherLogo
+{
+    float: left;
+    text-align: center;
+    color: #999797;
+    margin: 5px;
+    border: solid 1px #ccc;
+    padding: 5px;
+}
+#SiteContainer .CenterContent .PublisherBio .infoContent .publisherLogo img
+{
+    cursor: pointer;
+}
+#SiteContainer .CenterContent .PublisherBio .infoContent .grayText
+{
+    color: #999797;
+    font-weight: bold;
+}
+#SiteContainer .CenterContent .PublisherBio .infoContent h2
+{
+    font-size: 16px;
+    color: #000000;
+    font-weight: bold;
+}
+#SiteContainer .CenterContent .PublisherBio .infoContent p
+{
+    padding: 5px;
+    text-align: justify;
+}
+
+
+#SiteContainer .CenterContent .Best-Sel-Title
+{
+    width: 546px;
+    height: 16px;
+    background: url(../images/best-sellers.gif) no-repeat;
+    margin: 20px 0 10px 0;
+}
+
+#SiteContainer .CenterContent .Best-Sel-TitleTxt
+{
+    width: 546px;
+    height: 20px;
+    background: url(../images/best-sellers-bg.gif) no-repeat;
+    color: #016DFF;
+    font-weight: bold;
+    font-size: 17pt;
+    font-family: Arial;
+    margin: 20px 0 10px 0;
+}
+#SiteContainer .CenterContent .Latest-TitleTxt
+{
+    width: 546px;
+    height: 20px;
+    background: url(../images/best-sellers-bg.gif) no-repeat;
+    color: #016DFF;
+    font-weight: bold;
+    font-size: 17pt;
+    font-family: Arial;
+    margin: 20px 0 10px 0;
+}
+#SiteContainer .CenterContent .Publishers-TitleTxt
+{
+    width: 546px;
+    height: 20px;
+    background: url(../images/best-sellers-bg.gif) no-repeat;
+    color: #016DFF;
+    font-weight: bold;
+    font-size: 17pt;
+    font-family: Arial;
+    margin: 20px 0 10px 0;
+}
+#SiteContainer .CenterContent .Browse-TitleTxt
+{
+    width: 546px;
+    height: 20px;
+    background: url(../images/best-sellers-bg.gif) no-repeat;
+    color: #016DFF;
+    font-weight: bold;
+    font-size: 17pt;
+    font-family: Arial;
+    margin: 20px 0 10px 0;
+}
+
+
+#SiteContainer .CenterContent .Latest-Title
+{
+    width: 546px;
+    height: 16px;
+    background: url(../images/latest-title.gif) no-repeat;
+    margin: 20px 0 10px 0;
+}
+#SiteContainer .CenterContent .Browse-Title
+{
+    width: 546px;
+    height: 17px;
+    background: url(../images/browse-coll-title.gif) no-repeat;
+    margin: 20px 0 10px 0;
+}
+#SiteContainer .CenterContent .Publishers-Title
+{
+    width: 546px;
+    height: 17px;
+    background: url(../images/publishers-title.gif) no-repeat;
+    margin: 20px 0 10px 0;
+}
+#SiteContainer .CenterContent .ProductsBox
+{
+    width: 532px;
+    border-bottom: 1px solid #e4e4e4;
+    padding: 20px 0 20px 0;
+    padding-left: 15px;
+}
+#SiteContainer .CenterContent .ProductsBox .ProdItem
+{
+    float: left;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+#SiteContainer .CenterContent .ProductsBox .ProdItem#last
+{
+    border-right: none;
+    margin-right: 0px;
+}
+#SiteContainer .CenterContent .ProductsBox .ProdItem#first
+{
+    margin-left: 8px;
+}
+#SiteContainer .CenterContent .ProductsBox .ProdItem .publisherLink
+{
+    text-align: center;
+    width: 150px;
+    margin: 20px 0 10px 0;
+    height: 30px;
+}
+#SiteContainer .CenterContent .ProductsBox .ProdItem .publisherLink a
+{
+    color: #016dff;
+    text-decoration: none;
+}
+#SiteContainer .CenterContent .ProductsBox .ProdItem .publisherLink a
+{
+    color: #016dff;
+    text-decoration: underline;
+}
+#SiteContainer .CenterContent .ProductsBox .ProdItem .Foto
+{
+    margin: 0 0 15px 15px;
+    width: 100px;
+}
+/*Editted:Data Conversion*/
+#SiteContainer .CenterContent .ProductsBox .ProdItem .Foto .imgCS
+{
+    width: 100px;
+    height: 129px;
+}
+/*Added:Data Conversion*/
+#SiteContainer .CenterContent .ProductsBox .ProdItem .TitleItem
+{
+    color: #000000; /* border-bottom: 1px solid #f4f4f4;*/
+    padding-bottom: 3px;
+    font-weight: bold;
+    padding-top: 10px;
+    width: 140px;
+    height: 33px;
+    overflow: hidden;
+    text-transform: capitalize;
+}
+/*Editted:Data Conversion*/
+#SiteContainer .CenterContent .ProductsBox .ProdItem .Author
+{
+    color: #000000;
+    width: 140px;
+    height: 35px;
+    overflow: hidden;
+}
+
+#SiteContainer .CenterContent .ProductsBox .ProdItem .BundleAuthor
+{
+    color: #000000;
+    width: 110px;
+    height: 35px;
+    overflow: hidden;
+}
+#SiteContainer .CenterContent .ProductsBox .ProdItem .Author a
+{
+    color: #016dff;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+#SiteContainer .CenterContent .ProductsBox .ProdItem .Author a:hover
+{
+    color: #016dff;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+#SiteContainer .CenterContent .ProductsBox .ProdItem .price
+{
+    color: #000000;
+    padding-top: 5px;
+}
+/*Editted:Data Conversion*/
+#SiteContainer .CenterContent .ProductsBox .ProdItem .price span
+{
+    color: #ff1515;
+    font-weight: bold;
+    font-size: x-small;
+}
+#SiteContainer .CenterContent .ProductsBox .ProdItem .price span a
+{
+    color: #016dff;
+    text-decoration: underline;
+}
+#SiteContainer .CenterContent .ProductsBox .ProdItem .price span a:hover
+{
+    color: #016dff;
+    text-decoration: none;
+}
+#SiteContainer .CenterContent .ProductsBox .ProdItem .SelectItem
+{
+    width: 135px;
+}
+#SiteContainer .CenterContent .ProductsBox .ProdItem .CommandBtns
+{
+    margin-top: 5px;
+}
+#SiteContainer .CenterContent .ProductsBox .ProdItem .CommandBtns a.DetailsBtn
+{
+    color: #000000;
+    background-color: #dedede;
+    height: 16px;
+    float: left;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 2px;
+    margin-right: 5px;
+}
+#SiteContainer .CenterContent .ProductsBox .ProdItem .CommandBtns a.AddBtn
+{
+    color: #ffffff;
+    background-color: #dc2f3f;
+    height: 16px;
+    float: left;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 2px;
+    white-space: nowrap;
+}
+#SiteContainer .CenterContent a.ViewAllBtn
+{
+    width: 61px;
+    height: 21px;
+    display: block;
+    color: #016dff;
+    text-decoration: none;
+    background: url(../images/viewall-btn.gif) no-repeat;
+    padding: 4px 0 0 7px;
+    margin: 5px 0 0 480px;
+}
+#SiteContainer .CenterContent .Paging
+{
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 20px;
+}
+/*Usman: Added for Pagging Support 22/07/2009*/
+
+#SiteContainer .CenterContent .Paging a.Page
+{
+    background: url(../images/paging-bg.png) no-repeat center;
+    background-size: 100%;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 2px 13px 2px 10px;
+    color: #ffffff;
+    margin-left: 5px;
+}
+/*Usman: Added for Pagging Support 22/07/2009*/
+#SiteContainer .CenterContent .Paging a:hover.Page
+{
+    background: url(../images/paging-bg-over.png) no-repeat center;
+    background-size: 100%;
+    font-weight: bold;
+    text-decoration: none;
+}
+/*Usman: Added for Pagging Hover Effect 31/07/2009*/
+#SiteContainer .CenterContent .Paging a.SelectedPage
+{
+    background: url(../images/paging-bg-over.png) no-repeat center;
+    background-size: 100%;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 2px 13px 2px 10px;
+    margin-left: 5px;
+    font-weight: bold;
+}
+/*Hammad: Updated background image and width 22/11/2010*/
+#SiteContainer .CenterContent .AlphabetsList
+{
+    width: 540px;
+    padding-left: 17px;
+    text-align: left;
+    margin: 15px 0 0 0;
+    font-weight: bold;
+}
+/*Usman: Added for Alphabet Listing Support 22/07/2009*/
+#SiteContainer .CenterContent .AlphabetsList a.Alphabet
+{
+    width: 10px;
+    height: 10px;
+    color: Blue;
+    text-decoration: none;
+    padding: 4px 2px 4px 2px;
+}
+/*Usman: Added for Alphabet Listing Support 22/07/2009*/
+#SiteContainer .CenterContent .AlphabetsList a.SelectedAlphabet
+{
+    width: 10px;
+    height: 10px;
+    color: Red;
+    text-decoration: none;
+    padding: 1px 2px 1px 2px;
+    margin: 2px 0 0 2px;
+}
+/*Usman: Added for Alphabet Listing Support 22/07/2009*/
+#SiteContainer .CenterContent .PageSizeOption
+{
+    width: 200px;
+    height: 40px;
+    display: block;
+    text-decoration: none;
+    margin: 0 0 0 341px;
+    vertical-align: middle;
+}
+
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem
+{
+    float: left;
+    border-right: 1px solid #e4e4e4;
+    float: left;
+    padding-right: 10px;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem.last
+{
+    border-right: none;
+    margin-left: 18px;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .FotoBrowse
+{
+    float: left;
+    height: 117px;
+    width: 88px;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .FotoBrowse .imgCS2
+{
+    height: 117px;
+    width: 88px;
+}
+/*Added:Data Conversion*/
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .TitleBrow
+{
+    color: #000000;
+    border-bottom: 1px solid #f4f4f4;
+    padding-bottom: 3px;
+    font-weight: bold;
+    margin-left: 95px;
+    font-size: 12px;
+    width: 120px;
+    height: 33px;
+    text-transform: capitalize;
+    text-transform: capitalize;
+}
+/*Editted:Data Conversion*/
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .AuthorBrow
+{
+    color: #000000;
+    margin-left: 95px;
+    font-size: 12px;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .AuthorBrow a
+{
+    color: #016dff;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .AuthorBrow a:hover
+{
+    color: #016dff;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .PriceBrow
+{
+    color: #000000;
+    padding-top: 10px;
+    margin-left: 95px;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .PriceBrow span
+{
+    color: #ff1515;
+    font-weight: bold;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .PriceBrow span a
+{
+    color: #016dff;
+    text-decoration: underline;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .PriceBrow span a:hover
+{
+    color: #016dff;
+    text-decoration: none;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .SelectItemBrow
+{
+    width: 136px;
+    margin-left: 7px;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .CommandsBtnsBrow
+{
+    margin-top: 8px;
+    margin-left: 90px;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .CommandsBtnsBrow a.DetailsBtn2
+{
+    color: #000000;
+    background-color: #dedede;
+    height: 16px;
+    float: left;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 2px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .CommandsBtnsBrow a.AddBtn2
+{
+    color: #ffffff;
+    background-color: #dc2f3f;
+    height: 16px;
+    float: left;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 2px;
+    white-space: nowrap;
+}
+
+#SiteContainer .RightSide .CartTitle
+{
+    font-size: 14px;
+    font-weight: bold;
+    color: #000000;
+    border-bottom: 1px solid #f0f0f0;
+    padding: 10px 0 10px 18px;
+}
+#SiteContainer .RightSide .CartContainer
+{
+    margin: 15px 10px 0 18px;
+    border-bottom: 1px solid #e4e4e4;
+    padding-bottom: 3px;
+}
+#SiteContainer .RightSide .CartContainer .TxtCart
+{
+    color: #000000;
+    float: left;
+    font-size: 12px;
+}
+#SiteContainer .RightSide .CartContainer .CartItemsNr
+{
+    float: left;
+    color: #f8700d;
+    font-size: 12px;
+    padding-left: 10px;
+}
+#SiteContainer .RightSide .CheckoutBox
+{
+    padding: 10px 0 0 18px;
+}
+#SiteContainer .RightSide .CheckoutBox .Totalprice
+{
+    font-weight: bold;
+    float: left;
+    color: #ff0000;
+}
+#SiteContainer .RightSide .CheckoutBox a.CheckOutBtn
+{
+    width: 74px;
+    height: 27px;
+    display: inline;
+    background: url(../images/checkout-btn.gif) no-repeat;
+    float: right;
+    margin-right: 10px;
+}
+
+#SiteContainer .RightSide .SearchBox
+{
+    padding: 10px 0 0 18px;
+}
+#SiteContainer .RightSide .SearchBox .Form
+{
+    width: 178px;
+    height: 24px;
+    background: url(../images/search-form.gif) no-repeat;
+    border: none;
+    padding: 8px 0 0 10px;
+}
+#SiteContainer .RightSide .SearchBox .DivSearch
+{
+    border-top: 1px solid #f0f0f0;
+    margin: 3px 14px 10px 2px;
+}
+#SiteContainer .RightSide .SearchBox .DivSearch .SelSearch
+{
+    float: left;
+    margin-top: 5px;
+    height: 26px;
+}
+#SiteContainer .RightSide .SearchBox .DivSearch input.SearchBtnBlue
+{
+    float: right;
+    width: 68px;
+    height: 30px;
+    display: block;
+    background: url(../images/search_btn.png) no-repeat;
+    margin: 0 0 0 0;
+    border: 0;
+}
+#SiteContainer .RightSide .AdvanceSearch
+{
+    background: url(../images/search-arrow.gif) left 6px no-repeat;
+    padding-left: 15px;
+    font-size: 11px;
+    color: #016dff;
+    margin: 0px 0 0 20px;
+}
+#SiteContainer .RightSide .AdvanceSearch a
+{
+    color: #016dff;
+    text-decoration: underline;
+}
+#SiteContainer .RightSide .AdvanceSearch a:hover
+{
+    color: #016dff;
+    text-decoration: none;
+}
+#SiteContainer .RightSide .AaaLook
+{
+    width: 218px;
+    height: 86px;
+    background: url(../images/right-aaa-bg.gif) no-repeat;
+    margin-top: 0px;
+}
+#SiteContainer .RightSide .AaaLook .Title
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: #000000;
+    padding: 20px 0 0 10px;
+}
+#SiteContainer .RightSide .AaaLook .Txt
+{
+    font-size: 11px;
+    color: #414040;
+    padding: 5px 0 0 10px;
+}
+/* for shopping cart etc by usman on 29 SEP 2010 */
+#SiteContainer .RightSide .CartLook
+{
+    width: 218px;
+    height: 120px;
+    background: url(../images/cart-right-bg.gif) no-repeat;
+    margin-top: 8px;
+}
+#SiteContainer .RightSide .CartLook .Title
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: #000000;
+    padding: 15px 0 0 10px;
+}
+#SiteContainer .RightSide .CartLook .Txt
+{
+    font-size: 11px;
+    color: #414040;
+    padding: 5px 0 0 10px;
+}
+#SiteContainer .RightSide .CartLook .CartItemsNr
+{
+    float: left;
+    color: #f8700d;
+    font-size: 12px;
+    padding-left: 10px;
+}
+#SiteContainer .RightSide .CartLook .TxtCart
+{
+    color: #000000;
+    float: left;
+    font-size: 12px;
+}
+
+/* news */
+#SiteContainer .RightSide .NewsLook
+{
+    background: url(../images/right-news-events.gif) no-repeat;
+    width: 218px;
+    height: 80px;
+}
+#SiteContainer .RightSide .NewsLook .Title
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: #000000;
+    padding: 20px 0 0 10px;
+}
+#SiteContainer .RightSide .NewsLook .Txt
+{
+    font-size: 11px;
+    color: #414040;
+    padding: 5px 0 0 10px;
+}
+
+
+
+#SiteContainer .RightSide .AaaLook .Txt a
+{
+    font-size: 11px;
+    color: #414040;
+    text-decoration: none;
+}
+/*Added by Usman for link support*/
+#SiteContainer .RightSide .AaaLook .Txt a:hover
+{
+    font-size: 11px;
+    color: #414040;
+    text-decoration: none;
+}
+/*Added by Usman for link support*/
+#SiteContainer .RightSide .Guide
+{
+    background: url(../images/guide-bg.gif) no-repeat;
+    width: 218px;
+    height: 80px;
+}
+#SiteContainer .RightSide .Guide .Title
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: #000000;
+    padding: 10px 0 0 10px;
+}
+#SiteContainer .RightSide .Guide .Txt
+{
+    font-size: 11px;
+    color: #414040;
+    padding: 0px 0 0 10px;
+}
+#SiteContainer .RightSide .Guide .Txt a
+{
+    text-decoration: none;
+    color: #414040;
+}
+/*Added by Usman for link support*/
+#SiteContainer .RightSide .Guide .Txt a:hover
+{
+    text-decoration: none;
+    color: #414040;
+}
+/*Added by Usman for link support*/
+#SiteContainer .RightSide .NewsTitle
+{
+    font-size: 13px;
+    font-weight: bold;
+    color: #016dff;
+    padding: 20px 0 0 18px;
+}
+#SiteContainer .RightSide .NewsTitle a
+{
+    text-decoration: none;
+    color: #016dff;
+}
+/*Added by Usman for link support*/
+#SiteContainer .RightSide .NewsTitle a:hover
+{
+    text-decoration: none;
+    color: #016dff;
+}
+/*Added by Usman for link support*/
+#SiteContainer .RightSide p
+{
+    margin: 7px 10px 0 18px;
+    color: #000000;
+    border-bottom: 1px solid #f0f0f0;
+    padding-bottom: 5px;
+    font-size: 11px;
+}
+
+#SiteContainer .RightSide .NavList
+{
+}
+#SiteContainer .RightSide .NavList ul
+{
+    list-style-type: none;
+    margin-left: 18px;
+    margin-right: 20px;
+}
+#SiteContainer .RightSide .NavList ul li
+{
+    background: url(../images/nav-arrow.gif) left 10px no-repeat;
+    border-bottom: 1px solid #f0f0f0;
+    padding: 5px 0 5px 20px;
+}
+#SiteContainer .RightSide .NavList ul li a
+{
+    font-size: 12px;
+    color: #000000;
+    text-decoration: none;
+}
+#SiteContainer .RightSide .NavList ul li a:hover
+{
+    text-decoration: none;
+    color: #1a8dee;
+}
+#SiteContainer .RightSide .ViewAll
+{
+    background: url(../images/view-arrow.gif) left 5px no-repeat;
+    color: #b40011;
+    padding-left: 15px;
+    margin: 6px 0 30px 135px;
+}
+#SiteContainer .RightSide .ViewAll a
+{
+    text-decoration: none;
+    color: #b40011;
+}
+#SiteContainer .RightSide .ViewAll a:hover
+{
+    text-decoration: underline;
+    color: #b40011;
+}
+
+#Footer
+{
+    margin: 0px auto 0 auto;
+    width: 1000px;
+    padding-bottom: 35px; /*background: url(../images/paging-background.gif) repeat-x;*/
+    background: url(../images/footer-bg.png) no-repeat;
+    position: relative;
+    z-index: 1;
+}
+#Footer .logo
+{
+    float: left;
+}
+#Footer .copyright
+{
+    font-size: 10px; /*width: 600px;*/ /*color: #6b8dae;*/
+    color: Black;
+    float: left;
+    margin-left: 250px;
+    line-height: 12px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+#Footer .copyright a
+{
+    font-size: 10px; /*color: #6b8dae;*/
+    color: Black;
+    text-decoration: none;
+}
+
+#Footer .copyright a:hover
+{
+    font-size: 10px;
+    color: Black;
+    text-decoration: underline;
+}
+#Footer .Menu
+{
+    float: left; /*width: 1000px;*/
+    height: 12px;
+    margin-left: 200px;
+    line-height: 12px;
+    padding-top: 5px;
+    text-align: center;
+}
+#Footer .Menu ul
+{
+    list-style-type: none;
+}
+#Footer .Menu ul li
+{
+    float: right;
+    border-right: 1px solid #6b8dae;
+    padding: 0px 5px 0px 5px;
+    margin: 0 0 5px 0;
+}
+#Footer .Menu ul li a
+{
+    font-size: 10px; /*    color: #6b8dae;*/
+    color: Black;
+    text-decoration: none;
+}
+#Footer .Menu ul li a:hover
+{
+    color: Black;
+    text-decoration: underline;
+}
+
+/*@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@---Book-Details----@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*/
+.ol
+{
+    list-style-type: decimal;
+    padding: 0px 55px 0px 80px;
+}
+
+/*-------------------Main Container-------------------*/
+#SiteContainer .CenterContent .bookMainContainer
+{
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookImage
+{
+    padding-right: 15px;
+    float: left;
+}
+#SiteContainer .CenterContent .bookMainContainer .bookImage img
+{
+    width: 130px;
+    height: 170px;
+    border: thin solid rgb(228, 228, 228);
+    padding: 2px;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText
+{
+    margin-left: 157px;
+    text-align: left;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .bookName
+{
+    font-size: 13px;
+    font-weight: bold;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    padding-bottom: 2px;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .bookAuthor
+{
+    color: #000000;
+    padding-bottom: 20px;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .bookAuthor a
+{
+    color: #016dff;
+    text-decoration: none;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .bookAuthor a:hover
+{
+    color: #016dff;
+    text-decoration: underline;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .formatTextContainer
+{
+    background-color: #F4F4F4;
+    padding-left: 10px;
+}
+#SiteContainer .CenterContent .bookMainContainer .bookText .formatTextContainer .formatSelectionText
+{
+    height: 65px;
+    font-size: 11px;
+    padding-left: 0px;
+}
+#SiteContainer .CenterContent .bookMainContainer .bookText .formatTextContainer .formatSelectionText a
+{
+    color: #016dff;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .formatSelectionArea
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-top: thin solid rgb(228, 228, 228);
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .formatSelectionArea .formatText
+{
+    float: left;
+    padding-right: 2px;
+    padding-top: 6px;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .formatSelectionArea .formatSelectionBox
+{
+    padding-left: 10px;
+    font: 13px Arial, Helvetica, sans-serif;
+    color: #000000;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .bookPrice
+{
+    text-align: right;
+    padding-right: 8px;
+    padding-top: 10px;
+    font-size: 12pt;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .bookPrice span
+{
+    color: #FF1515;
+    font-family: Arial, Helvetica, Verdana sans-serif;
+    font-weight: bold;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .addCartButtons
+{
+    padding-top: 10px;
+    text-align: right;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .formatDaisyText
+{
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .formatDaisyText a
+{
+    color: #016dff;
+    text-decoration: underline;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .formatDaisyText a:hover
+{
+    color: #016dff;
+    text-decoration: none;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .bookMiscInfoContiner
+{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: #339933;
+    border: 1px solid #f0f0f0;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background: #FDFFF5;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .bookMiscInfoContiner .bookMiscInfo
+{
+    margin-left: 30px;
+    padding-top: 10px;
+    font-family: Arial, Helvetica, Verdana sans-serif;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .bookMiscInfoContiner .bookMiscInfo .InfoHead
+{
+    font-weight: bold;
+}
+
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .bookMiscInfoContiner .bookMiscInfo .PodMsg
+{
+    font-weight: bold;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .bookMiscInfoContiner .bookMiscInfo .InfoHead a
+{
+    text-decoration: underline;
+    color: #016dff;
+}
+
+#SiteContainer .CenterContent .bookMainContainer .bookText .bookMiscInfoContiner .bookMiscInfo .InfoHead a
+{
+    text-decoration: none;
+    color: #016dff;
+}
+
+/*-------------------Editorial Review-------------------*/
+
+#SiteContainer .CenterContent .editorialreview
+{
+    background: #FDFFF5;
+    padding-bottom: 10px;
+    border: 1px solid #f0f0f0;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#SiteContainer .CenterContent .editorialreview .editorialreviewmainheading
+{
+    margin-left: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #739BC3;
+    font-family: Arial Narrow, Arial, Helvetica, Verdana sans-serif;
+    padding-top: 10px;
+}
+#SiteContainer .CenterContent .editorialreview .editorialreviewheading
+{
+    background-color: Transparent;
+    margin-left: 30px;
+    height: 25px;
+    vertical-align: bottom;
+    padding-top: 10px;
+}
+
+#SiteContainer .CenterContent .editorialreview .editorialreviewheading p
+{
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+#SiteContainer .CenterContent .editorialreview .titlepagetext p
+{
+    padding-top: 5px;
+    margin-left: 30px;
+    margin-right: 20px;
+    background-color: Transparent;
+    text-align: justify;
+    padding-bottom: 10px;
+}
+
+#SiteContainer .CenterContent .editorialreview .titlepagetext ul
+{
+    padding-top: 5px;
+    margin-left: 30px;
+    margin-right: 20px;
+    background-color: Transparent;
+    text-align: justify;
+    padding-bottom: 10px;
+    list-style-type: disc;
+}
+
+/*-------------------About Book-------------------*/
+
+#SiteContainer .CenterContent .aboutBook
+{
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#SiteContainer .CenterContent .aboutBook .aboutBookTitle
+{
+    font-size: 21px;
+    font-family: Arial Narrow, Arial, Helvetica, Verdana sans-serif;
+    padding-bottom: 10px;
+}
+
+#SiteContainer .CenterContent .aboutBook .aboutBookTitle a
+{
+    text-decoration: underline;
+    color: #016dff;
+}
+
+#SiteContainer .CenterContent .aboutBook .aboutBookTitle a:hover
+{
+    text-decoration: none;
+    color: #016dff;
+}
+
+#SiteContainer .CenterContent .aboutBook .aboutBookText p
+{
+    background-color: Transparent;
+    text-align: justify;
+    padding-bottom: 10px;
+}
+
+#SiteContainer .CenterContent .aboutBook .aboutBookText a
+{
+    background-color: Transparent;
+    text-align: justify;
+    height: 65px;
+    font-size: 11px;
+    color: #016dff;
+}
+
+/*-------------------About Author-------------------*/
+
+#SiteContainer .CenterContent .aboutAuthor
+{
+    border-top: 1px;
+    padding-top: 15px;
+    border: 1px solid #f0f0f0;
+    margin-bottom: 10px;
+    margin: 20px 0 0 10px;
+    margin-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+
+#SiteContainer .CenterContent .aboutAuthor .aboutAuthorTitle
+{
+    font-size: 21px;
+    font-family: Arial Narrow, Arial, Helvetica, Verdana sans-serif;
+    padding-bottom: 10px;
+}
+#SiteContainer .CenterContent .aboutAuthor .aboutAuthorTitle a
+{
+    text-decoration: underline;
+    color: #016dff;
+}
+
+#SiteContainer .CenterContent .aboutAuthor .aboutAuthorTitle a:hover
+{
+    text-decoration: none;
+    color: #016dff;
+}
+
+#SiteContainer .CenterContent .aboutAuthor .aboutAuthorText p
+{
+    text-align: justify;
+}
+
+/*-------------------Book Comments-------------------*/
+
+#SiteContainer .CenterContent .bookComments
+{
+    background: #FDFFF5;
+    border: 1px solid #f0f0f0;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 15px;
+}
+
+#SiteContainer .CenterContent .bookComments .bookCommentsMainTitle
+{
+    padding-top: 15px;
+    font-size: 22px;
+    font-family: Segoe Condensed, Arial, Helvetica, Verdana sans-serif;
+    color: #339933;
+}
+
+#SiteContainer .CenterContent .bookComments .bookCommentsTitle
+{
+    padding-top: 20px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#SiteContainer .CenterContent .bookComments .bookCommentsTitle .commentTitle
+{
+    float: left;
+    height: 14px;
+    font-family: Arial, Helvetica, Verdana sans-serif;
+}
+
+#SiteContainer .CenterContent .bookComments .bookCommentsTitle .commentRating
+{
+    height: 14px;
+    text-align: right;
+    float: right;
+}
+
+#SiteContainer .CenterContent .bookComments .commentsMeta
+{
+    margin-top: 20px;
+    margin-bottom: 15px;
+    border-top: thin solid rgb(228, 228, 228);
+    border-bottom: thin solid rgb(228, 228, 228);
+    padding-top: 1px;
+    font-size: 13px;
+    font-weight: normal;
+    color: #5B5B5B;
+}
+
+#SiteContainer .CenterContent .bookComments .commentsMeta .commentsBy
+{
+    float: left;
+}
+
+#SiteContainer .CenterContent .bookComments .commentsMeta .commentsDate
+{
+    text-align: right;
+}
+
+#SiteContainer .CenterContent .bookComments .bookCommentsText
+{
+    color: Black;
+    font-weight: normal;
+    font-family: Arial Narrow, Arial, Helvetica, Verdana sans-serif;
+    font-size: 15px;
+}
+
+#SiteContainer .CenterContent .bookComments .bookCommentsText p
+{
+    background-color: Transparent;
+    margin-right: 08px;
+    text-align: justify;
+    padding-bottom: 10px;
+}
+
+#SiteContainer .CenterContent .bookComments .addNewComment
+{
+    display: block;
+    text-align: right;
+}
+
+#SiteContainer .CenterContent .bookComments .addNewComment a
+{
+    color: #016dff;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+#SiteContainer .CenterContent .bookComments .addNewComment a:hover
+{
+    color: #016dff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/*-------------------Author More Books-------------------*/
+#SiteContainer .CenterContent .authorMoreBooks
+{
+    margin-top: 40px;
+}
+
+#SiteContainer .CenterContent .authorMoreBooks .sectionHeading
+{
+    margin-left: 30px;
+    font-size: large;
+    font-weight: bold;
+    color: #016DFF;
+}
+
+
+/* Rating */
+#SiteContainer .CenterContent .bookComments .bookCommentsTitle .commentRating .ratingStar
+{
+    width: 13px;
+    height: 12px;
+    float: right;
+    cursor: pointer;
+    background-repeat: no-repeat;
+}
+
+#SiteContainer .CenterContent .bookComments .bookCommentsTitle .commentRating .filledRatingStar
+{
+    background-image: url(../Images/FilledStar.png);
+}
+
+#SiteContainer .CenterContent .bookComments .bookCommentsTitle .commentRating .emptyRatingStar
+{
+    background-image: url(../Images/EmptyStar.png);
+}
+
+#SiteContainer .CenterContent .bookComments .bookCommentsTitle .commentRating .savedRatingStar
+{
+    background-image: url(../Images/SavedStar.png);
+}
+
+/*Feedback Page*/
+#SiteContainer .CenterContent .feedbackContainer .feedback-Title
+{
+    float: left;
+    height: 22px;
+    margin: 20px 0 10px 0;
+    font-size: 16px;
+    color: #339933;
+    padding-bottom: 10px;
+    display: block;
+    width: 500px;
+    font-weight: bold;
+}
+#SiteContainer .CenterContent .feedbackContainer .feedback-Title a
+{
+    text-decoration: underline;
+    color: #016dff;
+}
+#SiteContainer .CenterContent .feedbackContainer .feedback-Title a:hover
+{
+    color: #016dff;
+    text-decoration: none;
+}
+#SiteContainer .CenterContent .feedbackContainer .feedback-box
+{
+    width: 532px;
+    border-bottom: 1px solid #e4e4e4;
+    padding: 20px 0 20px 0;
+    padding-left: 15px;
+}
+#SiteContainer .CenterContent .feedbackContainer .feedback-box .formBox
+{
+    height: 35px;
+    padding-left: 15px;
+}
+#SiteContainer .CenterContent .feedbackContainer .feedback-box .formBox .title
+{
+    margin: 0px;
+    height: 25px;
+    width: 179px;
+    float: left;
+}
+#SiteContainer .CenterContent .feedbackContainer .feedback-box .formBox .field
+{
+    margin: 0px;
+    height: 25px;
+    width: 179px;
+    float: left;
+    background-image: url(../images/input-white.gif);
+    background-repeat: no-repeat;
+}
+#SiteContainer .CenterContent .feedbackContainer .feedback-box .formBox .fieldBox
+{
+    background: none;
+    border: none;
+    width: 179px;
+    height: 15px;
+    width: 165px;
+    margin: 0;
+    padding: 3px 7px 0px 7px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+#SiteContainer .CenterContent .feedbackContainer .feedback-box .submitButton
+{
+    float: left;
+    width: 68px;
+    height: 30px;
+    background: url(../images/submit.jpg) no-repeat;
+    padding: 8px 0 0 5px;
+    border: 0;
+    margin-left: 440px;
+}
+/*Rating Feedback Page*/
+#SiteContainer .CenterContent .feedbackContainer .ratingContainer
+{
+    height: 20px;
+    float: right;
+    vertical-align: middle;
+    display: block;
+}
+#SiteContainer .CenterContent .feedbackContainer .ratingContainer .commentRating
+{
+    height: 14px;
+    text-align: right;
+    float: right;
+    padding-right: 5px;
+    vertical-align: middle;
+}
+
+#SiteContainer .CenterContent .feedbackContainer .ratingContainer .commentRating .ratingStar
+{
+    width: 13px;
+    height: 12px;
+    float: right;
+    cursor: pointer;
+    background-repeat: no-repeat;
+}
+
+#SiteContainer .CenterContent .feedbackContainer .ratingContainer .commentRating .filledRatingStar
+{
+    background-image: url(../Images/FilledStar.png);
+}
+
+#SiteContainer .CenterContent .feedbackContainer .ratingContainer .commentRating .emptyRatingStar
+{
+    background-image: url(../Images/EmptyStar.png);
+}
+
+#SiteContainer .CenterContent .feedbackContainer .ratingContainer .commentRating .savedRatingStar
+{
+    background-image: url(../Images/SavedStar.png);
+}
+
+/*Advanced Search*/
+#SiteContainer .CenterContent .advancedSearchBox
+{
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#SiteContainer .CenterContent .advancedSearchBox .advancedSearchTitle
+{
+    font-size: 21px;
+    font-family: Arial, Helvetica, Verdana sans-serif;
+    padding-bottom: 10px;
+}
+
+#SiteContainer .CenterContent .advancedSearchBox .advancedSearchFieldName
+{
+    background-color: Transparent;
+    width: 500px;
+    padding-bottom: 10px;
+}
+
+#SiteContainer .CenterContent .advancedSearchBox .advancedSearchFieldName .Form
+{
+    margin-left: 150px;
+    width: 307px;
+    height: 32px;
+    background: url(../images/big-input.gif) no-repeat;
+    border: none;
+    padding: 4px 0 0 10px;
+}
+#SiteContainer .CenterContent .advancedSearchBox .advancedSearchFieldName .Selection
+{
+    height: 25px;
+    padding: 4px 0 0 10px;
+    margin-left: 150px;
+}
+#SiteContainer .CenterContent .advancedSearchBox input.SearchBtnBlue
+{
+    float: right;
+    height: 22px;
+    width: 68px;
+    background: url(../images/search_btn.png) no-repeat;
+    border: 0;
+}
+
+
+
+/*Format Search*/
+#SiteContainer .CenterContent .FormatSearchBox
+{
+    border-top: 1px;
+    border: 1px solid #f0f0f0;
+    margin-bottom: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    float: left;
+}
+
+#SiteContainer .CenterContent .FormatSearchBox .FormatSearchTitle
+{
+    font-size: 21px;
+    font-family: Arial Narrow, Arial, Helvetica, Verdana sans-serif;
+    padding-bottom: 10px;
+}
+
+#SiteContainer .CenterContent .FormatSearchBox .FormatSearchText
+{
+    float: left;
+    width: 230px;
+}
+
+#SiteContainer .CenterContent .FormatSearchBox .FormatSearchText p
+{
+    text-align: justify;
+    font-size: 13px;
+}
+
+#SiteContainer .CenterContent .FormatSearchBox .FormContainer
+{
+    width: 280px;
+    left: 230px;
+    float: left;
+    padding-left: 10px;
+    font-size: 13px;
+}
+
+#SiteContainer .CenterContent .FormatSearchBox .FormContainer .Form
+{
+    float: left;
+    width: 190px;
+    height: 24px;
+    background: url(../images/search-form.gif) no-repeat;
+    border: none;
+    padding: 8px 0 0 5px;
+}
+#SiteContainer .CenterContent .FormatSearchBox .FormContainer a
+{
+    color: #016dff;
+    text-decoration: underline;
+}
+#SiteContainer .CenterContent .FormatSearchBox .FormContainer a
+{
+    color: #016dff;
+    text-decoration: none;
+}
+#SiteContainer .CenterContent .FormatSearchBox .FormContainer .FormatSearchBtn
+{
+    float: left;
+    width: 68px;
+    height: 30px;
+    background: url(../images/search-btn.gif) no-repeat;
+    padding: 8px 0 0 5px;
+    border: 0;
+}
+
+
+/*-------------------Registeration-------------------*/
+#SiteContainer .CenterContent .Reg-Title
+{
+    float: left;
+    width: 546px;
+    height: 22px;
+    background: url(../images/registration.jpg) no-repeat;
+    margin: 20px 0 10px 0;
+}
+#SiteContainer .CenterContent .Reg-box
+{
+    width: 532px;
+    border-bottom: 1px solid #e4e4e4;
+    padding: 20px 0 20px 0;
+    padding-left: 15px;
+}
+#SiteContainer .CenterContent .Reg-box .formBox
+{
+    height: 35px;
+    padding-left: 15px;
+}
+#SiteContainer .CenterContent .Reg-box .formBox .title
+{
+    margin: 0px;
+    height: 25px;
+    width: 179px;
+    float: left;
+}
+#SiteContainer .CenterContent .Reg-box .formBox .field
+{
+    margin: 0px;
+    height: 25px;
+    width: 179px;
+    float: left;
+    background-image: url(../images/input-white.gif);
+    background-repeat: no-repeat;
+}
+#SiteContainer .CenterContent .Reg-box .formBox .fieldBox
+{
+    background: none;
+    border: none;
+    width: 179px;
+    height: 15px;
+    width: 165px;
+    margin: 0;
+    padding: 3px 7px 0px 7px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+#SiteContainer .CenterContent .Reg-box .formBox .field .validator
+{
+}
+
+/*-------------------Change Password-------------------*/
+#SiteContainer .CenterContent .CP-Title
+{
+    width: 546px;
+    height: 22px;
+    background: url(../images/change_password.jpg) no-repeat;
+    margin: 20px 0 10px 0;
+}
+#SiteContainer .CenterContent .CP-box
+{
+    width: 532px;
+    border-bottom: 1px solid #e4e4e4;
+    padding: 20px 0 20px 0;
+    padding-left: 15px;
+}
+#SiteContainer .CenterContent .CP-box .formBoxC
+{
+    padding-left: 15px;
+}
+#SiteContainer .CenterContent .CP-box .formBoxC .titleC
+{
+    margin: 0px;
+    height: 25px;
+    width: 179px;
+    float: left;
+}
+#SiteContainer .CenterContent .CP-box .formBoxC .fieldC
+{
+    margin: 0px;
+    height: 25px;
+    width: 179px;
+    float: left;
+    background-image: url(../images/input-white.gif);
+    background-repeat: no-repeat;
+}
+#SiteContainer .CenterContent .CP-box .formBoxC .fieldBoxC
+{
+    background: none;
+    border: none;
+    width: 179px;
+    height: 15px;
+    margin: 0;
+    padding: 3px 7px 0px 7px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+#SiteContainer .CenterContent .CP-box .formBoxC .SubmitBtnBlueC
+{
+    width: 68px;
+    height: 30px;
+    display: block;
+    background: url(../images/submit.jpg) no-repeat;
+    background-position: top;
+    margin: 70px 0 0 0px;
+}
+
+/*-------------------Forgot Password-------------------*/
+#SiteContainer .CenterContent .FP-Title
+{
+    position: absolute;
+    width: 546px;
+    height: 22px;
+    background: url(../images/Forgot-Password.jpg) no-repeat;
+    margin: 20px 0 10px 0;
+}
+#SiteContainer .CenterContent .FP-box
+{
+    width: 532px;
+    border-bottom: 1px solid #e4e4e4;
+    padding: 20px 0 20px 0;
+    padding-left: 15px;
+}
+#SiteContainer .CenterContent .FP-box .formBoxF
+{
+    padding-left: 15px;
+    padding-top: 40px;
+}
+#SiteContainer .CenterContent .FP-box .formBoxF .titleF
+{
+    margin: 0px;
+    height: 25px;
+    width: 120px;
+    float: left;
+}
+#SiteContainer .CenterContent .FP-box .formBoxF .fieldF
+{
+    margin: 0px;
+    height: 25px;
+    width: 179px;
+    float: left;
+    background-image: url(../images/input-white.gif);
+    background-repeat: no-repeat;
+}
+#SiteContainer .CenterContent .FP-box .formBoxF .fieldBoxF
+{
+    background: none;
+    border: none;
+    width: 179px;
+    height: 15px;
+    margin: 0;
+    padding: 3px 7px 0px 7px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+#SiteContainer .CenterContent .FP-box .formBoxF a.SubmitBtnBlueF
+{
+    width: 368px;
+    height: 30px;
+    display: block;
+    background: url(../images/submit.jpg) no-repeat;
+    margin: 0 0 0 150px;
+}
+
+
+.small
+{
+    font-size: 9px;
+    color: #999999;
+}
+.red
+{
+    color: #FF0000;
+}
+
+/*-------------------Login-------------------*/
+#SiteContainer .CenterContent .login-Title
+{
+    position: absolute;
+    width: 546px;
+    height: 22px;
+    background: url(../images/sign-in.jpg) no-repeat;
+    margin: 20px 0 10px 0;
+}
+#SiteContainer .CenterContent .login-box
+{
+    width: 532px;
+    border-bottom: 1px solid #e4e4e4;
+    padding: 20px 0 20px 0;
+    padding-left: 15px;
+}
+#SiteContainer .CenterContent .login-box .formBoxC
+{
+    padding-left: 15px;
+}
+#SiteContainer .CenterContent .login-box .formBoxC .titleC
+{
+    margin: 0px;
+    height: 25px;
+    width: 179px;
+    float: left;
+}
+#SiteContainer .CenterContent .login-box .formBoxC .fieldC
+{
+    margin: 0px;
+    height: 25px;
+    width: 179px;
+    float: left;
+    background-image: url(../images/input-white.gif);
+    background-repeat: no-repeat;
+}
+#SiteContainer .CenterContent .login-box .formBoxC .fieldBoxC
+{
+    background: none;
+    border: none;
+    width: 179px;
+    height: 15px;
+    margin: 0;
+    padding: 3px 7px 0px 7px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+#SiteContainer .CenterContent .login-box .LoginCheckBox
+{
+    color: #000000;
+    padding-left: 10px;
+}
+#SiteContainer .CenterContent .login-box .SubmitBoxC
+{
+}
+#SiteContainer .CenterContent .soptions
+{
+    background: url(../images/search-arrow.gif) left 6px no-repeat;
+    padding-left: 15px;
+    font-size: 11px;
+    color: #016dff;
+    margin: 0px 0 0 10px;
+}
+#SiteContainer .CenterContent .soptions a
+{
+    color: #016dff;
+    text-decoration: underline;
+}
+#SiteContainer .CenterContent .soptions a:hover
+{
+    color: #016dff;
+    text-decoration: none;
+}
+
+/*-------------------Login Pop-up-------------------*/
+.login
+{
+    width: 310px;
+    height: 132px;
+    background: url(../images/login.jpg) no-repeat;
+}
+.login .CP-box
+{
+    width: 310px;
+    padding: 20px 0 20px 0;
+    padding-left: 5px;
+}
+.login .CP-box .formBoxC
+{
+    padding-left: 5px;
+}
+.login .CP-box .formBoxC .titleC
+{
+    margin: 0px;
+    height: 25px;
+    width: 90px;
+    float: left;
+}
+.login .CP-box .formBoxC .fieldC
+{
+    margin: 0px;
+    height: 25px;
+    width: 210px;
+    float: left;
+    background-image: url(../images/input-white.gif);
+    background-repeat: no-repeat;
+}
+.login .CP-box .formBoxC .fieldBoxC
+{
+    background: none;
+    border: none;
+    width: 179px;
+    height: 15px;
+    margin: 0;
+    padding: 3px 7px 0px 7px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+.login .CP-box .formBoxC a.SubmitBtnBlueC
+{
+    width: 68px;
+    height: 32px;
+    display: block;
+    background: url(../images/submit2.png) no-repeat;
+    background-position: top;
+    margin: 20px 0 0 0px;
+}
+
+
+/*-------------------view shopping cart-------------------*/
+#SiteContainer .CenterContent .containerS2
+{
+    width: 758px;
+    height: 500px;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#SiteContainer .CenterContent .containerS2 .P-Title
+{
+    height: 36px;
+    width: 676px;
+    display: block;
+    background-image: url(../images/shopping-cart2.gif);
+    background-repeat: no-repeat;
+    background-position: top;
+    float: left;
+}
+#SiteContainer .CenterContent .containerS2 .P-Title2
+{
+    height: 36px;
+    width: 76px;
+    display: block;
+    background-image: url(../images/shopping-cart-empty.gif);
+    background-repeat: no-repeat;
+    background-position: top;
+    float: left;
+}
+#SiteContainer .CenterContent .containerS2 .P-line
+{
+    border-bottom: 1px solid #CCCCCC;
+    margin-top: 2px;
+    margin-bottom: 10px;
+    width: 758px;
+}
+
+#SiteContainer .CenterContent .containerS2 .P-txt1
+{
+    height: 20px;
+    width: 758px;
+    float: left;
+    font-weight: bold;
+}
+#SiteContainer .CenterContent .containerS2 .P-txt2
+{
+    height: 20px;
+    width: 758px;
+    float: left;
+    font-size: 12px;
+}
+#SiteContainer .CenterContent .containerS2 .P-gap
+{
+    height: 20px;
+    width: 758px;
+}
+
+#SiteContainer .CenterContent .containerS2 .carta
+{
+    border-bottom: 1px inset #FFFFFF;
+    background-color: #F7F7F7;
+    width: 750px;
+    height: 30px;
+    font-size: 11px;
+}
+#SiteContainer .CenterContent .containerS2 .carta1
+{
+    border-right: 1px inset #FFFFFF;
+    width: 230px;
+    height: 25px;
+    float: left;
+    text-align: left;
+    padding: 5px 0 0 5px;
+}
+#SiteContainer .CenterContent .containerS2 .carta2
+{
+    border-right: 1px inset #FFFFFF;
+    width: 170px;
+    height: 25px;
+    float: left;
+    text-align: left;
+    padding: 5px 0 0 10px;
+}
+#SiteContainer .CenterContent .containerS2 .carta3
+{
+    border-right: 1px inset #FFFFFF;
+    width: 100px;
+    height: 25px;
+    float: left;
+    text-align: center;
+    padding: 5px 0 0 5px;
+}
+#SiteContainer .CenterContent .containerS2 .carta4
+{
+    border-right: 1px inset #FFFFFF;
+    width: 125px;
+    height: 25px;
+    float: left;
+    text-align: center;
+    padding: 5px 0 0 5px;
+}
+#SiteContainer .CenterContent .containerS2 .carta5
+{
+    width: 50px;
+    float: left;
+    padding: 5px 0 0 25px;
+}
+
+#SiteContainer .CenterContent .containerS2 .cartb
+{
+    border-bottom: 1px inset #FFFFFF;
+    background-color: #F7F7F7;
+    width: 750px;
+    height: 75px;
+    font-size: 11px;
+}
+#SiteContainer .CenterContent .containerS2 .cartb1
+{
+    border-right: 1px inset #FFFFFF;
+    width: 230px;
+    height: 70px;
+    float: left;
+    text-align: left;
+    padding: 5px 0 0 5px;
+}
+#SiteContainer .CenterContent .containerS2 .cartb1_im
+{
+    width: 43px;
+    float: left;
+    text-align: left;
+    padding: 0px 0 0 0px;
+}
+#SiteContainer .CenterContent .containerS2 .cartb1_txt
+{
+    width: 180px;
+    float: left;
+    text-align: left;
+    padding: 0px 0 0 5px;
+}
+#SiteContainer .CenterContent .containerS2 .cartb1_txt .bluec
+{
+    font-size: 13px;
+    text-decoration: underline;
+    color: #006BFF;
+    font-weight: bold;
+}
+#SiteContainer .CenterContent .containerS2 .cartb1_txt .normalc
+{
+    font-size: 12px;
+    line-height: 20px;
+}
+#SiteContainer .CenterContent .containerS2 .cartb1_txt .normalcb
+{
+    font-size: 12px;
+    font-weight: bold;
+}
+#SiteContainer .CenterContent .containerS2 .cartb1_txt .greyc
+{
+    font-size: 10px;
+    color: #999999;
+}
+#SiteContainer .CenterContent .containerS2 .cartb4_txt_red
+{
+    font-size: 13px;
+    color: #FF0000;
+    font-weight: bold;
+}
+#SiteContainer .CenterContent .containerS2 .cartb5_txt_maroon
+{
+    font-size: 12px;
+    color: #BD0018;
+    text-decoration: underline;
+    text-align: center;
+}
+#SiteContainer .CenterContent .containerS2 .cartb2_txt
+{
+    float: left;
+    text-align: left;
+    padding-left: 3px;
+}
+#SiteContainer .CenterContent .containerS2 .cartb2_txt .normalcb
+{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#SiteContainer .CenterContent .containerS2 .cartb2
+{
+    border-right: 1px inset #FFFFFF;
+    width: 178px;
+    height: 50px;
+    float: left;
+    text-align: left;
+    padding: 25px 0 0 2px;
+}
+#SiteContainer .CenterContent .containerS2 .cartb3
+{
+    border-right: 1px inset #FFFFFF;
+    width: 103px;
+    height: 50px;
+    float: left;
+    text-align: center;
+    padding: 25px 0 0 2px;
+}
+#SiteContainer .CenterContent .containerS2 .cartb4
+{
+    border-right: 1px inset #FFFFFF;
+    width: 128px;
+    height: 50px;
+    float: left;
+    text-align: center;
+    padding: 25px 0 0 2px;
+}
+#SiteContainer .CenterContent .containerS2 .cartb5
+{
+    width: 53px;
+    float: left;
+    padding: 25px 0 0 25px;
+}
+
+#SiteContainer .CenterContent .containerS2 .cartb3 .formBoxC
+{
+    padding-left: 25px;
+    height: 25px;
+}
+#SiteContainer .CenterContent .containerS2 .cartb3 .formBoxC .fieldC2
+{
+    margin-left: 0;
+    height: 21px;
+    width: 48px;
+    float: left;
+    background-image: url(../images/input-txt.gif);
+    background-repeat: no-repeat;
+}
+#SiteContainer .CenterContent .containerS2 .cartb3 .formBoxC .fieldBoxC
+{
+    text-align: center;
+    background: none;
+    border: none;
+    width: 48px;
+    height: 21px;
+    margin: 0;
+    padding: 3px 7px 0px 7px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+
+#SiteContainer .CenterContent .containerS2 .cartc
+{
+    width: 758px;
+    height: 25px;
+    font-size: 11px;
+}
+#SiteContainer .CenterContent .containerS2 .cartc_txt
+{
+    width: 758px;
+    float: left;
+    text-align: right;
+    padding: 0px 0px 0 0px;
+}
+#SiteContainer .CenterContent .containerS2 .cartc_txt .black
+{
+    font-size: 15px;
+    color: #000000;
+}
+#SiteContainer .CenterContent .containerS2 .cartc_txt .black_b
+{
+    font-size: 15px;
+    color: #000000;
+    font-weight: bold;
+}
+#SiteContainer .CenterContent .containerS2 .cartc_txt .red
+{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#SiteContainer .CenterContent .containerS2 .cartd
+{
+    width: 758px;
+    height: 35px;
+    font-size: 11px;
+    margin-right: 0px;
+}
+#SiteContainer .CenterContent .containerS2 .cartd .formBoxB
+{
+    float: right;
+}
+#SiteContainer .CenterContent .containerS2 .cartd .formBoxB a.SubmitBtn1
+{
+    float: left;
+    margin-right: 3px;
+    width: 154px;
+    height: 31px;
+    display: block;
+    background: url(../images/continueshopping_btn.png) no-repeat;
+    background-position: top;
+}
+#SiteContainer .CenterContent .containerS2 .cartd .formBoxB a.SubmitBtn2
+{
+    float: left;
+    margin-right: 5px;
+    width: 94px;
+    height: 31px;
+    display: block;
+    background: url(../images/checkout_btn.png) no-repeat;
+    background-position: top;
+}
+#SiteContainer .CenterContent .containerS2 .cartd .formBoxB a.SubmitBtn3
+{
+    float: left;
+    margin-right: 5px;
+    width: 114px;
+    height: 31px;
+    display: block;
+    background: url(../images/updatecart_btn.png) no-repeat;
+    background-position: top;
+}
+
+#SiteContainer .CenterContent .containerS2 .maroon
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #BD0018;
+}
+#SiteContainer .CenterContent .containerS2 .blue
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-decoration: underline;
+    color: #006BFF;
+    font-weight: bold;
+}
+#SiteContainer .CenterContent .containerS2 .blue2
+{
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-size: 12px;
+    color: #006BFF;
+    font-weight: bold;
+}
+#SiteContainer .CenterContent .containerS2 .red
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #FF0000;
+    font-weight: bold;
+}
+
+/**********login or register css*************/
+#SiteContainer .CenterContent .lr-Title
+{
+    width: 546px;
+    height: 22px;
+    background: url(../images/my-account.jpg) no-repeat;
+    margin: 10px 0 0px 0;
+}
+#SiteContainer .CenterContent .b-box
+{
+    width: 750px;
+    border: 2px solid #CCCCCC;
+    margin-top: 10px;
+    margin-left: 6px;
+    padding-bottom: 20px;
+    height: 230px;
+}
+#SiteContainer .CenterContent .b-box .bg
+{
+    background-image: url(../images/lr.gif);
+    height: 29px;
+}
+#SiteContainer .CenterContent .b-box .title
+{
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+#SiteContainer .CenterContent .b-box .t-box
+{
+    width: 750px;
+    height: 10px;
+}
+#SiteContainer .CenterContent .b-box .l-box
+{
+    width: 355px;
+    padding-left: 5px;
+    float: left;
+}
+#SiteContainer .large-box
+{
+    width: 450px;
+    padding-left: 5px;
+    float: left;
+}
+#SiteContainer .CenterContent .b-box .m-box
+{
+    width: 10px;
+    height: 200px;
+    border-left: 2px solid #e4e4e4;
+    float: left;
+}
+#SiteContainer .CenterContent .b-box .r-box
+{
+    width: 355px;
+    padding-left: 5px;
+    float: left;
+}
+
+#SiteContainer .CenterContent .b-box .l-box .formBoxC
+{
+}
+#SiteContainer .CenterContent .b-box .l-box .formBoxC .titleC
+{
+    margin: 0px;
+    height: 25px;
+    width: 100px;
+    float: left;
+}
+#SiteContainer .CenterContent .b-box .l-box .formBoxC .fieldC
+{
+    margin: 0px;
+    height: 25px;
+    width: 179px;
+    float: left;
+    background-image: url(../images/input-white.gif);
+    background-repeat: no-repeat;
+}
+#SiteContainer .CenterContent .b-box .l-box .formBoxC .fieldBoxC
+{
+    background: none;
+    border: none;
+    width: 179px;
+    height: 15px;
+    margin: 0;
+    padding: 3px 7px 0px 7px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+#SiteContainer .CenterContent .b-box .l-box .formBoxC a.SubmitBtnBlueC
+{
+    width: 68px;
+    height: 25px;
+    display: block;
+    background: url(../images/sign-in.jpg) no-repeat;
+    background-position: top;
+    margin: 10px 0px 10px 100px;
+}
+#SiteContainer .CenterContent .optionsB
+{
+    margin-left: 90px;
+}
+#SiteContainer .CenterContent .optionsB .soptions
+{
+    background: url(../images/search-arrow.gif) left 6px no-repeat;
+    font-size: 11px;
+    color: #016dff;
+}
+#SiteContainer .CenterContent .optionsB .soptions a
+{
+    color: #016dff;
+    text-decoration: underline;
+}
+#SiteContainer .CenterContent .optionsB .soptions a:hover
+{
+    color: #016dff;
+    text-decoration: none;
+}
+
+
+#SiteContainer .CenterContent .b-box .r-box .formBoxR
+{
+    padding-left: 15px;
+}
+#SiteContainer .CenterContent .b-box .r-box .formBoxR .titleC
+{
+    margin: 0px;
+    height: 25px;
+    width: 150px;
+    float: left;
+}
+#SiteContainer .CenterContent .b-box .r-box .formBoxR .fieldC
+{
+    margin: 0px;
+    height: 25px;
+    width: 179px;
+    float: left;
+    background-image: url(../images/input-white.gif);
+    background-repeat: no-repeat;
+}
+#SiteContainer .CenterContent .b-box .r-box .formBoxR .fieldBoxC
+{
+    background: none;
+    border: none;
+    width: 179px;
+    height: 15px;
+    margin: 0;
+    padding: 3px 7px 0px 7px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+#SiteContainer .CenterContent .b-box .r-box .formBoxR a.SubmitBtnBlueC
+{
+    width: 130px;
+    height: 25px;
+    display: block;
+    background: url(../images/create-account.jpg) no-repeat;
+    background-position: top;
+    margin: 10px 0px 10px 150px;
+}
+
+
+
+.LPEmphasisBoxRed
+{
+    margin-top: 20px;
+    min-height: 550px;
+    border: solid 7px #C00000;
+}
+.LPEmphasisBoxRed .largePrintInnerBox
+{
+    height: 140px;
+    margin-bottom: 15px;
+    overflow: hidden;
+    position: relative;
+    word-spacing: 1px;
+    line-height: 12px;
+    color: #C7C5C5;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 9px;
+    text-align: justify;
+}
+
+.LPEmphasisBoxRed .largePrintInnerBox .largePrintHeadingBlack
+{
+    color: #000;
+    font-size: 40px;
+    line-height: 55px;
+    text-align: center;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    left: 20px;
+}
+
+
+.largePrintHeadingBlue
+{
+    color: #016DFF;
+    font-weight: bold;
+    font-size: 17pt;
+    font-family: Arial;
+}
+
+.LPDescriptionBox
+{
+    border: solid 1px #4360F0;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    min-height: 200px;
+}
+
+.centerHeading
+{
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.description-text
+{
+    margin-top: 15px;
+    padding: 5px;
+    font-size: 12px;
+    color: #5D5E5E;
+    line-height: 12px;
+}
+a.standardLink
+{
+    text-decoration: underline;
+    color: #016dff;
+}
+a.standardLink:hover
+{
+    text-decoration: none;
+}
+
+
+
+.FormListControls
+{
+    width: 255px;
+    border-color: #c4edff;
+}
+
+.FormTextControlsInline
+{
+    width: 175px;
+    text-align: left;
+    float: left;
+    margin-right: 8px;
+}
+.FormTextControls
+{
+    width: 250px;
+    border-color: #c4edff;
+}
+.FormTextControls:hover
+{
+    border-color: #c4edff;
+    background: #f0f4f8;
+}
+.FormTextControls:focus
+{
+    border-color: #c4edff;
+    background: #f0f4f8;
+}
+
+.FormTextControlsInline:hover
+{
+    border-color: #c4edff;
+    background: #f0f4f8;
+}
+.FormTextControlsInline:focus
+{
+    border-color: #c4edff;
+    background: #f0f4f8;
+}
+
+/* by usman ibne sadiq on 12 OCT 2010 */
+.bluepanelbg
+{
+    background-image: url(../images/bluepanel_bg.jpg);
+    background-repeat: repeat-x;
+    font-family: Arial;
+    font-size: 13px;
+    color: #FFFFFF;
+}
+.headerLogo
+{
+    width: 510px;
+    height: 82px;
+    background: url(../../images/header.gif) no-repeat;
+    float: left;
+    display: inline;
+    margin: 10px 0 0 15px;
+}
+.Header
+{
+    width: 1000px;
+    background: url(../images/top-bg.gif) no-repeat;
+    height: 93px;
+}
+
+.toplinks:link
+{
+    font-family: Verdana;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.toplinks:visited
+{
+    font-family: Verdana;
+    font-size: 12px;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.toplinks:hover
+{
+    font-family: Verdana;
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+.helpLine
+{
+    vertical-align: bottom;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin-top: 25px;
+    color: #016DFF;
+    text-align: right;
+}
+.headerLogoLinkArea
+{
+    cursor: pointer;
+    width: 320px;
+    height: 82px;
+    float: left;
+    display: inline;
+}
+.chooseFormatButtonLink
+{
+    cursor: pointer;
+    width: 115px;
+    height: 30px;
+    float: left;
+    display: inline;
+    margin-top: 50px;
+    margin-left: 35px;
+}
+
+/*Model Popup*/
+.modalPopup
+{
+    background-color: #fff;
+}
+.modalBackground
+{
+    background-color: Black;
+    z-index: 99999 !important;
+    top: 0px !important;
+    left: 0px !important;
+    position: absolute !important;
+    -ms-filter: alpha(opacity=50);
+    -moz-opacity: 0.5;
+    -khtml-opacity: 0.5;
+    -ms-opacity: 0.5;
+    filter: alpha(opacity=50);
+    background: rgba(0, 0, 0, 0.5);
+    -mz-filter: alpha(opacity=70);
+    -mz-opacity: 0.7;
+}
+
+.Best-Sel-TitleTxt
+{
+    width: 542px;
+    height: 25px; /*background: url(../images/best-sellers-bg.gif) no-repeat; 	color: #016DFF;*/
+    background: url(../images/page_heading_bg.jpg) no-repeat;
+    color: #FFFFFF;
+    font-size: 16pt;
+    font-family: Verdana;
+    margin: 20px 0 2px 0;
+    padding-top: 7px;
+    padding-left: 10px;
+}
+
+
+
+.CenterContent
+{
+    margin: 0 2px 0 0px;
+    border-right: 1px solid #e4e4e4;
+    border-left: 1px solid #e4e4e4;
+}
+/*Replace this class*/
+#SiteContainer .CenterContent .Best-Sel-TitleTxt
+{
+    width: 542px;
+    height: 25px; /*background: url(../images/best-sellers-bg.gif) no-repeat; 	color: #016DFF;*/
+    background: url(../images/page_heading_bg.jpg) no-repeat;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 16pt;
+    font-family: Verdana;
+    margin: 20px 0 10px 0;
+}
+/* End About Author Classes*/
+
+.PageHeading
+{
+    width: 546px;
+    height: 25px; /*background: url(../images/best-sellers-bg.gif) no-repeat; 	color: #016DFF;*/
+    background: url(../images/page_heading_bg.jpg) no-repeat;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 13pt;
+    font-family: Verdana;
+    padding-top: 8px;
+    padding-left: 7px;
+}
+
+.PageHeading1
+{
+    width: 530px;
+    height: 25px; /*background: url(../images/best-sellers-bg.gif) no-repeat; 	color: #016DFF;*/
+    background: url(../images/page_heading_bg.jpg) no-repeat;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 13pt;
+    font-family: Verdana;
+    padding-top: 8px;
+    padding-left: 7px;
+}
+.contentParagraph
+{
+    padding-top: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-bottom: 10px;
+    text-align: justify;
+}
+.bullet, .bullet_left
+{
+    padding-left: 25px;
+    list-style-image: url(../images/bullet.png);
+}
+.contentHeading
+{
+    font-weight: bold;
+    padding-left: 7px;
+    padding-top: -2px;
+    text-align: justify;
+}
+
+#ProgressBar
+{
+    border-top: solid 1px #ccc;
+    border-left: solid 1px #ccc;
+    border-right: solid 1px #ccc;
+    border-bottom: solid 1px #ccc;
+    border-color: #ffffff;
+    background-color: #ffffff;
+    text-align: center;
+    vertical-align: middle;
+    visibility: hidden;
+}
+.a3:link
+{
+    font-family: Arial;
+    font-size: 11px;
+    color: #00619c;
+    text-decoration: none;
+}
+#lightbox
+{
+    display: none;
+    background: #000000;
+    opacity: 0.5;
+    filter: alpha(opacity=90);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 125%;
+    height: 100%;
+    z-index: 1000;
+}
+#lightbox-panel
+{
+    display: none;
+    position: fixed;
+    top: 125px;
+    left: 35%;
+    background: #FFFFFF;
+    padding: 10px 15px 10px 15px;
+    border: 10px solid #CCCCCC;
+    z-index: 1001;
+}
+#lightbox-panel1
+{
+    display: none;
+    position: fixed;
+    top: 150px;
+    left: 50%; /*width: 310px;*/
+    background: #FFFFFF; /*padding: 10px 15px 10px 15px;*/ /*border: 10px solid #CCCCCC;*/
+    z-index: 1001;
+}
+
+.LoginBar
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    height: 30px;
+    text-align: right;
+    text-decoration: none;
+}
+.a1:link
+{
+    font-family: Arial;
+    font-size: 9px;
+    color: #00619c;
+    text-decoration: none;
+}
+.warningTxt
+{
+    /*font-weight: bold;*/
+    padding-left: 90px;
+    text-align: justify;
+    padding-top: 20px;
+}
+.LeftLinkDiv
+{
+    margin-top: 15px;
+}
+
+.brownbutton
+{
+    font-family: Arial;
+    font-size: 11px;
+    font-weight: bold;
+    color: #0B2442;
+    background-color: #F9D119;
+    background-repeat: repeat-x;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+.brownbutton:hover
+{
+    background-color: #F1AC0F;
+    background-repeat: repeat-x;
+}
+
+/*Styles for Free Book Campaign*/
+.main-heading
+{
+    background: url(../images/free.jpg) top right no-repeat;
+    height: 120px;
+    color: #000;
+    font-size: 30px;
+    line-height: 40px;
+    padding: 0 150px 0 30px;
+    letter-spacing: -1.5px;
+}
+.main-heading span
+{
+    font-weight: bold;
+}
+.mainheadingBook
+{
+    /*background:url(../images/free.jpg) top right no-repeat;*/
+    color: #000;
+    font-size: 30px;
+    line-height: 60px; /*padding:0 150px 0 30px;*/
+    padding-left: 30px;
+    letter-spacing: -1.5px;
+    width: 552px;
+}
+.mainheadingBook .freeImg
+{
+    background: url(../images/free.jpg) no-repeat;
+    width: 147px;
+    height: 114px;
+    float: right;
+    margin-top: 0;
+}
+.messageText
+{
+    color: green;
+    font-weight: bolder;
+    padding: 0 150px 0 30px;
+    width: 500px;
+}
+.LinkText
+{
+    color: #000000;
+    padding: 0 150px 0 30px;
+}
+.BookImageRight
+{
+    width: 130px;
+    height: 190px;
+    border: thin solid rgb(228, 228, 228);
+    padding: 2px;
+    float: right;
+    margin-top: 0px;
+    margin-right: 10px;
+}
+
+.mainheadingBook .FreeImageRight
+{
+    position: relative;
+    margin-right: 50px;
+    margin-top: 20px;
+    padding: 0px;
+    float: right;
+    height: 150px;
+    width: 150px;
+}
+.row
+{
+    margin: 0 0 3px 0;
+}
+p.Text
+{
+    color: #000;
+    font-size: 12px;
+    margin: 0;
+    padding: 10px 0 20px 0;
+}
+p.GetIt
+{
+    color: #000;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 0;
+    padding: 30px 0 0 30px;
+}
+.form-text
+{
+    font-size: 12px;
+    color: #000;
+    width: 70px;
+    float: left;
+    padding: 5px 0 0 30px;
+}
+.input-bg
+{
+    width: 260px;
+    height: 28px;
+    background: url(../images/input-bg.jpg) no-repeat;
+    float: left;
+}
+.input
+{
+    width: 254px;
+    height: 25px;
+    background: none;
+    border: none;
+    padding: 3px 3px 0 3px;
+}
+.submit-bg
+{
+    width: 167px;
+    background: url(../images/download-btn-shadow.jpg) bottom no-repeat;
+    padding: 0 0 19px 0;
+    float: left;
+}
+.content-left
+{
+    width: 335px;
+    float: left;
+    margin: 30px 40px 0 0;
+}
+
+
+.FormTextControls
+{
+    width: 250px;
+    border-color: #c4edff;
+}
+.FormTextControls:hover
+{
+    border-color: #c4edff;
+    background: #f0f4f8;
+}
+.FormTextControls:focus
+{
+    border-color: #c4edff;
+    background: #f0f4f8;
+}
+
+.FormTextControlsInline:hover
+{
+    border-color: #c4edff;
+    background: #f0f4f8;
+}
+.FormTextControlsInline:focus
+{
+    border-color: #c4edff;
+    background: #f0f4f8;
+}
+/*
+.fieldC
+{
+    margin: 0px;
+    height: 25px;
+    width: 179px;
+    float: left;
+    background-image: url(../images/input-white.gif);
+    background-repeat: no-repeat;
+}*/
+/*End of Styles for Free Book Campaign*/
+
+/*23/12/2010 - New Changes*/
+.BookSuggestion
+{
+    padding-top: 6px;
+    width: 765px; /*padding-right: 52px;*/
+    background-color: #eeeeee;
+    margin-top: 15px;
+    border-bottom: 1px solid #e2e2e2;
+    border-top: 1px solid #e2e2e2;
+    height: 30px;
+    float: left;
+    color: Green;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center; /*padding: 5px 0 0 13px;*/
+}
+
+/*ListView Book Control style*/
+
+.NewPaging
+{
+    width: 638px;
+    border-bottom: 1px solid #e4e4e4;
+    padding: 10px 0 10px 0;
+    padding-left: 15px;
+    text-align: center;
+    background: url(../images/paging-background.gif) repeat-x;
+}
+
+.TitleItem
+{
+    color: #000000; /*  border-bottom: 1px solid #f4f4f4;*/
+    padding-bottom: 3px;
+    font-weight: bold;
+    padding-top: 8px;
+    width: 20px;
+    height: 33px;
+    overflow: hidden;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+.Author
+{
+    color: #016dff;
+    width: 10px;
+    height: 35px;
+    overflow: hidden;
+    text-decoration: none;
+}
+
+.price
+{
+    color: #ff1515;
+    font-weight: bold;
+    font-size: x-small;
+    padding-top: 5px;
+}
+a.AddBtn
+{
+    color: #ffffff;
+    background-color: #dc2f3f;
+    height: 16px;
+    float: left;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 2px;
+    white-space: nowrap;
+}
+
+.imgCS
+{
+    width: 100px;
+    height: 129px;
+    border: 0px;
+}
+
+
+.CartNavigation
+{
+    margin: 0px;
+}
+.CartNavigation ul
+{
+    list-style-type: none;
+}
+.CartNavigation ul li
+{
+    float: right;
+    color: #ffffff;
+}
+.CartNavigation ul li a
+{
+    font-size: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+.CartNavigation ul li a:hover
+{
+    text-decoration: none;
+}
+.CartNavigation ul li:hover
+{
+    text-decoration: none;
+}
+.CartText
+{
+    padding-left: 0px;
+    color: #fff;
+}
+
+
+.LeftLinkDiv
+{
+    margin-top: 15px;
+}
+.brownbutton1
+{
+    font-family: Arial;
+    font-size: 11px;
+    font-weight: bold;
+    color: #0B2442;
+    background-color: #F9D119;
+    background-repeat: repeat-x;
+    padding-left: 6px;
+    padding-right: 6px;
+}
+.brownbutton1:hover
+{
+    background-color: #F1AC0F;
+    background-repeat: repeat-x;
+}
+/*End of ListView Book Control style*/
+
+
+
+.FormatSearchBtn
+{
+    float: left;
+    width: 68px;
+    height: 30px;
+    background: url(../images/search-btn.gif) no-repeat;
+    padding: 8px 0 0 5px;
+    border: 0;
+}
+
+
+/*Site Search css styles*/
+.SearchBoxTop
+{
+    height: 25px; /*width: 600px;*/ /*float: left;*/
+    position: relative;
+}
+.DivSearchTop
+{
+    position: absolute;
+    top: 0;
+    left: auto;
+    margin-left: 300px;
+}
+.SearchTypeDropDown
+{
+    width: 163px;
+    font-family: Verdana;
+    font-size: 10px; /*background:url(../images/selectbox-top.gif) no-repeat;*/
+}
+
+.SearchBoxTop .ddSearchTypeSelectionBox
+{
+    padding-left: 10px;
+    color: #000;
+}
+
+
+/*style for this one is defines in style-select2.css*/
+.SearchBoxTop input.SearchTypeDropDown
+{
+    width: 118px;
+    height: 36px;
+    background: url(../images/search-type-dd.jpg) no-repeat;
+}
+.searchBoxInput
+{
+    width: 522px; /*color: #B6B1B1;*/ /*height:30px;*/
+    position: absolute;
+    top: 0;
+    left: 165px;
+    border: solid 1px #8A8A8A; /*background:url(../images/search-form-top.jpg) no-repeat; */ /*border:none; */ /*padding: 6px 0 5px 5px;*/
+    font-family: Verdana;
+    font-weight: bold; /*padding:8px 0 0 5px;*/
+}
+
+#suggestions
+{
+    margin-top: 0px;
+    width: 600px;
+    margin-left: 167px;
+    font-family: Verdana;
+    font-size: 13px;
+}
+
+.suggestionsList
+{
+    margin-top: 0px;
+    display: block;
+    position: relative;
+}
+
+.suggestionsListBox
+{
+    margin-top: 0px; /*width: 190px;*/
+    border: solid 1px #000; /*background-color: #F4F7FA;*/
+}
+
+
+.SuggestionLink
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-align: right;
+    margin-right: 0;
+}
+.suggestionsListItemNormal
+{
+    height: 18px;
+    padding: 0;
+    padding-left: 5px;
+    position: relative;
+    background-color: #fff;
+    width: inherit; /*background-color:Transparent;*/
+}
+
+.suggestionsListItemHigh
+{
+    height: 18px;
+    padding: 0;
+    padding-left: 5px;
+    width: inherit;
+    position: relative;
+    cursor: pointer;
+    background-color: #C6D8E7;
+}
+.suggestionsListBoxCollapsed
+{
+    /*visibility: collapse;*/
+    display: none;
+}
+.headingLevel2
+{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.searchResultLink
+{
+    color: #016dff;
+    font-size: 12pt;
+}
+
+/*classes added for master2.master*/
+
+#ContentContainer #SearchArea
+{
+    /*width: 100%;*/
+    height: 27px;
+    border: solid 1px #ccc;
+    padding-top: 3px;
+    border-top: solid 1px #ccc;
+    border-bottom: solid 1px #ccc;
+    background-color: #575757 /*1d3f60*/;
+}
+#ContentContainer #SearchArea select
+{
+    border: solid 2px #8A8A8A /*1A5C97*/;
+}
+#ContentContainer #SearchArea input.button
+{
+    border: solid 2px #8A8A8A;
+}
+
+
+
+/*
+.DivSearchTop .AdvanceSearch { background:url(../images/search-arrow.gif) left 6px no-repeat; padding-left:15px; font-size:11px; color:#016dff; /*margin:0px 0 0 20px;*//*}
+.DivSearchTop .AdvanceSearch a {color:#016dff; text-decoration:underline;}
+.DivSearchTop .AdvanceSearch a:hover {color:#016dff; text-decoration: none;}
+
+.DivSearchTop .AdvanceSearch a.one {position: absolute; top: 0; left: 30px; }
+.DivSearchTop .AdvanceSearch a.two {position: absolute; top: 0; left: 60px; }*/
+
+.AdvanceSearch
+{
+    position: absolute;
+    top: 0;
+    left: auto;
+    margin-left: 695px;
+    font-size: 11px;
+}
+
+.AdvanceSearch UL
+{
+    display: inline;
+    vertical-align: bottom;
+}
+.AdvanceSearch LI
+{
+    display: inline;
+    margin-left: 6px;
+}
+
+/*
+.AdvanceSearch LI a {background:url(../images/search-arrow.gif) left center no-repeat; color:#016dff; text-decoration:underline; padding-left: 12px;}
+.AdvanceSearch LI a:hover {background:url(../images/search-arrow.gif) left center no-repeat; color:#016dff; text-decoration: none;  padding-left: 12px;}
+*/
+
+.AdvanceSearch LI a
+{
+    color: #fff;
+    text-decoration: underline;
+    padding-left: 12px;
+}
+.AdvanceSearch LI a:hover
+{
+    color: #fff;
+    text-decoration: none;
+    padding-left: 12px;
+}
+
+
+
+/*
+div.suggestions {
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px solid black;
+    position: absolute;   
+}
+
+div.suggestions div {
+    cursor: default;
+    padding: 0px 3px;
+}
+
+div.suggestions div.current {
+    background-color: #3366cc;
+    color: white;
+}*/
+
+
+.searchContextInfo
+{
+    padding-left: 5px;
+    padding-right: 5px;
+    font-weight: bold;
+    width: 100%;
+    font-size: 14px;
+}
+.searchTypeLblLow
+{
+    color: #7186BF;
+}
+.searchTypeLbl
+{
+    color: #546CA8;
+    background-color: #DAE1F0;
+}
+.searchTermsLbl
+{
+    color: #385DC2;
+}
+
+.resultsSetInfo
+{
+    font-size: 11px;
+    margin-top: 10px;
+    padding-left: 5px;
+    margin-right: 15px;
+    color: #000;
+    height: 30px;
+    background-color: #E6EBF5 /*#FADDAA*/;
+    vertical-align: middle;
+    line-height: 30px;
+    border: solid 1px #DAE1F0;
+}
+
+.searchResults
+{
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 12px;
+    text-align: justify;
+}
+
+.resultTitle
+{
+    font-size: 11px;
+}
+.resultDesc
+{
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+
+.searchResultImage
+{
+    width: 50px;
+    height: 70px;
+    border: solid 1px #ccc; /*background:#fff url(/images/loading.gif) no-repeat fixed center center;*/
+}
+
+
+.resultsTableRow
+{
+    /*min-height: 90px; 	height: 90px;*/
+}
+/*
+tr.spacer
+{
+	line-height: 30px;
+	height: 40px;
+}
+*/
+td.spacer
+{
+    height: 5px;
+}
+
+/**************End of site search styles***********/
+
+.BestSellerlink
+{
+    border-bottom: 1px solid #e4e4e4;
+    width: 220px;
+    padding-top: 12px;
+}
+
+.BestSellerlink a:hover
+{
+    color: #000000;
+    text-decoration: none;
+}
+
+
+.BestSellerlinka
+{
+    text-decoration: none;
+    padding-left: 24px;
+    color: #C6631A;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+
+.PageHeadingFull
+{
+    width: 758px;
+    height: 25px; /*background: url(../images/best-sellers-bg.gif) no-repeat; 	color: #016DFF;*/
+    background: url(../images/page_heading_bg.jpg) no-repeat;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: 13pt;
+    font-family: Verdana;
+    padding-top: 8px;
+    padding-left: 0px;
+}
+
+/**************End of site search styles***********/
+
+/**************End of site search styles***********/
+
+/* Scroller Box */
+
+.tooltip
+{
+    display: none;
+    background: transparent url(../images/white_arrow.jpg);
+    font-size: 12px;
+    height: 70px;
+    width: 160px;
+    padding: 25px;
+    color: black;
+}
+
+#scroller_container
+{
+    position: relative;
+    width: 535px;
+    height: 129px;
+    overflow: hidden;
+    border: 6px solid #e4e4e4;
+    margin: 1px 2px 2px 2px;
+}
+
+#scroller
+{
+    white-space: nowrap;
+    line-height: 60px;
+    font-size: 40px;
+}
+
+/*END  Scoller Box Style */
+
+.DetailBookSuggestion
+{
+    padding-top: 6px;
+    width: 550px; /*padding-right: 52px;*/
+    background-color: #eeeeee;
+    margin-top: 15px;
+    border-bottom: 1px solid #e2e2e2;
+    border-top: 1px solid #e2e2e2;
+    height: 30px;
+    float: left;
+    color: Green;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center; /*padding: 5px 0 0 13px;*/
+}
+
+.SuggestedBooks
+{
+    border-top: 1px;
+    padding-top: 15px; /*border: 1px solid #f0f0f0;*/
+    margin-bottom: 10px;
+    margin: 20px 0 0 10px;
+    margin-right: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+}
+: 3px;
+    font-weight: bold;
+    margin-left: 95px;
+    font-size: 12px;
+    width: 120px;
+    height: 33px;
+    text-transform: capitalize;
+    text-transform: capitalize;
+}
+/*Editted:Data Conversion*/
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .AuthorBrow
+{
+    color: #000000;
+    margin-left: 95px;
+    font-size: 12px;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .AuthorBrow a
+{
+    color: #016dff;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .AuthorBrow a:hover
+{
+    color: #016dff;
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .PriceBrow
+{
+    color: #000000;
+    padding-top: 10px;
+    margin-left: 95px;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .PriceBrow span
+{
+    color: #ff1515;
+    font-weight: bold;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .PriceBrow span a
+{
+    color: #016dff;
+    text-decoration: underline;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .PriceBrow span a:hover
+{
+    color: #016dff;
+    text-decoration: none;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .SelectItemBrow
+{
+    width: 136px;
+    margin-left: 7px;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .CommandsBtnsBrow
+{
+    margin-top: 8px;
+    margin-left: 90px;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .CommandsBtnsBrow a.DetailsBtn2
+{
+    color: #000000;
+    background-color: #dedede;
+    height: 16px;
+    float: left;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 2px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+#SiteContainer .CenterContent .ProductsBox .BrowseProdItem .CommandsBtnsBrow a.AddBtn2
+{
+    color: #ffffff;
+    background-color: #dc2f3f;
+    height: 16px;
+    float: left;
+    text-decoration: none;
+    font-size: 10px;
+    padding: 2px;
+    white-space: nowrap;
+}
+
+#SiteContainer .RightSide .CartTitle
+{
+    font-size: 14px;
+    font-weight: bold;
+    color: #000000;
+    border-bottom: 1px solid #f0f0f0;
+    padding: 10px 0 10px 18px;
+}
+#SiteContainer .RightSide .CartContainer
+{
+    margin: 15px 10px 0 18px;
+    border-bottom: 1px solid #e4e4e4;
+    padding-bottom: 3px;
+}
+#SiteContainer .RightSide .CartContainer .TxtCart
+{
+    color: #000000;
+    float: left;
+    font-size: 12px;
+}
+#SiteContainer .RightSide .CartContainer .CartItemsNr
+{
+    float: left;
+    color: #f8700d;
+    font-size: 12px;
+    padding-left: 10px;
+}
+#SiteContainer .RightSide .CheckoutBox
+{
+    padding: 10px 0 0 18px;
+}
+#SiteContainer .RightSide .CheckoutBox .Totalprice
+{
+    font-weight: bold;
+    float: left;
+    color: #ff0000;
+}
+#SiteContainer .RightSide .CheckoutBox a.CheckOutBtn
+{
+    width: 74px;
+    height: 27px;
+    display: inline;
+    background: url(../images/checkout-btn.gif) no-repeat;
+    float: right;
+    margin-right: 10px;
+}
+
+#SiteContainer .RightSide .SearchBox
+{
+    padding: 10px 0 0 18px;
+}
+#SiteContainer .RightSide .SearchBox .Form
+{
+    width: 178px;
+    height: 24px;
+    background: url(../images/search-form.gif) no-repeat;
+    border: none;
+    padding: 8px 0 0 10px;
+}
+#SiteContainer .RightSide .SearchBox .DivSearch
+{
+    border-top: 1px solid #f0f0f0;
+    margin: 3px 14px 10px 2px;
+}
+#SiteContainer .RightSide .SearchBox .DivSearch .SelSearch
+{
+    float: left;
+    margin-top: 5px;
+    height: 26px;
+}
+#SiteContainer .RightSide .SearchBox .DivSearch input.SearchBtnBlue
+{
+    float: right;
+    width: 68px;
+    height: 30px;
+    display: block;
+    background: url(../images/search_btn.png) no-repeat;
+    margin: 0 0 0 0;
+    border: 0;
+}
+#SiteContainer .RightSide .AdvanceSearch
+{
+    background: url(../images/search-arrow.gif) left 6px no-repeat;
+    padding-left: 15px;
+    font-size: 11px;
+    color: #016dff;
+    margin: 0px 0 0 20px;
+}
+#SiteContainer .RightSide .AdvanceSearch a
+{
+    color: #016dff;
+    text-decoration: underline;
+}
+#SiteContainer .RightSide .AdvanceSearch a:hover
+{
+    color: #016dff;
+    text-decoration: none;
+}
+#SiteContainer .RightSide .AaaLook
+{
+    width: 218px;
+    height: 86px;
+    background: url(../images/right-aaa-bg.gif) no-repeat;
+    margin-top: 0px;
+}
+#SiteContainer .RightSide .AaaLook .Title
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: #000000;
+    padding: 20px 0 0 10px;
+}
+#SiteContainer .RightSide .AaaLook .Txt
+{
+    font-size: 11px;
+    color: #414040;
+    padding: 5px 0 0 10px;
+}
+/* for shopping cart etc by usman on 29 SEP 2010 */
+#SiteContainer .RightSide .CartLook
+{
+    width: 218px;
+    height: 120px;
+    background: url(../images/cart-right-bg.gif) no-repeat;
+    margin-top: 8px;
+}
+#SiteContainer .RightSide .CartLook .Title
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: #000000;
+    padding: 15px 0 0 10px;
+}
+#SiteContainer .RightSide .CartLook .Txt
+{
+    font-size: 11px;
+    color: #414040;
+    padding: 5px 0 0 10px;
+}
+#SiteContainer .RightSide .CartLook .CartItemsNr
+{
+    float: left;
+    color: #f8700d;
+    font-size: 12px;
+    padding-left: 10px;
+}
+#SiteContainer .RightSide .CartLook .TxtCart
+{
+    color: #000000;
+    float: left;
+    font-size: 12px;
+}
+
+/* news */
+#SiteContainer .RightSide .NewsLook
+{
+    background: url(../images/right-news-events.gif) no-repeat;
+    width: 218px;
+    height: 80px;
+}
+#SiteContainer .RightSide .NewsLook .Title
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: #000000;
+    padding: 20px 0 0 10px;
+}
+#SiteContainer .RightSide .NewsLook .Txt
+{
+    font-size: 11px;
+    color: #414040;
+    padding: 5px 0 0 10px;
+}
+
+
+
+#SiteContainer .RightSide .AaaLook .Txt a
+{
+    font-size: 11px;
+    color: #414040;
+    text-decoration: none;
+}
+/*Added by Usman for link support*/
+#SiteContainer .RightSide .AaaLook .Txt a:hover
+{
+    font-size: 11px;
+    color: #414040;
+    text-decoration: none;
+}
+/*Added by Usman for link support*/
+#SiteContainer .RightSide .Guide
+{
+    background: url(../images/guide-bg.gif) no-repeat;
+    width: 218px;
+    height: 80px;
+}
+#SiteContainer .RightSide .Guide .Title
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: #000000;
+    padding: 10px 0 0 10px;
+}
+#SiteContainer .RightSide .Guide .Txt
+{
+    font-size: 11px;
+    color: #414040;
+    padding: 0px 0 0 10px;
+}
+#SiteContainer .RightSide .Guide .Txt a
+{
+    text-decoration: none;
+    color: #414040;
+}
+/*Added by Usman for link support*/
+#SiteContainer .RightSide .Guide .Txt a:hover
+{
+    text-decoration: none;
+    color: #414040;
+}
+/*Added by Usman for link support*/
+#SiteContainer .RightSide .NewsTitle
+{
+    font-size: 13px;
+    font-weight: bold;
+    color: #016dff;
+    padding: 20px 0 0 18px;
+}
+#SiteContainer .Right

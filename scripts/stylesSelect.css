@@ -1,0 +1,12 @@
+SELECT{}
+.CS1_current1 {
+	display:block; background-image:url(../img/select.gif); background-repeat:no-repeat; width:180px !important; 
+	width:179px; height:21px; color:#000000;  font-size:11px; padding-left:3px; padding-top:2px; }
+.CS1_down{ border: solid #294B96; border-width: 1px 1px 1px 0px; }
+.CS1_hidden { display:none;}
+.CS1_options {
+	display:block; background:#ffffff; border:solid #294B96; border-width:0px 1px 1px 1px; 
+	position:absolute; width:181px; color:#999999; font-size:12px; padding-left:3px; padding-top:2px; }
+.CS1_options a{	display:block; text-decoration:	none; cursor:default; color:#294B96; font-size:12px; }
+.CS1_options a:hover{ display:block; background-color:#FC8A00; }
+.CS1_select{ cursor:default; float:left }

@@ -1,0 +1,57 @@
+﻿.heading
+{
+	color: #5377A9;
+	font-family: Arial,Sans-Serif;
+	font-size: 1.2em;
+	font-weight: bold;
+	padding: 1em 0;
+}
+.CollapsibleHeader
+{
+	padding: 5px;
+	cursor: pointer;
+	vertical-align: middle;
+	color: #5377A9;
+	font-family: Arial,Sans-Serif;
+	font-size: 1.2em;
+	font-weight: bold;
+	padding: 1em 0;
+}
+.tdCentre
+{
+	text-align: center;
+}
+
+.Background
+{
+	width: 990; 
+	background: url(/Images/Background.png) repeat;
+	height: 60px;
+	color: White;
+}
+.logo
+{
+	float: left;
+	margin: 0;
+	padding: 0;
+	width: 299px;
+}
+.header
+{
+	background: url(Images/notice.png) no-repeat 0 0 transparent;
+}
+.footer
+{
+	padding: 15px 0;
+	margin: 10px auto 0 auto;
+	background: #090909 url(../Images/footer_bg.gif) top repeat-x;
+	width: 949px;
+	text-align: center;
+	color: #646d73;
+	font-size: smaller;
+	background-color:White;
+}
+.tableStyle
+{
+	padding: 50px 0px 50px ;
+}

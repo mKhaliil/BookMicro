@@ -1,0 +1,217 @@
+Exception: Cannot access a closed file.
+Exception: Index was outside the bounds of the array.
+Exception: Index was outside the bounds of the array.
+Exception: Index was outside the bounds of the array.
+Exception: Index was outside the bounds of the array.
+Exception: Index was outside the bounds of the array.
+Exception: Index was outside the bounds of the array.
+Exception: Index was outside the bounds of the array.
+Exception: Index was outside the bounds of the array.
+Exception: Index was outside the bounds of the array.
+Exception: Index was outside the bounds of the array.
+Exception: The handle is invalid.
+
+Exception: D:\Office Data\Files_Dev/31730/31730-1/Comparison/Comparison-1/135/\8.pdf not found as file or resource.
+Exception: D:\Office Data\Files_Dev/31730/31730-1/Comparison/Comparison-1/135/\8.pdf not found as file or resource.
+Exception: D:\Office Data\Files_Dev/31730/31730-1/Comparison/Comparison-1/135/\8.pdf not found as file or resource.
+Exception: Cannot access a closed file.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: D:\Office Data\Files_Dev/33383/33383-1/Comparison/Comparison-1/213/\12.pdf not found as file or resource.
+Exception: D:\Office Data\Files_Dev/33383/33383-1/Comparison/Comparison-1/213/\27.pdf not found as file or resource.
+Exception: The process cannot access the file 'D:\Office Data\Files_Dev\33383\33383-1\Comparison\Comparison-1\213\Produced_10_Stamped.pdf' because it is being used by another process.
+Exception: The process cannot access the file 'D:\Office Data\Files_Dev\33383\33383-1\Comparison\Comparison-1\213\Produced_10_Stamped.pdf' because it is being used by another process.
+Exception: The process cannot access the file 'D:\Office Data\Files_Dev\33383\33383-1\Comparison\Comparison-1\213\Produced_10_Stamped.pdf' because it is being used by another process.
+Exception: The process cannot access the file 'D:\Office Data\Files_Dev\33383\33383-1\Comparison\Comparison-1\213\Produced_10_Stamped.pdf' because it is being used by another process.
+Exception: Invalid page number: 10
+Exception: Invalid page number: 10
+Exception: Cannot access a closed file.
+Exception: Unable to cast object of type 'iTextSharp.text.pdf.PdfArray' to type 'iTextSharp.text.pdf.PRIndirectReference'.
+Exception: Unable to cast object of type 'iTextSharp.text.pdf.PdfArray' to type 'iTextSharp.text.pdf.PRIndirectReference'.
+Exception: Unable to cast object of type 'iTextSharp.text.pdf.PdfArray' to type 'iTextSharp.text.pdf.PRIndirectReference'.
+Exception: Invalid page number: 10
+Exception: Invalid page number: 10
+Exception: Invalid page number: 10
+Exception: Invalid page number: 10
+Exception: Invalid page number: 10
+Exception: Invalid page number: 10
+Exception: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Exception: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Exception: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Exception: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Exception: The handle is invalid.
+
+Exception: Empty path name is not legal.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: D:\Office Data\Files_Dev/33383/33383-1/Comparison/Comparison-1/213/\1.pdf not found as file or resource.
+Exception: D:\Office Data\Files_Dev/33383/33383-1/Comparison/Comparison-1/213/\1.pdf not found as file or resource.
+Exception: D:\Office Data\Files_Dev/33383/33383-1/Comparison/Comparison-1/213/\1.pdf not found as file or resource.
+Exception: D:\Office Data\Files_Dev/33383/33383-1/Comparison/Comparison-1/213/\1.pdf not found as file or resource.
+Exception: D:\Office Data\Files_Dev/33383/33383-1/Comparison/Comparison-1/213/\1.pdf not found as file or resource.
+Exception: D:\Office Data\Files_Dev/33383/33383-1/Comparison/Comparison-1/213/\1.pdf not found as file or resource.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception while deleting directory: The handle is invalid.
+
+Exception while deleting directory: The process cannot access the file 'Table_1_1.xlsx' because it is being used by another process.
+Exception: Could not find file 'D:\Office Data\Files_Dev\351272\351272-1\Comparison\Comparison-1\135\351272-1.xml'.
+Exception: Could not find file 'D:\Office Data\Files_Dev\351272\351272-1\Comparison\Comparison-1\135\351272-1.xml'.
+Exception: Could not find file 'D:\Office Data\Files_Dev\351272\351272-1\Comparison\Comparison-1\135\351272-1.xml'.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Index was outside the bounds of the array.
+Exception: Index was outside the bounds of the array.
+Exception: Index was outside the bounds of the array.
+Exception: Index was outside the bounds of the array.
+Exception: Index was outside the bounds of the array.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Could not find file 'D:\Office Data\Files_Dev\425\425-1\Comparison\Comparison-1\135\425-1.xml'.
+Exception: Could not find file 'D:\Office Data\Files_Dev\425\425-1\Comparison\Comparison-1\135\425-1.xml'.
+Exception: Could not find file 'D:\Office Data\Files_Dev\425\425-1\Comparison\Comparison-1\135\425-1.xml'.
+Exception: Could not find file 'D:\Office Data\Files_Dev\425\425-1\Comparison\Comparison-1\135\425-1.xml'.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Exception: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+Exception: Could not find a part of the path 'D:\Office Data\Files_Dev\0012\0012-1\Comparison\Comparison-1\135\Produced_1.xml'.
+Exception: D:\Office Data\Files_Dev//0012/0012-1/Comparison/Comparison-1/135/0012-1.pdf not found as file or resource.
+Exception: Access is denied
+Exception: Process has exited, so the requested information is not available.
+Exception: No async read operation is in progress on the stream.
+Exception: The path is not of a legal form.
+Exception: The path is not of a legal form.
+Exception: The path is not of a legal form.
+Exception: The path is not of a legal form.
+Exception: The path is not of a legal form.
+Exception: The path is not of a legal form.
+Exception: The path is not of a legal form.
+Exception: The path is not of a legal form.
+Exception: The path is not of a legal form.
+Exception: The path is not of a legal form.
+Exception: The path is not of a legal form.
+Exception: The path is not of a legal form.
+Exception: The path is not of a legal form.
+Exception: The path is not of a legal form.
+Exception: The path is not of a legal form.
+Exception: The path is not of a legal form.
+Exception: The path is not of a legal form.
+Exception: Could not find file 'F:\Office Data\Files_Dev\34073\34073-1\Comparison\Comparison-1\135\34073-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\34073\34073-1\Comparison\Comparison-1\135\34073-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\34073\34073-1\Comparison\Comparison-1\135\34073-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\34073\34073-1\Comparison\Comparison-1\135\34073-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\34073\34073-1\Comparison\Comparison-1\135\34073-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\34073\34073-1\Comparison\Comparison-1\135\34073-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\34073\34073-1\Comparison\Comparison-1\135\34073-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\34073\34073-1\Comparison\Comparison-1\135\34073-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\34073\34073-1\Comparison\Comparison-1\135\34073-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\34073\34073-1\Comparison\Comparison-1\135\34073-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\34073\34073-1\Comparison\Comparison-1\135\34073-1.xml'.
+Exception: The directory name is invalid.
+
+Exception: The directory name is invalid.
+
+Exception: The directory name is invalid.
+
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Could not find file 'F:\Office Data\Files_Dev\2233310\2233310-1\Comparison\Comparison-1\135\2233310-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\2233310\2233310-1\Comparison\Comparison-1\135\2233310-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\2233310\2233310-1\Comparison\Comparison-1\135\2233310-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\2233310\2233310-1\Comparison\Comparison-1\135\2233310-1.xml'.
+Directory Does not exist cannot upload file: F:\Office Data\Files_Dev\\0261\0261-1\image\0261
+Directory Does not exist cannot upload file: F:\Office Data\Files_Dev\\0261\0261-1\image\0261
+Exception while deleting directory: Access to the path 'image001.jpg' is denied.
+Exception: Could not find file 'F:\Office Data\Files_Dev\9124\9124-1\Comparison\Comparison-1\135\9124-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\211\211-1\Comparison\Comparison-1\135\211-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\212\212-1\Comparison\Comparison-1\135\212-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\212\212-1\Comparison\Comparison-1\135\212-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Object reference not set to an instance of an object.
+Exception: Could not find file 'F:\Office Data\Files_Dev\225\225-1\Comparison\Comparison-1\135\225-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\225\225-1\Comparison\Comparison-1\135\225-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\214\214-1\Comparison\Comparison-1\135\214-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\020\020-1\Comparison\Comparison-1\135\020-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\020\020-1\Comparison\Comparison-1\135\020-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\020\020-1\Comparison\Comparison-1\135\020-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\020\020-1\Comparison\Comparison-1\135\020-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\020\020-1\Comparison\Comparison-1\135\020-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\020\020-1\Comparison\Comparison-1\135\020-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\021002\021002-1\Comparison\Comparison-1\135\021002-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\020\020-1\Comparison\Comparison-1\135\020-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\020\020-1\Comparison\Comparison-1\135\020-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\020\020-1\Comparison\Comparison-1\135\020-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\020\020-1\Comparison\Comparison-1\135\020-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\020\020-1\Comparison\Comparison-1\135\020-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\020\020-1\Comparison\Comparison-1\135\020-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\000130\000130-1\Comparison\Comparison-1\135\000130-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\000130\000130-1\Comparison\Comparison-1\135\000130-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\000130\000130-1\Comparison\Comparison-1\135\000130-1.xml'.
+Exception: The URL cannot be empty.
+Parameter name: url
+Exception: The URL cannot be empty.
+Parameter name: url
+Exception: The URL cannot be empty.
+Parameter name: url
+Exception: Rebuild failed: Cannot access a closed file.; Original message: Cannot access a closed file.
+Exception: Empty path name is not legal.
+Exception: Empty path name is not legal.
+Exception: Could not find file 'F:\Office Data\Files_Dev\35712\35712-1\Comparison\Comparison-1\135\35712-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\35712\35712-1\Comparison\Comparison-1\135\35712-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\35712\35712-1\Comparison\Comparison-1\135\35712-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\35712\35712-1\Comparison\Comparison-1\135\35712-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\35712\35712-1\Comparison\Comparison-1\135\35712-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\35712\35712-1\Comparison\Comparison-1\135\35712-1.xml'.
+Exception: Could not find file 'F:\Office Data\Files_Dev\35712\35712-1\Comparison\Comparison-1\135\35712-1.xml'.
+Exception: The handle is invalid.
+

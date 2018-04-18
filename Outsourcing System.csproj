@@ -1,0 +1,1918 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9CF70408-7A82-4BEC-AC50-897EE1AB1F7E}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Outsourcing_System</RootNamespace>
+    <AssemblyName>Outsourcing System</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <TargetFrameworkProfile />
+    <UseIISExpress>false</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit">
+      <HintPath>..\..\PdfWebCompare\2015-03-23 webCompare webApp\PdfCompare\bin\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="AjaxMin">
+      <HintPath>..\..\PdfWebCompare\2015-03-23 webCompare webApp\PdfCompare\bin\AjaxMin.dll</HintPath>
+    </Reference>
+    <Reference Include="App_Licenses">
+      <HintPath>..\..\PdfWebCompare\2015-03-23 webCompare webApp\PdfCompare\bin\App_Licenses.dll</HintPath>
+    </Reference>
+    <Reference Include="ASPNetSpell">
+      <HintPath>..\..\BookMicro\2015-04-13 BookMicroBeta\bin\ASPNetSpell.dll</HintPath>
+    </Reference>
+    <Reference Include="EO.Web">
+      <HintPath>..\..\PdfWebCompare\2015-03-23 webCompare webApp\PdfCompare\bin\EO.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="EPPlus">
+      <HintPath>C:\Users\Aamir\Desktop\EPPlus.dll</HintPath>
+    </Reference>
+    <Reference Include="FreeTextBox">
+      <HintPath>..\..\BookMicro\2015-04-13 BookMicroBeta\bin\FreeTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\..\BookMicro\2015-04-13 BookMicroBeta\bin\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="ICSharpCode.SharpZipLib">
+      <HintPath>..\..\BookMicro\2015-04-13 BookMicroBeta\bin\ICSharpCode.SharpZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip.Reduced">
+      <HintPath>..\..\PdfWebCompare\2015-03-23 webCompare webApp\PdfCompare\bin\Ionic.Zip.Reduced.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.0.2.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\Aamir\Desktop\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Keyoti.RapidSpellMDict, Version=3.0.0.0, Culture=neutral, PublicKeyToken=58d9fd2e9ec4dc0e">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\BookMicro\2015-04-13 BookMicroBeta\bin\Keyoti.RapidSpellMDict.dll</HintPath>
+    </Reference>
+    <Reference Include="Keyoti.RapidSpellWeb.ASP.NETv2">
+      <HintPath>..\..\BookMicro\2015-04-13 BookMicroBeta\bin\Keyoti.RapidSpellWeb.ASP.NETv2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Build.Conversion.v3.5" />
+    <Reference Include="PDF2JPG_Sofnix">
+      <HintPath>..\..\BookMicro\2015-04-13 BookMicroBeta\bin\PDF2JPG_Sofnix.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfToImage">
+      <HintPath>..\..\BookMicro\2015-04-13 BookMicroBeta\bin\PdfToImage.dll</HintPath>
+    </Reference>
+    <Reference Include="pdfview">
+      <HintPath>..\..\BookMicro\2015-04-13 BookMicroBeta\bin\pdfview.dll</HintPath>
+    </Reference>
+    <Reference Include="PdfViewer">
+      <HintPath>..\..\BookMicro\2015-04-13 BookMicroBeta\bin\PdfViewer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Runtime.Serialization">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.ServiceModel">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Mobile" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Telerik.Web.Design">
+      <HintPath>..\..\BookMicro\2015-04-13 BookMicroBeta\bin\Telerik.Web.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.Web.UI">
+      <HintPath>..\..\BookMicro\2015-04-13 BookMicroBeta\bin\Telerik.Web.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="TET_dotnet, Version=3.0.0.1, Culture=neutral, PublicKeyToken=af0805f2b25bb299, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\PdfWebCompare\2015-03-23 webCompare webApp\PdfCompare\bin\TET_dotnet.dll</HintPath>
+    </Reference>
+    <Reference Include="WordToPDF">
+      <HintPath>C:\Users\Aamir\Desktop\WordToPDF\WordToPDF.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AboutUs.aspx" />
+    <Content Include="AccountDetail.aspx" />
+    <Content Include="AddVolumeBreaks.aspx" />
+    <Content Include="AdminPanel.aspx" />
+    <Content Include="ApproveTasks.aspx" />
+    <Content Include="ApproveTest.aspx" />
+    <Content Include="BookHierarchy.aspx" />
+    <Content Include="BookMicro.aspx" />
+    <Content Include="BookMicroUpgraded.aspx" />
+    <Content Include="Books.aspx" />
+    <Content Include="ChangePassword.aspx" />
+    <Content Include="Comparison.aspx" />
+    <Content Include="ComparisonPage2.aspx" />
+    <Content Include="ComparisonPreProcess.aspx" />
+    <Content Include="ComparisonTask.aspx" />
+    <Content Include="ComparisonTutorial.aspx" />
+    <Content Include="ComplexBitsMapping.aspx" />
+    <Content Include="ContactUs.aspx" />
+    <Content Include="Error.aspx" />
+    <Content Include="ErrorDetection.aspx" />
+    <Content Include="FinalScripts\jquery-1.10.0.min.js" />
+    <Content Include="FinalScripts\jquery-1.11.3.min.js" />
+    <Content Include="FinalScripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="FinalScripts\jquery-1.4.1.js" />
+    <Content Include="FinalScripts\jquery-1.4.1.min.js" />
+    <Content Include="FinalScripts\jquery-ui-1.10.3.custom.min.js" />
+    <Content Include="FinalScripts\jquery-ui.min.js" />
+    <Content Include="FinalScripts\jquery.dataTables.columnFilter.js" />
+    <Content Include="FinalScripts\jquery.dataTables.min.js" />
+    <Content Include="FinalScripts\jquery.js" />
+    <Content Include="FinalScripts\loader.js" />
+    <Content Include="FinalScripts\minimal.js" />
+    <Content Include="FinalScripts\MissingImagePdfJs\jquery-1.9.1.js" />
+    <Content Include="FinalScripts\MissingImagePdfJs\minimal.js" />
+    <Content Include="FinalScripts\MissingImagePdfJs\pdf.js" />
+    <Content Include="FinalScripts\MissingImagePdfJs\pdf.worker.js" />
+    <Content Include="FinalScripts\MissingImagePdfJs\text_layer_builder.js" />
+    <Content Include="FinalScripts\MissingImagePdfJs\ui_utils.js" />
+    <Content Include="FinalScripts\ParaSelectionPdfJs\jquery-1.9.1.js" />
+    <Content Include="FinalScripts\ParaSelectionPdfJs\minimal.js" />
+    <Content Include="FinalScripts\ParaSelectionPdfJs\pdf.js" />
+    <Content Include="FinalScripts\ParaSelectionPdfJs\pdf.worker.js" />
+    <Content Include="FinalScripts\ParaSelectionPdfJs\text_layer_builder.js" />
+    <Content Include="FinalScripts\ParaSelectionPdfJs\ui_utils.js" />
+    <Content Include="FinalScripts\pdf.js" />
+    <Content Include="FinalScripts\pdf.worker.js" />
+    <Content Include="FinalScripts\TableDetectionPdfJs\jquery-1.9.1.js" />
+    <Content Include="FinalScripts\TableDetectionPdfJs\minimal.js" />
+    <Content Include="FinalScripts\TableDetectionPdfJs\pdf.js" />
+    <Content Include="FinalScripts\TableDetectionPdfJs\pdf.worker.js" />
+    <Content Include="FinalScripts\TableDetectionPdfJs\text_layer_builder.js" />
+    <Content Include="FinalScripts\TableDetectionPdfJs\ui_utils.js" />
+    <Content Include="FinalScripts\text_layer_builder.js" />
+    <Content Include="FinalScripts\ui_utils.js" />
+    <Content Include="FinalStyles\cssverticalmenu.css" />
+    <Content Include="FinalScripts\cssverticalmenu.js" />
+    <Content Include="FinalScripts\easypiechart.min.js" />
+    <Content Include="FinalScripts\ifvisible.js" />
+    <Content Include="FinalScripts\jquery.MultiFile.js" />
+    <Content Include="FinalScripts\PdfWebCompare\api.js" />
+    <Content Include="FinalScripts\PdfWebCompare\bidi.js" />
+    <Content Include="FinalScripts\PdfWebCompare\canvas.js" />
+    <Content Include="FinalScripts\PdfWebCompare\charsets.js" />
+    <Content Include="FinalScripts\PdfWebCompare\cidmaps.js" />
+    <Content Include="FinalScripts\PdfWebCompare\colorspace.js" />
+    <Content Include="FinalScripts\PdfWebCompare\compatibility.js" />
+    <Content Include="FinalScripts\PdfWebCompare\core.js" />
+    <Content Include="FinalScripts\PdfWebCompare\crypto.js" />
+    <Content Include="FinalScripts\PdfWebCompare\debugger.js" />
+    <Content Include="FinalScripts\PdfWebCompare\evaluator.js" />
+    <Content Include="FinalScripts\PdfWebCompare\fonts.js" />
+    <Content Include="FinalScripts\PdfWebCompare\function.js" />
+    <Content Include="FinalScripts\PdfWebCompare\global.js" />
+    <Content Include="FinalScripts\PdfWebCompare\glyphlist.js" />
+    <Content Include="FinalScripts\PdfWebCompare\hello.js" />
+    <Content Include="FinalScripts\PdfWebCompare\image.js" />
+    <Content Include="FinalScripts\PdfWebCompare\jpg.js" />
+    <Content Include="FinalScripts\PdfWebCompare\jpx.js" />
+    <Content Include="FinalScripts\PdfWebCompare\jquery-1.4.3.min.js" />
+    <Content Include="FinalScripts\PdfWebCompare\jquery-ui-1.8.6.custom.min.js" />
+    <Content Include="FinalScripts\PdfWebCompare\jquery-ui-1.8.7.custom.min.js" />
+    <Content Include="FinalScripts\PdfWebCompare\l10n.js" />
+    <Content Include="FinalScripts\PdfWebCompare\make.js" />
+    <Content Include="FinalScripts\PdfWebCompare\metadata.js" />
+    <Content Include="FinalScripts\PdfWebCompare\metrics.js" />
+    <Content Include="FinalScripts\PdfWebCompare\obj.js" />
+    <Content Include="FinalScripts\PdfWebCompare\parser.js" />
+    <Content Include="FinalScripts\PdfWebCompare\pattern.js" />
+    <Content Include="FinalScripts\PdfWebCompare\pdf.js" />
+    <Content Include="FinalScripts\PdfWebCompare\shell.js" />
+    <Content Include="FinalScripts\PdfWebCompare\stream.js" />
+    <Content Include="FinalScripts\PdfWebCompare\util.js" />
+    <Content Include="FinalScripts\PdfWebCompare\viewer.js" />
+    <Content Include="FinalScripts\PdfWebCompare\viewerControl.js" />
+    <Content Include="FinalScripts\PdfWebCompare\worker.js" />
+    <Content Include="FinalScripts\PdfWebCompare\worker_loader.js" />
+    <Content Include="FinalScripts\site.js" />
+    <Content Include="FinalScripts\TImeMe.js" />
+    <Content Include="FinalStyles\demo_table.css" />
+    <Content Include="FinalStyles\jquery-ui-1.10.3.custom.min.css" />
+    <Content Include="FinalStyles\minimal.css" />
+    <Content Include="FinalStyles\viewer.css" />
+    <Content Include="FinalStyles\ViewerControl.css" />
+    <Content Include="ForgotPassword.aspx" />
+    <Content Include="HowItWorks.aspx" />
+    <Content Include="img\button_startTest-Copy.jpg" />
+    <Content Include="img\button_startTest-Copy.jpg.gif" />
+    <Content Include="img\female.png" />
+    <Content Include="img\FilledStar.gif" />
+    <Content Include="img\Gear.png" />
+    <Content Include="img\green-ok.gif" />
+    <Content Include="img\male.png" />
+    <Content Include="img\nextBtnIcon.jpg" />
+    <Content Include="img\nextBtnIcon_disabled.jpg" />
+    <Content Include="img\previousBtnIcon.jpg" />
+    <Content Include="img\previousBtnIcon_disabled.jpg" />
+    <Content Include="img\sorry.png" />
+    <Content Include="img\Star.gif" />
+    <Content Include="img\WaitingStar.gif" />
+    <Content Include="ManageTasks.aspx" />
+    <Content Include="ManageUser.aspx" />
+    <Content Include="MessageBox.aspx" />
+    <Content Include="MistakesInsertion.aspx" />
+    <Content Include="ParaSelection.aspx" />
+    <Content Include="PaymentsAndTerms.aspx" />
+    <Content Include="PdfImageUpload.aspx" />
+    <Content Include="PDFJS_SVG\minimal.js" />
+    <Content Include="PDFJS_SVG\pdf.js" />
+    <Content Include="PDFJS_SVG\pdf.worker.js" />
+    <Content Include="PdfToImgConverison\Interop.Acrobat.dll" />
+    <Content Include="PdfToImgConverison\pdftoimg.exe" />
+    <Content Include="PdfToImgConverison\pdftoimg.pdb" />
+    <Content Include="PdfToImgConverison\pdftoimg.vshost.exe" />
+    <Content Include="Process1.aspx" />
+    <Content Include="ResetTask.aspx" />
+    <Content Include="scripts\builder.js" />
+    <Content Include="scripts\colorbox.css" />
+    <Content Include="scripts\cssverticalmenu.css" />
+    <Content Include="scripts\cssverticalmenu.js" />
+    <Content Include="scripts\customInput.jquery.js" />
+    <Content Include="scripts\customSelect.js" />
+    <Content Include="scripts\dcsCalendar.js" />
+    <Content Include="scripts\dcsCalendarStyle.css" />
+    <Content Include="scripts\effects.js" />
+    <Content Include="scripts\Hiring\amazingcarousel.js" />
+    <Content Include="scripts\Hiring\builder.js" />
+    <Content Include="scripts\Hiring\cssverticalmenu.css" />
+    <Content Include="scripts\Hiring\cssverticalmenu.js" />
+    <Content Include="scripts\Hiring\customInput.jquery.js" />
+    <Content Include="scripts\Hiring\customSelect.js" />
+    <Content Include="scripts\Hiring\dcsCalendar.js" />
+    <Content Include="scripts\Hiring\dcsCalendarStyle.css" />
+    <Content Include="scripts\Hiring\easypiechart.js" />
+    <Content Include="scripts\Hiring\easypiechart.min.js" />
+    <Content Include="scripts\Hiring\effects.js" />
+    <Content Include="scripts\Hiring\initcarousel.css" />
+    <Content Include="scripts\Hiring\initcarousel.js" />
+    <Content Include="scripts\Hiring\jquery-1.10.0.min.js" />
+    <Content Include="scripts\Hiring\jquery-1.4.1.min.js" />
+    <Content Include="scripts\Hiring\jquery-1.4.3.js" />
+    <Content Include="scripts\Hiring\jquery-1.4.3.min.js" />
+    <Content Include="scripts\Hiring\jquery-1.4.4.min.js" />
+    <Content Include="scripts\Hiring\jquery-1.9.1.js" />
+    <Content Include="scripts\Hiring\jquery-ui-1.10.3.custom.min.js" />
+    <Content Include="scripts\Hiring\jquery-ui-1.8.6.custom.min.js" />
+    <Content Include="scripts\Hiring\jquery-ui-1.8.7.custom.css" />
+    <Content Include="scripts\Hiring\jquery-ui-1.8.7.custom.min.js" />
+    <Content Include="scripts\Hiring\jquery-ui-1.8.9.custom.min.js" />
+    <Content Include="scripts\Hiring\jquery-ui.css" />
+    <Content Include="scripts\Hiring\jquery-ui.js" />
+    <Content Include="scripts\Hiring\jquery.cookie.js" />
+    <Content Include="scripts\Hiring\jquery.countdown.css" />
+    <Content Include="scripts\Hiring\jquery.countdown.min.js" />
+    <Content Include="scripts\Hiring\jquery.dataTables.columnFilter.js" />
+    <Content Include="scripts\Hiring\jquery.dataTables.min.js" />
+    <Content Include="scripts\Hiring\jquery.js" />
+    <Content Include="scripts\Hiring\jquery.mk.magnifier.js" />
+    <Content Include="scripts\Hiring\jquery.modal.js" />
+    <Content Include="scripts\Hiring\jquery.modal.min.js" />
+    <Content Include="scripts\Hiring\jquery.MultiFile.js" />
+    <Content Include="scripts\Hiring\jquery.plugin.min.js" />
+    <Content Include="scripts\Hiring\lightbox-web.js" />
+    <Content Include="scripts\Hiring\lightbox.css" />
+    <Content Include="scripts\Hiring\lightbox.js" />
+    <Content Include="scripts\Hiring\loader.js" />
+    <Content Include="scripts\Hiring\loader_8June11.zip" />
+    <Content Include="scripts\Hiring\Menu.js" />
+    <Content Include="scripts\Hiring\OnlineTest.css" />
+    <Content Include="scripts\Hiring\prototype.js" />
+    <Content Include="scripts\Hiring\read.gif" />
+    <Content Include="scripts\Hiring\scriptaculous.js" />
+    <Content Include="scripts\Hiring\scripts.zip" />
+    <Content Include="scripts\Hiring\site.js" />
+    <Content Include="scripts\Hiring\style.css" />
+    <Content Include="scripts\Hiring\styles.css" />
+    <Content Include="scripts\Hiring\stylesheet.css" />
+    <Content Include="scripts\Hiring\stylesOnlineTest.css" />
+    <Content Include="scripts\Hiring\stylesSelect.css" />
+    <Content Include="scripts\Hiring\styles_OnlineTest.css" />
+    <Content Include="scripts\Hiring\styles_TestUser.css" />
+    <Content Include="scripts\Hiring\submenu.css" />
+    <Content Include="scripts\Hiring\SubmitTask.js" />
+    <Content Include="scripts\Hiring\unread.gif" />
+    <Content Include="scripts\jquery-1.4.1.min.js" />
+    <Content Include="scripts\jquery-1.7.1.js" />
+    <Content Include="scripts\jquery-1.7.1.min.js" />
+    <Content Include="scripts\jquery-1.9.1.js" />
+    <Content Include="scripts\jquery-1.9.1.min.js" />
+    <Content Include="scripts\jquery-ui-1.8.24.custom.css" />
+    <Content Include="scripts\jquery.colorbox.js" />
+    <Content Include="scripts\jquery.highlight-5.js" />
+    <Content Include="scripts\jquery.js" />
+    <Content Include="scripts\jquery.mk.magnifier.js" />
+    <Content Include="scripts\jquery.notifyBar.js" />
+    <Content Include="scripts\lightbox-web.js" />
+    <Content Include="scripts\lightbox.css" />
+    <Content Include="scripts\lightbox.js" />
+    <Content Include="scripts\loader.js" />
+    <Content Include="scripts\loader_8June11.zip" />
+    <Content Include="scripts\Menu.js" />
+    <Content Include="scripts\PdfWebCompare\api.js" />
+    <Content Include="scripts\PdfWebCompare\bidi.js" />
+    <Content Include="scripts\PdfWebCompare\canvas.js" />
+    <Content Include="scripts\PdfWebCompare\charsets.js" />
+    <Content Include="scripts\PdfWebCompare\cidmaps.js" />
+    <Content Include="scripts\PdfWebCompare\colorspace.js" />
+    <Content Include="scripts\PdfWebCompare\compatibility.js" />
+    <Content Include="scripts\PdfWebCompare\core.js" />
+    <Content Include="scripts\PdfWebCompare\crypto.js" />
+    <Content Include="scripts\PdfWebCompare\debugger.js" />
+    <Content Include="scripts\PdfWebCompare\evaluator.js" />
+    <Content Include="scripts\PdfWebCompare\fonts.js" />
+    <Content Include="scripts\PdfWebCompare\function.js" />
+    <Content Include="scripts\PdfWebCompare\global.js" />
+    <Content Include="scripts\PdfWebCompare\glyphlist.js" />
+    <Content Include="scripts\PdfWebCompare\hello.js" />
+    <Content Include="scripts\PdfWebCompare\image.js" />
+    <Content Include="scripts\PdfWebCompare\jpg.js" />
+    <Content Include="scripts\PdfWebCompare\jpx.js" />
+    <Content Include="scripts\PdfWebCompare\l10n.js" />
+    <Content Include="scripts\PdfWebCompare\make.js" />
+    <Content Include="scripts\PdfWebCompare\metadata.js" />
+    <Content Include="scripts\PdfWebCompare\metrics.js" />
+    <Content Include="scripts\PdfWebCompare\obj.js" />
+    <Content Include="scripts\PdfWebCompare\parser.js" />
+    <Content Include="scripts\PdfWebCompare\pattern.js" />
+    <Content Include="scripts\PdfWebCompare\pdf.js" />
+    <Content Include="scripts\PdfWebCompare\shell.js" />
+    <Content Include="scripts\PdfWebCompare\stream.js" />
+    <Content Include="scripts\PdfWebCompare\util.js" />
+    <Content Include="scripts\PdfWebCompare\viewer.js" />
+    <Content Include="scripts\PdfWebCompare\viewerControl.js" />
+    <Content Include="scripts\PdfWebCompare\worker.js" />
+    <Content Include="scripts\PdfWebCompare\worker_loader.js" />
+    <Content Include="scripts\prototype.js" />
+    <Content Include="scripts\read.gif" />
+    <Content Include="scripts\scriptaculous.js" />
+    <Content Include="scripts\scripts.zip" />
+    <Content Include="scripts\style.css" />
+    <Content Include="scripts\styles.css" />
+    <Content Include="scripts\stylesheet.css" />
+    <Content Include="scripts\stylesSelect.css" />
+    <Content Include="scripts\submenu.css" />
+    <Content Include="scripts\SubmitTask.js" />
+    <Content Include="scripts\unread.gif" />
+    <Content Include="DisplayPdf.ashx" />
+    <Content Include="PdfToImgConverison\pdftoimg.application" />
+    <Content Include="PdfToImgConverison\pdftoimg.exe.config" />
+    <Content Include="PdfToImgConverison\pdftoimg.exe.manifest" />
+    <Content Include="PdfToImgConverison\pdftoimg.vshost.application" />
+    <Content Include="PdfToImgConverison\pdftoimg.vshost.exe.config" />
+    <Content Include="PdfToImgConverison\pdftoimg.vshost.exe.manifest" />
+    <Content Include="Document\book micro.pdf" />
+    <None Include="Web References\AutoMapService\AutoMappService.wsdl" />
+    <None Include="Web References\AutoMapService\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\AutoTableDetection\AutoTableDetection.disco" />
+    <Content Include="To Do List.txt" />
+    <None Include="Web References\BookMicroOcrService1\GetOcrText.wsdl" />
+    <None Include="Web References\BookMicroOcrService1\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\BookMicroOcrService\GetOcrText.wsdl" />
+    <None Include="Web References\BookMicroOcrService\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\OcrService11\GetText.wsdl" />
+    <None Include="Web References\OcrService11\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\OcrService\GetText.wsdl" />
+    <None Include="Web References\OcrService\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\WorkMeterDbSyncService\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\WorkMeterDbSyncService\SyncronizeDb.disco" />
+    <None Include="Web References\AutoMapService\AutoMappService.disco" />
+    <None Include="Web References\OcrService11\GetText.disco" />
+    <None Include="Web References\OcrService\GetText.disco" />
+    <None Include="Web References\BookMicroOcrService\GetOcrText.disco" />
+    <None Include="Web References\BookMicroOcrService1\GetOcrText.disco" />
+    <Content Include="WorkHistory.aspx" />
+    <None Include="FinalImages\btn_startTest2.psd" />
+    <None Include="FinalImages\file.psd" />
+    <None Include="img\Health Minister Khalil Tahir Sindhu resigned from his post after being reprimanded by Shah.mp4" />
+    <Content Include="FinalImages\371c198.png" />
+    <Content Include="FinalImages\765-default-avatar.png" />
+    <Content Include="FinalImages\btn_assign.jpg" />
+    <Content Include="FinalImages\btn_assign.png" />
+    <Content Include="FinalImages\btn_next.jpg" />
+    <Content Include="FinalImages\btn_previous.jpg" />
+    <Content Include="FinalImages\btn_startTest.jpg" />
+    <Content Include="FinalImages\btn_startTest2.png" />
+    <Content Include="FinalImages\btn_submit.jpg" />
+    <Content Include="FinalImages\btn_submit.png" />
+    <Content Include="FinalImages\btn_submitTask.jpg" />
+    <Content Include="FinalImages\btn_submitTask.png" />
+    <Content Include="FinalImages\btn_trainingVideos.jpg" />
+    <Content Include="FinalImages\button_startTest.jpg" />
+    <Content Include="FinalImages\closedcircle.png" />
+    <Content Include="FinalImages\file-text.png" />
+    <Content Include="FinalImages\file-video.png" />
+    <Content Include="FinalImages\graycircle.png" />
+    <Content Include="FinalImages\icon_close.png" />
+    <Content Include="FinalImages\icon_edit.png" />
+    <Content Include="FinalImages\icon_email.jpg" />
+    <Content Include="FinalImages\icon_fb.png" />
+    <Content Include="FinalImages\icon_phone.jpg" />
+    <Content Include="FinalImages\icon_stars.png" />
+    <Content Include="FinalImages\icon_stars1.png" />
+    <Content Include="FinalImages\icon_vimeo.png" />
+    <Content Include="FinalImages\icon_youtube.png" />
+    <Content Include="FinalImages\im_score.png" />
+    <Content Include="FinalImages\info.jpg" />
+    <Content Include="FinalImages\logo.jpg" />
+    <Content Include="FinalImages\opencircle.png" />
+    <Content Include="FinalImages\play.png" />
+    <Content Include="FinalScripts\jquery-1.9.1.js" />
+    <Content Include="FinalScripts\jquery.modal.js" />
+    <Content Include="FinalStyles\LoginDialog.css" />
+    <Content Include="FinalStyles\MessageStyles.css" />
+    <Content Include="FinalStyles\UserStyles.css" />
+    <Content Include="ImageTest.aspx" />
+    <Content Include="ImageTutorials.aspx" />
+    <Content Include="ImgCroppingTutorial.aspx" />
+    <Content Include="ImgCroppingUrdu.aspx" />
+    <Content Include="img\btn_assign.png" />
+    <Content Include="img\btn_startTest.jpg" />
+    <Content Include="img\btn_submit.jpg" />
+    <Content Include="img\btn_submit.png" />
+    <Content Include="img\btn_trainingVideos.jpg" />
+    <Content Include="img\Busy.gif" />
+    <Content Include="img\button_startTest.jpg" />
+    <Content Include="img\high_Latest.jpg" />
+    <Content Include="img\icon_close.png" />
+    <Content Include="img\pdfWebCompare\1344591618_edit-notes.png" />
+    <Content Include="img\pdfWebCompare\800x200.jpg" />
+    <Content Include="img\pdfWebCompare\b1.jpg" />
+    <Content Include="img\pdfWebCompare\b2.jpg" />
+    <Content Include="img\pdfWebCompare\b3.jpg" />
+    <Content Include="img\pdfWebCompare\banner.gif" />
+    <Content Include="img\pdfWebCompare\bg.gif" />
+    <Content Include="img\pdfWebCompare\blt-l.gif" />
+    <Content Include="img\pdfWebCompare\blt-l.jpg" />
+    <Content Include="img\pdfWebCompare\blt-r.gif" />
+    <Content Include="img\pdfWebCompare\blt-r.jpg" />
+    <Content Include="img\pdfWebCompare\btn_go.gif" />
+    <Content Include="img\pdfWebCompare\btn_p1.gif" />
+    <Content Include="img\pdfWebCompare\btn_p2.gif" />
+    <Content Include="img\pdfWebCompare\collapse.jpg" />
+    <Content Include="img\pdfWebCompare\expand.jpg" />
+    <Content Include="img\pdfWebCompare\hd1.gif" />
+    <Content Include="img\pdfWebCompare\hd2.gif" />
+    <Content Include="img\pdfWebCompare\hd2a.gif" />
+    <Content Include="img\pdfWebCompare\hd2b.gif" />
+    <Content Include="img\pdfWebCompare\hdsb_01.gif" />
+    <Content Include="img\pdfWebCompare\hdsb_02.gif" />
+    <Content Include="img\pdfWebCompare\hdsb_03.gif" />
+    <Content Include="img\pdfWebCompare\high.JPG" />
+    <Content Include="img\pdfWebCompare\high_Latest.jpg" />
+    <Content Include="img\pdfWebCompare\high_old.JPG" />
+    <Content Include="img\pdfWebCompare\lg2.gif" />
+    <Content Include="img\pdfWebCompare\loader.gif" />
+    <Content Include="img\pdfWebCompare\loading-icon.gif" />
+    <Content Include="img\pdfWebCompare\loading.gif" />
+    <Content Include="img\pdfWebCompare\logo.gif" />
+    <Content Include="img\pdfWebCompare\mna_01.gif" />
+    <Content Include="img\pdfWebCompare\mna_02.gif" />
+    <Content Include="img\pdfWebCompare\mn_02.gif" />
+    <Content Include="img\pdfWebCompare\mn_02b.gif" />
+    <Content Include="img\pdfWebCompare\mn_03.gif" />
+    <Content Include="img\pdfWebCompare\mn_03b.gif" />
+    <Content Include="img\pdfWebCompare\mn_04.gif" />
+    <Content Include="img\pdfWebCompare\mn_04b.gif" />
+    <Content Include="img\pdfWebCompare\mn_05.gif" />
+    <Content Include="img\pdfWebCompare\mn_05b.gif" />
+    <Content Include="img\pdfWebCompare\mn_06.gif" />
+    <Content Include="img\pdfWebCompare\mn_06b.gif" />
+    <Content Include="img\pdfWebCompare\NotFound.JPG" />
+    <Content Include="img\pdfWebCompare\ReadHowYouWant.gif" />
+    <Content Include="img\pdfWebCompare\sim-logo.png" />
+    <Content Include="img\pdfWebCompare\texture.png" />
+    <Content Include="img\pdfWebCompare\toolbarButton-bookmark.png" />
+    <Content Include="img\pdfWebCompare\toolbarButton-download.png" />
+    <Content Include="img\pdfWebCompare\toolbarButton-menuArrows.png" />
+    <Content Include="img\pdfWebCompare\toolbarButton-openFile.png" />
+    <Content Include="img\pdfWebCompare\toolbarButton-pageDown-rtl.png" />
+    <Content Include="img\pdfWebCompare\toolbarButton-pageDown.png" />
+    <Content Include="img\pdfWebCompare\toolbarButton-pageUp-rtl.png" />
+    <Content Include="img\pdfWebCompare\toolbarButton-pageUp.png" />
+    <Content Include="img\pdfWebCompare\toolbarButton-print.png" />
+    <Content Include="img\pdfWebCompare\toolbarButton-sidebarToggle.png" />
+    <Content Include="img\pdfWebCompare\toolbarButton-viewOutline.png" />
+    <Content Include="img\pdfWebCompare\toolbarButton-viewThumbnail.png" />
+    <Content Include="img\pdfWebCompare\toolbarButton-zoomIn.png" />
+    <Content Include="img\pdfWebCompare\toolbarButton-zoomOut.png" />
+    <Content Include="img\pdfWebCompare\yt.jpg" />
+    <Content Include="img\Quiz.jpg" />
+    <Content Include="IndexingTutorials.aspx" />
+    <Content Include="IndexTest.aspx" />
+    <Content Include="MappingTest.aspx" />
+    <Content Include="MappingTutorials.aspx" />
+    <Content Include="New folder\MasterPages\OnlineTestMasterPage.Master" />
+    <Content Include="New folder\MasterPages\OnlineTestRegisterdMaster.Master" />
+    <None Include="img\pdfWebCompare\annotation-check.svg" />
+    <None Include="img\pdfWebCompare\annotation-comment.svg" />
+    <None Include="img\pdfWebCompare\annotation-text.svg" />
+    <None Include="img\pdfWebCompare\Thumbs.db" />
+    <Content Include="New folder\MasterPages\AdminMaster_Hiring.Master" />
+    <Content Include="AdminMaster.Master" />
+    <Content Include="packages.config" />
+    <None Include="Service References\readableEnglishService\Service1.disco" />
+    <None Include="Service References\readableEnglishService\configuration91.svcinfo" />
+    <None Include="Service References\readableEnglishService\configuration.svcinfo" />
+    <None Include="Service References\readableEnglishService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="UserControls\CommonControl\ucShowMessage.ascx" />
+    <Content Include="UserControls\ucAuthor.ascx" />
+    <Content Include="UserDetails.aspx" />
+    <Content Include="UserMaster.Master" />
+    <None Include="PdftoHtml5Scripts\Page1.pdf" />
+    <Content Include="MistakeTaskeFinished.aspx" />
+    <Content Include="NewTask.aspx" />
+    <Content Include="OnlineTestUser.aspx" />
+    <Content Include="Passed.aspx" />
+    <Content Include="QuizType.aspx" />
+    <Content Include="scroller\basebarcaps_verticalbarbody.png" />
+    <Content Include="scroller\flexcroll.js" />
+    <Content Include="scroller\flexcrollstyles.css" />
+    <Content Include="scroller\horizontalbarbody_cornerjog.png" />
+    <Content Include="scroller\tutorsty.css" />
+    <None Include="Service References\readableEnglishService\Service1.wsdl" />
+    <None Include="Service References\readableEnglishService\Service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\readableEnglishService\Service11.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceReference1\Service1.disco" />
+    <None Include="Service References\ServiceReference1\configuration91.svcinfo" />
+    <None Include="Service References\ServiceReference1\configuration.svcinfo" />
+    <None Include="Service References\ServiceReference1\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="scroller\Thumbs.db" />
+    <None Include="Service References\ComparisonService\ComparisonTasks.wsdl" />
+    <None Include="Service References\ComparisonService\ComparisonTasks.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ComparisonService\ComparisonTasks1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceReference1\Service1.wsdl" />
+    <None Include="Service References\ServiceReference1\Service1.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\ServiceReference1\Service11.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <Content Include="showPdf.ashx" />
+    <None Include="Web References\AutoTableDetection\AutoTableDetection.wsdl" />
+    <None Include="Web References\AutoTableDetection\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\ImageValidator\ImageValidationService.disco" />
+    <None Include="Web References\Index_Service\IndexService.wsdl" />
+    <None Include="Web References\Index_Service\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\Index_Service\IndexService.disco" />
+    <None Include="Web References\WorkMeterDbSyncService\SyncronizeDb.wsdl" />
+    <None Include="Web References\TableValidation\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\TableValidation\Service.disco" />
+    <Content Include="BookPreview.aspx" />
+    <Content Include="Finalize.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="img\icon_minus.png" />
+    <Content Include="img\icon_plus.png" />
+    <Content Include="img\invisible.cur" />
+    <Content Include="img\invisible_chrome.cur" />
+    <Content Include="img\SpellChekerImage.jpg" />
+    <Content Include="img\split_all.png" />
+    <Content Include="img\arrow.gif" />
+    <Content Include="img\Blue-Info.gif" />
+    <Content Include="img\checked.gif" />
+    <Content Include="img\FNote.gif" />
+    <Content Include="img\glossy.gif" />
+    <Content Include="img\glossy2.gif" />
+    <Content Include="img\glossyback.gif" />
+    <Content Include="img\glossyback2.gif" />
+    <Content Include="img\Hyperlink.png" />
+    <Content Include="img\Khalil.jpg" />
+    <Content Include="img\MergAll.jpg" />
+    <Content Include="img\PageBreaks.gif" />
+    <Content Include="img\ReadHowYouWant.gif" />
+    <Content Include="img\red-error.gif" />
+    <Content Include="img\Sp_Chracter.gif" />
+    <Content Include="img\Sp_Chracter.png" />
+    <Content Include="img\unchecked.gif" />
+    <Content Include="img\watch.png" />
+    <Content Include="MetaInformation.aspx" />
+    <Content Include="OCRDemonstration.aspx" />
+    <Content Include="OnlineTestPage.aspx" />
+    <Content Include="PdftoHtml5Scripts\api.js" />
+    <Content Include="PdftoHtml5Scripts\bidi.js" />
+    <Content Include="PdftoHtml5Scripts\canvas.js" />
+    <Content Include="PdftoHtml5Scripts\charsets.js" />
+    <Content Include="PdftoHtml5Scripts\cidmaps.js" />
+    <Content Include="PdftoHtml5Scripts\colorspace.js" />
+    <Content Include="PdftoHtml5Scripts\compatibility.js" />
+    <Content Include="PdftoHtml5Scripts\core.js" />
+    <Content Include="PdftoHtml5Scripts\crypto.js" />
+    <Content Include="PdftoHtml5Scripts\debugger.js" />
+    <Content Include="PdftoHtml5Scripts\evaluator.js" />
+    <Content Include="PdftoHtml5Scripts\fonts.js" />
+    <Content Include="PdftoHtml5Scripts\function.js" />
+    <Content Include="PdftoHtml5Scripts\glyphlist.js" />
+    <Content Include="PdftoHtml5Scripts\image.js" />
+    <Content Include="PdftoHtml5Scripts\jpg.js" />
+    <Content Include="PdftoHtml5Scripts\jpx.js" />
+    <Content Include="PdftoHtml5Scripts\jquery-1.4.1.js" />
+    <Content Include="PdftoHtml5Scripts\jquery-1.7.1.min.js" />
+    <Content Include="PdftoHtml5Scripts\jquery.anythingzoomer.js" />
+    <Content Include="PdftoHtml5Scripts\l10n.js" />
+    <Content Include="PdftoHtml5Scripts\metadata.js" />
+    <Content Include="PdftoHtml5Scripts\metrics.js" />
+    <Content Include="PdftoHtml5Scripts\obj.js" />
+    <Content Include="PdftoHtml5Scripts\parser.js" />
+    <Content Include="PdftoHtml5Scripts\pattern.js" />
+    <Content Include="PdftoHtml5Scripts\pdf.js" />
+    <Content Include="PdftoHtml5Scripts\stream.js" />
+    <Content Include="PdftoHtml5Scripts\util.js" />
+    <Content Include="PdftoHtml5Scripts\utils\cffStandardStrings.js" />
+    <Content Include="PdftoHtml5Scripts\utils\fonts_utils.js" />
+    <Content Include="PdftoHtml5Scripts\ViewerControl.css" />
+    <Content Include="PdftoHtml5Scripts\viewerControl.js" />
+    <Content Include="PdftoHtml5Scripts\worker.js" />
+    <Content Include="PdftoHtml5Scripts\worker_loader.js" />
+    <None Include="Service References\ComparisonService\ComparisonTasks.disco" />
+    <None Include="Service References\ComparisonService\configuration91.svcinfo" />
+    <None Include="Service References\ComparisonService\configuration.svcinfo" />
+    <None Include="Service References\ComparisonService\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="SpellChecker.aspx" />
+    <Content Include="Step2.aspx" />
+    <Content Include="Failed.aspx" />
+    <Content Include="TableTest.aspx" />
+    <Content Include="TableTutorials.aspx" />
+    <Content Include="TagUntag.aspx" />
+    <Content Include="TestUserAccountDetails.aspx" />
+    <Content Include="Training.aspx" />
+    <Content Include="UserControls\PDFTextCmp.ascx" />
+    <Content Include="UserControls\PDFViewer.ascx" />
+    <Content Include="UserControls\ucOnlineTestTasks.ascx" />
+    <Content Include="ValueAddSettings.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <None Include="Web References\TableValidation\Service.wsdl" />
+    <Content Include="WebHandlers\ShowTableDetection.ashx" />
+    <Content Include="WebHandlers\GetPdfInSVG.ashx" />
+    <Content Include="WebHandlers\ShowMissingImgPdf.ashx" />
+    <Content Include="WebHandlers\ShowParaSelection.ashx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutUs.aspx.cs">
+      <DependentUpon>AboutUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AboutUs.aspx.designer.cs">
+      <DependentUpon>AboutUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AccountDetail.aspx.cs">
+      <DependentUpon>AccountDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AccountDetail.aspx.designer.cs">
+      <DependentUpon>AccountDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AccountInformation.aspx.cs">
+      <DependentUpon>AccountInformation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AccountInformation.aspx.designer.cs">
+      <DependentUpon>AccountInformation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AddVolumeBreaks.aspx.cs">
+      <DependentUpon>AddVolumeBreaks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AddVolumeBreaks.aspx.designer.cs">
+      <DependentUpon>AddVolumeBreaks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPanel.aspx.cs">
+      <DependentUpon>AdminPanel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminPanel.aspx.designer.cs">
+      <DependentUpon>AdminPanel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ApproveTasks.aspx.cs">
+      <DependentUpon>ApproveTasks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ApproveTasks.aspx.designer.cs">
+      <DependentUpon>ApproveTasks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ApproveTest.aspx.cs">
+      <DependentUpon>ApproveTest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ApproveTest.aspx.designer.cs">
+      <DependentUpon>ApproveTest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="AssignTask.aspx.cs">
+      <DependentUpon>AssignTask.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AssignTask.aspx.designer.cs">
+      <DependentUpon>AssignTask.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ApprovedTaskDetails.aspx.cs">
+      <DependentUpon>ApprovedTaskDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ApprovedTaskDetails.aspx.designer.cs">
+      <DependentUpon>ApprovedTaskDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BookHierarchy.aspx.cs">
+      <DependentUpon>BookHierarchy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BookHierarchy.aspx.designer.cs">
+      <DependentUpon>BookHierarchy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BookMicro.aspx.cs">
+      <DependentUpon>BookMicro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BookMicro.aspx.designer.cs">
+      <DependentUpon>BookMicro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BookMicroUpgraded.aspx.cs">
+      <DependentUpon>BookMicroUpgraded.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BookMicroUpgraded.aspx.designer.cs">
+      <DependentUpon>BookMicroUpgraded.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="BookPreview.aspx.cs">
+      <DependentUpon>BookPreview.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BookPreview.aspx.designer.cs">
+      <DependentUpon>BookPreview.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Books.aspx.cs">
+      <DependentUpon>Books.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Books.aspx.designer.cs">
+      <DependentUpon>Books.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonClasses\BankDetails.cs" />
+    <Compile Include="CommonClasses\BookPageBreak.cs" />
+    <Compile Include="CommonClasses\ComplexBitsConversion.cs" />
+    <Compile Include="CommonClasses\EndNodeCoord.cs" />
+    <Compile Include="CommonClasses\Indentation.cs" />
+    <Compile Include="CommonClasses\PdfFootNote.cs" />
+    <Compile Include="CommonClasses\PdfPara.cs" />
+    <Compile Include="CommonClasses\ResultStatus.cs" />
+    <Compile Include="CommonClasses\SvgBox.cs" />
+    <Compile Include="CommonClasses\SvgTextLine.cs" />
+    <Compile Include="CommonClasses\ColorTypes.cs" />
+    <Compile Include="CommonClasses\CommonClass.cs" />
+    <Compile Include="CommonClasses\ConversionLog.cs" />
+    <Compile Include="CommonClasses\DateWiseInfo.cs" />
+    <Compile Include="CommonClasses\MyDBClass.cs" />
+    <Compile Include="CommonClasses\OCROperations.cs" />
+    <Compile Include="CommonClasses\OnlineTest.cs" />
+    <Compile Include="CommonClasses\PdfSvgEntities.cs" />
+    <Compile Include="CommonClasses\Rank.cs" />
+    <Compile Include="CommonClasses\SiteSession.cs" />
+    <Compile Include="CommonClasses\SpellError.cs" />
+    <Compile Include="CommonClasses\SvgTextBlock.cs" />
+    <Compile Include="CommonClasses\TableDetection.cs" />
+    <Compile Include="CommonClasses\TagUnTagParameters.cs" />
+    <Compile Include="CommonClasses\TaskType.cs" />
+    <Compile Include="CommonClasses\TestDetail.cs" />
+    <Compile Include="CommonClasses\TestUser.cs" />
+    <Compile Include="CommonClasses\Transaction.cs" />
+    <Compile Include="CommonClasses\Word.cs" />
+    <Compile Include="CommonClasses\WorkMeter.cs" />
+    <Compile Include="CommonClasses\WorkMeterEntities.cs" />
+    <Compile Include="CommonClasses\ZipUtility.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Comparison.aspx.cs">
+      <DependentUpon>Comparison.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Comparison.aspx.designer.cs">
+      <DependentUpon>Comparison.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ComparisonPage2.aspx.cs">
+      <DependentUpon>ComparisonPage2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ComparisonPage2.aspx.designer.cs">
+      <DependentUpon>ComparisonPage2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ComparisonPreProcess.aspx.cs">
+      <DependentUpon>ComparisonPreProcess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ComparisonPreProcess.aspx.designer.cs">
+      <DependentUpon>ComparisonPreProcess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ComparisonTask.aspx.cs">
+      <DependentUpon>ComparisonTask.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ComparisonTask.aspx.designer.cs">
+      <DependentUpon>ComparisonTask.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ComparisonTutorial.aspx.cs">
+      <DependentUpon>ComparisonTutorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ComparisonTutorial.aspx.designer.cs">
+      <DependentUpon>ComparisonTutorial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CompleteBooks.aspx.cs">
+      <DependentUpon>CompleteBooks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CompleteBooks.aspx.designer.cs">
+      <DependentUpon>CompleteBooks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonClasses\ConversionClass.cs" />
+    <Compile Include="AmountConfirmation.aspx.cs">
+      <DependentUpon>AmountConfirmation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AmountConfirmation.aspx.designer.cs">
+      <DependentUpon>AmountConfirmation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ComplexBitsMapping.aspx.cs">
+      <DependentUpon>ComplexBitsMapping.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ComplexBitsMapping.aspx.designer.cs">
+      <DependentUpon>ComplexBitsMapping.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ContactUs.aspx.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ContactUs.aspx.designer.cs">
+      <DependentUpon>ContactUs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DisplayPdf.ashx.cs">
+      <DependentUpon>DisplayPdf.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Dispute.aspx.cs">
+      <DependentUpon>Dispute.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Dispute.aspx.designer.cs">
+      <DependentUpon>Dispute.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="DisputeDetail.aspx.cs">
+      <DependentUpon>DisputeDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DisputeDetail.aspx.designer.cs">
+      <DependentUpon>DisputeDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonClasses\FinalFonts.cs" />
+    <Compile Include="Error.aspx.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Error.aspx.designer.cs">
+      <DependentUpon>Error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorDetection.aspx.cs">
+      <DependentUpon>ErrorDetection.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ErrorDetection.aspx.designer.cs">
+      <DependentUpon>ErrorDetection.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Finalize.aspx.cs">
+      <DependentUpon>Finalize.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Finalize.aspx.designer.cs">
+      <DependentUpon>Finalize.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonClasses\FontDetails.cs" />
+    <Compile Include="CommonClasses\GlobalVar.cs" />
+    <Compile Include="CommonClasses\LogWritter.cs" />
+    <Compile Include="ForgotPassword.aspx.cs">
+      <DependentUpon>ForgotPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ForgotPassword.aspx.designer.cs">
+      <DependentUpon>ForgotPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="HowItWorks.aspx.cs">
+      <DependentUpon>HowItWorks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HowItWorks.aspx.designer.cs">
+      <DependentUpon>HowItWorks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImageTest.aspx.cs">
+      <DependentUpon>ImageTest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImageTest.aspx.designer.cs">
+      <DependentUpon>ImageTest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImageTutorials.aspx.cs">
+      <DependentUpon>ImageTutorials.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImageTutorials.aspx.designer.cs">
+      <DependentUpon>ImageTutorials.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImgCroppingTutorial.aspx.cs">
+      <DependentUpon>ImgCroppingTutorial.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImgCroppingTutorial.aspx.designer.cs">
+      <DependentUpon>ImgCroppingTutorial.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ImgCroppingUrdu.aspx.cs">
+      <DependentUpon>ImgCroppingUrdu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ImgCroppingUrdu.aspx.designer.cs">
+      <DependentUpon>ImgCroppingUrdu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IndexingTutorials.aspx.cs">
+      <DependentUpon>IndexingTutorials.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IndexingTutorials.aspx.designer.cs">
+      <DependentUpon>IndexingTutorials.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IndexTest.aspx.cs">
+      <DependentUpon>IndexTest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IndexTest.aspx.designer.cs">
+      <DependentUpon>IndexTest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ManageTasks.aspx.cs">
+      <DependentUpon>ManageTasks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManageTasks.aspx.designer.cs">
+      <DependentUpon>ManageTasks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ManageUser.aspx.cs">
+      <DependentUpon>ManageUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ManageUser.aspx.designer.cs">
+      <DependentUpon>ManageUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MappingTest.aspx.cs">
+      <DependentUpon>MappingTest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MappingTest.aspx.designer.cs">
+      <DependentUpon>MappingTest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MappingTutorials.aspx.cs">
+      <DependentUpon>MappingTutorials.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MappingTutorials.aspx.designer.cs">
+      <DependentUpon>MappingTutorials.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBox.aspx.cs">
+      <DependentUpon>MessageBox.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MessageBox.aspx.designer.cs">
+      <DependentUpon>MessageBox.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="New folder\MasterPages\AdminMaster_Hiring.Master.cs">
+      <DependentUpon>AdminMaster_Hiring.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="New folder\MasterPages\AdminMaster_Hiring.Master.designer.cs">
+      <DependentUpon>AdminMaster_Hiring.Master</DependentUpon>
+    </Compile>
+    <Compile Include="AdminMaster.Master.cs">
+      <DependentUpon>AdminMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="AdminMaster.Master.designer.cs">
+      <DependentUpon>AdminMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MistakesInsertion.aspx.cs">
+      <DependentUpon>MistakesInsertion.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MistakesInsertion.aspx.designer.cs">
+      <DependentUpon>MistakesInsertion.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ParaSelection.aspx.cs">
+      <DependentUpon>ParaSelection.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ParaSelection.aspx.designer.cs">
+      <DependentUpon>ParaSelection.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentsAndTerms.aspx.cs">
+      <DependentUpon>PaymentsAndTerms.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PaymentsAndTerms.aspx.designer.cs">
+      <DependentUpon>PaymentsAndTerms.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PdfCompare_Classes\PdfCoord.cs" />
+    <Compile Include="PdfCompare_Classes\PdfIndentation.cs" />
+    <Compile Include="PdfCompare_Classes\PdfJsLine.cs" />
+    <Compile Include="PdfCompare_Classes\MessageTypes.cs" />
+    <Compile Include="PdfCompare_Classes\PdfTable.cs" />
+    <Compile Include="PdfCompare_Classes\TableColumns.cs" />
+    <Compile Include="PdfCompare_Classes\TableLine.cs" />
+    <Compile Include="PdfCompare_Classes\TetmlLine.cs" />
+    <Compile Include="PdfCompare_Classes\XlsxFile.cs" />
+    <Compile Include="PdfImageUpload.aspx.cs">
+      <DependentUpon>PdfImageUpload.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PdfImageUpload.aspx.designer.cs">
+      <DependentUpon>PdfImageUpload.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Process1.aspx.cs">
+      <DependentUpon>Process1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Process1.aspx.designer.cs">
+      <DependentUpon>Process1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ResetTask.aspx.cs">
+      <DependentUpon>ResetTask.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ResetTask.aspx.designer.cs">
+      <DependentUpon>ResetTask.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\readableEnglishService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\CommonControl\ucShowMessage.ascx.cs">
+      <DependentUpon>ucShowMessage.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\CommonControl\ucShowMessage.ascx.designer.cs">
+      <DependentUpon>ucShowMessage.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucAuthor.ascx.cs">
+      <DependentUpon>ucAuthor.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucAuthor.ascx.designer.cs">
+      <DependentUpon>ucAuthor.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserDetails.aspx.cs">
+      <DependentUpon>UserDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserDetails.aspx.designer.cs">
+      <DependentUpon>UserDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserMaster.Master.cs">
+      <DependentUpon>UserMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserMaster.Master.designer.cs">
+      <DependentUpon>UserMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="New folder\MasterPages\OnlineTestMasterPage.Master.cs">
+      <DependentUpon>OnlineTestMasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="New folder\MasterPages\OnlineTestMasterPage.Master.designer.cs">
+      <DependentUpon>OnlineTestMasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="New folder\MasterPages\OnlineTestRegisterdMaster.Master.cs">
+      <DependentUpon>OnlineTestRegisterdMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="New folder\MasterPages\OnlineTestRegisterdMaster.Master.designer.cs">
+      <DependentUpon>OnlineTestRegisterdMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MetaInformation.aspx.cs">
+      <DependentUpon>MetaInformation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MetaInformation.aspx.designer.cs">
+      <DependentUpon>MetaInformation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MistakeTaskeFinished.aspx.cs">
+      <DependentUpon>MistakeTaskeFinished.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MistakeTaskeFinished.aspx.designer.cs">
+      <DependentUpon>MistakeTaskeFinished.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NewTask.aspx.cs">
+      <DependentUpon>NewTask.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NewTask.aspx.designer.cs">
+      <DependentUpon>NewTask.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OCRDemonstration.aspx.cs">
+      <DependentUpon>OCRDemonstration.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OCRDemonstration.aspx.designer.cs">
+      <DependentUpon>OCRDemonstration.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OnlineTestPage.aspx.cs">
+      <DependentUpon>OnlineTestPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OnlineTestPage.aspx.designer.cs">
+      <DependentUpon>OnlineTestPage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="OnlineTestUser.aspx.cs">
+      <DependentUpon>OnlineTestUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="OnlineTestUser.aspx.designer.cs">
+      <DependentUpon>OnlineTestUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Passed.aspx.cs">
+      <DependentUpon>Passed.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Passed.aspx.designer.cs">
+      <DependentUpon>Passed.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PdfCompare_Classes\Annotation.cs" />
+    <Compile Include="PdfCompare_Classes\Common.cs" />
+    <Compile Include="PdfCompare_Classes\CompareFiles.cs" />
+    <Compile Include="PdfCompare_Classes\ErrorList.cs" />
+    <Compile Include="PdfCompare_Classes\ErrorListHandler.cs" />
+    <Compile Include="PdfCompare_Classes\ExcelHandler.cs" />
+    <Compile Include="PdfCompare_Classes\PdfCompareGlobalVar.cs" />
+    <Compile Include="PdfCompare_Classes\ICompFile.cs" />
+    <Compile Include="PdfCompare_Classes\PdfCompareImageIndex.cs" />
+    <Compile Include="PdfCompare_Classes\MistakeInsertion.cs" />
+    <Compile Include="PdfCompare_Classes\PdfCompareMyDBClass.cs" />
+    <Compile Include="PdfCompare_Classes\PDFCmpSesssion.cs" />
+    <Compile Include="PdfCompare_Classes\PDFFile.cs" />
+    <Compile Include="PdfCompare_Classes\PDFFileInfo.cs" />
+    <Compile Include="PdfCompare_Classes\PDFManipulation.cs" />
+    <Compile Include="PdfCompare_Classes\PDFTextExtract.cs" />
+    <Compile Include="PdfCompare_Classes\RHYWManipulation.cs" />
+    <Compile Include="PdfCompare_Classes\SeperatePages.cs" />
+    <Compile Include="PdfCompare_Classes\SiteSession.cs" />
+    <Compile Include="PdfCompare_Classes\SourcePDF.cs" />
+    <Compile Include="PdfCompare_Classes\Word.cs" />
+    <Compile Include="QuizType.aspx.cs">
+      <DependentUpon>QuizType.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="QuizType.aspx.designer.cs">
+      <DependentUpon>QuizType.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\ServiceReference1\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="SchemaElements.cs" />
+    <Compile Include="Service References\ComparisonService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="SpellChecker.aspx.cs">
+      <DependentUpon>SpellChecker.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SpellChecker.aspx.designer.cs">
+      <DependentUpon>SpellChecker.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Step2.aspx.cs">
+      <DependentUpon>Step2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Step2.aspx.designer.cs">
+      <DependentUpon>Step2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Failed.aspx.cs">
+      <DependentUpon>Failed.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Failed.aspx.designer.cs">
+      <DependentUpon>Failed.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TableTest.aspx.cs">
+      <DependentUpon>TableTest.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TableTest.aspx.designer.cs">
+      <DependentUpon>TableTest.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TableTutorials.aspx.cs">
+      <DependentUpon>TableTutorials.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TableTutorials.aspx.designer.cs">
+      <DependentUpon>TableTutorials.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TagUntag.aspx.cs">
+      <DependentUpon>TagUntag.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TagUntag.aspx.designer.cs">
+      <DependentUpon>TagUntag.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="TestUserAccountDetails.aspx.cs">
+      <DependentUpon>TestUserAccountDetails.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TestUserAccountDetails.aspx.designer.cs">
+      <DependentUpon>TestUserAccountDetails.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Training.aspx.cs">
+      <DependentUpon>Training.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Training.aspx.designer.cs">
+      <DependentUpon>Training.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\PDFTextCmp.ascx.cs">
+      <DependentUpon>PDFTextCmp.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\PDFTextCmp.ascx.designer.cs">
+      <DependentUpon>PDFTextCmp.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\PDFViewer.ascx.cs">
+      <DependentUpon>PDFViewer.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\PDFViewer.ascx.designer.cs">
+      <DependentUpon>PDFViewer.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\ucOnlineTestTasks.ascx.cs">
+      <DependentUpon>ucOnlineTestTasks.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserControls\ucOnlineTestTasks.ascx.designer.cs">
+      <DependentUpon>ucOnlineTestTasks.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UserTransactions.aspx.cs">
+      <DependentUpon>UserTransactions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserTransactions.aspx.designer.cs">
+      <DependentUpon>UserTransactions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomControls\LoadControl.ascx.cs">
+      <DependentUpon>LoadControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomControls\LoadControl.ascx.designer.cs">
+      <DependentUpon>LoadControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="CustomControls\ProcessControl.ascx.cs">
+      <DependentUpon>ProcessControl.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="CustomControls\ProcessControl.ascx.designer.cs">
+      <DependentUpon>ProcessControl.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorAdjustment.aspx.cs">
+      <DependentUpon>ErrorAdjustment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ErrorAdjustment.aspx.designer.cs">
+      <DependentUpon>ErrorAdjustment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonClasses\FileBackup.cs" />
+    <Compile Include="CommonClasses\ImageIndex.cs" />
+    <Compile Include="LogStatus.aspx.cs">
+      <DependentUpon>LogStatus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LogStatus.aspx.designer.cs">
+      <DependentUpon>LogStatus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mail.aspx.cs">
+      <DependentUpon>Mail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mail.aspx.designer.cs">
+      <DependentUpon>Mail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBoard.aspx.cs">
+      <DependentUpon>MessageBoard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MessageBoard.aspx.designer.cs">
+      <DependentUpon>MessageBoard.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Transactions.aspx.cs">
+      <DependentUpon>Transactions.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Transactions.aspx.designer.cs">
+      <DependentUpon>Transactions.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UnderConstruction.aspx.cs">
+      <DependentUpon>UnderConstruction.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UnderConstruction.aspx.designer.cs">
+      <DependentUpon>UnderConstruction.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateStatus.aspx.cs">
+      <DependentUpon>UpdateStatus.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UpdateStatus.aspx.designer.cs">
+      <DependentUpon>UpdateStatus.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateUser.aspx.cs">
+      <DependentUpon>UpdateUser.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UpdateUser.aspx.designer.cs">
+      <DependentUpon>UpdateUser.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Signup.aspx.cs">
+      <DependentUpon>Signup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Signup.aspx.designer.cs">
+      <DependentUpon>Signup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="SubmitTask.aspx.cs">
+      <DependentUpon>SubmitTask.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="SubmitTask.aspx.designer.cs">
+      <DependentUpon>SubmitTask.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UploadZIP.aspx.cs">
+      <DependentUpon>UploadZIP.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UploadZIP.aspx.designer.cs">
+      <DependentUpon>UploadZIP.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonClasses\UserClass.cs" />
+    <Compile Include="UserPanel.aspx.cs">
+      <DependentUpon>UserPanel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UserPanel.aspx.designer.cs">
+      <DependentUpon>UserPanel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ValueAddSettings.aspx.cs">
+      <DependentUpon>ValueAddSettings.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ValueAddSettings.aspx.designer.cs">
+      <DependentUpon>ValueAddSettings.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\AutoMapService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\AutoTableDetection\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\BookMicroOcrService1\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\BookMicroOcrService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\ImageValidator\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\Index_Service\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\OcrService11\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\OcrService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\WorkMeterDbSyncService\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\MailService1\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="TaggingUnTagged.aspx.cs">
+      <DependentUpon>TaggingUnTagged.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="TaggingUnTagged.aspx.designer.cs">
+      <DependentUpon>TaggingUnTagged.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Web References\TableValidation\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm2.aspx.cs">
+      <DependentUpon>WebForm2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm2.aspx.designer.cs">
+      <DependentUpon>WebForm2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebForm5.aspx.cs">
+      <DependentUpon>WebForm5.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WebForm5.aspx.designer.cs">
+      <DependentUpon>WebForm5.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="WebHandlers\GetPdfInSVG.ashx.cs">
+      <DependentUpon>GetPdfInSVG.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="WebHandlers\ShowMissingImgPdf.ashx.cs">
+      <DependentUpon>ShowMissingImgPdf.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="WebHandlers\ShowParaSelection.ashx.cs">
+      <DependentUpon>ShowParaSelection.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="WebHandlers\ShowTableDetection.ashx.cs">
+      <DependentUpon>ShowTableDetection.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="Withdraw.aspx.cs">
+      <DependentUpon>Withdraw.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Withdraw.aspx.designer.cs">
+      <DependentUpon>Withdraw.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="CommonClasses\XsltContext.cs" />
+    <Compile Include="CommonClasses\Zip.cs" />
+    <Compile Include="WorkHistory.aspx.cs">
+      <DependentUpon>WorkHistory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="WorkHistory.aspx.designer.cs">
+      <DependentUpon>WorkHistory.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AssignTask.aspx" />
+    <Content Include="ApprovedTaskDetails.aspx" />
+    <Content Include="CustomControls\ProcessControl.ascx" />
+    <Content Include="Mail.aspx" />
+    <Content Include="MessageBoard.aspx" />
+    <Content Include="UpdateUser.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="Signup.aspx" />
+    <Content Include="SubmitTask.aspx" />
+    <Content Include="UserPanel.aspx" />
+    <None Include="Web References\ImageValidator\ImageValidationService.wsdl" />
+    <None Include="Web References\ImageValidator\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Web References\MailService1\MailService.disco" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://54.179.106.237/BookMicroOcrService/GetOcrText.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\BookMicroOcrService1\</RelPath>
+      <UpdateFromURL>http://54.179.106.237/BookMicroOcrService/GetOcrText.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>
+      </CachedAppSettingsObjectName>
+      <CachedSettingsPropName>
+      </CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://192.168.0.42:28742/RHYWEMailService/MailService.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\MailService1\</RelPath>
+      <UpdateFromURL>http://192.168.0.42:28742/RHYWEMailService/MailService.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>Outsourcing_System_MailService1_MailService</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://localhost:57676/BookMicroOcrService/GetOcrText.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\BookMicroOcrService\</RelPath>
+      <UpdateFromURL>http://localhost:57676/BookMicroOcrService/GetOcrText.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>
+      </CachedAppSettingsObjectName>
+      <CachedSettingsPropName>
+      </CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://localhost:41650/SyncronizeDb.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\WorkMeterDbSyncService\</RelPath>
+      <UpdateFromURL>http://localhost:41650/SyncronizeDb.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>
+      </CachedAppSettingsObjectName>
+      <CachedSettingsPropName>
+      </CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://localhost:42226/old/IndexService.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\Index_Service\</RelPath>
+      <UpdateFromURL>http://localhost:42226/old/IndexService.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>Outsourcing_System_Index_Service_IndexService</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://localhost:15691/ImageValidator/ImageValidationService.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\ImageValidator\</RelPath>
+      <UpdateFromURL>http://localhost:15691/ImageValidator/ImageValidationService.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>Settings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>Outsourcing_System_ImageValidator_ImageValidationService</CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://192.168.0.200:91/TableValidation/Service.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\TableValidation\</RelPath>
+      <UpdateFromURL>http://192.168.0.200:91/TableValidation/Service.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>
+      </CachedAppSettingsObjectName>
+      <CachedSettingsPropName>
+      </CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://localhost:4442/GetText.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\OcrService11\</RelPath>
+      <UpdateFromURL>http://localhost:4442/GetText.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>
+      </CachedAppSettingsObjectName>
+      <CachedSettingsPropName>
+      </CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://localhost:48750/AutoTableDetection.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\AutoTableDetection\</RelPath>
+      <UpdateFromURL>http://localhost:48750/AutoTableDetection.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>
+      </CachedAppSettingsObjectName>
+      <CachedSettingsPropName>
+      </CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://localhost:5120/GetText.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\OcrService\</RelPath>
+      <UpdateFromURL>http://localhost:5120/GetText.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>
+      </CachedAppSettingsObjectName>
+      <CachedSettingsPropName>
+      </CachedSettingsPropName>
+    </WebReferenceUrl>
+    <WebReferenceUrl Include="http://localhost:11533/AutoMappService/AutoMappService.asmx">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\AutoMapService\</RelPath>
+      <UpdateFromURL>http://localhost:11533/AutoMappService/AutoMappService.asmx</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>
+      </CachedAppSettingsObjectName>
+      <CachedSettingsPropName>
+      </CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="AccountInformation.aspx" />
+    <Content Include="CompleteBooks.aspx" />
+    <Content Include="AmountConfirmation.aspx" />
+    <Content Include="Dispute.aspx" />
+    <Content Include="DisputeDetail.aspx" />
+    <Content Include="UserTransactions.aspx" />
+    <Content Include="CustomControls\LoadControl.ascx" />
+    <None Include="img\m\Thumbs.db" />
+    <Content Include="ErrorAdjustment.aspx" />
+    <Content Include="img\apply.gif" />
+    <Content Include="img\bg.gif" />
+    <Content Include="img\blt.gif" />
+    <Content Include="img\checkbox.gif" />
+    <Content Include="img\fb.gif" />
+    <Content Include="img\finish.gif" />
+    <Content Include="img\ft.gif" />
+    <Content Include="img\logo.gif" />
+    <Content Include="img\m2\m2_01.gif" />
+    <Content Include="img\m2\m2_03.gif" />
+    <Content Include="img\m2\m2_04.gif" />
+    <Content Include="img\m2\m2_05.gif" />
+    <Content Include="img\m2\m2_06.gif" />
+    <Content Include="img\m2\m2_07.gif" />
+    <Content Include="img\m2\m_01.gif" />
+    <Content Include="img\m2\m_02.gif" />
+    <Content Include="img\m2\m_03.gif" />
+    <Content Include="img\m2\m_04.gif" />
+    <Content Include="img\m2\m_05.gif" />
+    <Content Include="img\m2\m_06.gif" />
+    <Content Include="img\m2\m_07.gif" />
+    <Content Include="img\m2\m_08.gif" />
+    <Content Include="img\mg.gif" />
+    <Content Include="img\m\m1_01.gif" />
+    <Content Include="img\m\m1_010.gif" />
+    <Content Include="img\m\m1_011.gif" />
+    <Content Include="img\m\m1_02.gif" />
+    <Content Include="img\m\m1_03.gif" />
+    <Content Include="img\m\m1_04.gif" />
+    <Content Include="img\m\m1_05.gif" />
+    <Content Include="img\m\m1_06.gif" />
+    <Content Include="img\m\m1_07.gif" />
+    <Content Include="img\m\m1_08.gif" />
+    <Content Include="img\m\m1_09.gif" />
+    <Content Include="img\m\m2_01.gif" />
+    <Content Include="img\m\m2_010.gif" />
+    <Content Include="img\m\m2_02.gif" />
+    <Content Include="img\m\m2_03.gif" />
+    <Content Include="img\m\m2_04.gif" />
+    <Content Include="img\m\m2_07.gif" />
+    <Content Include="img\m\m2_09.gif" />
+    <Content Include="img\m\m2_11.gif" />
+    <Content Include="img\radiobutton.gif" />
+    <Content Include="img\rhw_01.gif" />
+    <Content Include="img\rhw_02.gif" />
+    <Content Include="img\rhw_03.gif" />
+    <Content Include="img\rhw_04.gif" />
+    <Content Include="img\rhw_05.gif" />
+    <Content Include="img\rhw_06.gif" />
+    <Content Include="img\r\r_01.gif" />
+    <Content Include="img\r\r_02.gif" />
+    <Content Include="img\r\r_03.gif" />
+    <Content Include="img\r\r_04.gif" />
+    <Content Include="img\r\r_05.gif" />
+    <Content Include="img\r\r_06.gif" />
+    <Content Include="img\r\r_07.gif" />
+    <Content Include="img\r\r_08.gif" />
+    <Content Include="img\sb.gif" />
+    <Content Include="img\sch.gif" />
+    <Content Include="img\serv.gif" />
+    <Content Include="img\serv.png" />
+    <Content Include="img\si_01.gif" />
+    <Content Include="img\si_02.gif" />
+    <Content Include="img\si_03.gif" />
+    <Content Include="img\si_04.gif" />
+    <Content Include="img\si_05.gif" />
+    <Content Include="img\si_06.gif" />
+    <Content Include="img\si_07.gif" />
+    <Content Include="img\si_08.gif" />
+    <Content Include="img\si_09.gif" />
+    <Content Include="img\si_10.gif" />
+    <Content Include="img\si_11.gif" />
+    <Content Include="img\tbg.gif" />
+    <Content Include="img\tw.gif" />
+    <Content Include="LogStatus.aspx" />
+    <Content Include="Transactions.aspx" />
+    <Content Include="UnderConstruction.aspx" />
+    <Content Include="TaggingUnTagged.aspx" />
+    <Content Include="UpdateStatus.aspx" />
+    <Content Include="UploadZIP.aspx" />
+    <Content Include="WebForm1.aspx" />
+    <Content Include="WebForm2.aspx" />
+    <Content Include="WebForm5.aspx" />
+    <Content Include="Withdraw.aspx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Web References\MailService1\MailService.wsdl" />
+    <None Include="Web References\MailService1\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Files\" />
+    <Folder Include="UserImages\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\ComparisonService\" />
+    <WCFMetadataStorage Include="Service References\readableEnglishService\" />
+    <WCFMetadataStorage Include="Service References\ServiceReference1\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Acrobat">
+      <Guid>{E64169B3-3592-47D2-816E-602C5C13F328}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>58301</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

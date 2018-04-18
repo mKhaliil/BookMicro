@@ -1,0 +1,190 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="UserMaster.Master.cs" Inherits="Outsourcing_System.MasterPages.UserMaster" %>
+
+<%@ Register Src="UserControls/CommonControl/ucShowMessage.ascx" TagName="ucShowMessage" TagPrefix="uc1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Book Micro</title>
+    <script src="FinalScripts/jquery-1.10.0.min.js"></script>
+   <%--<script type="text/javascript" src="http://code.jquery.com/jquery-1.10.0.min.js"></script>--%>
+
+    <link href="FinalStyles/LoginDialog.css" rel="stylesheet" type="text/css" />
+    <link href="FinalStyles/UserStyles.css" rel="stylesheet" type="text/css" />
+    <script src="FinalScripts/jquery.modal.js" type="text/javascript"></script>
+    <%--<script src="FinalScripts/site.js" type="text/javascript"></script>--%>
+    <link href="FinalStyles/MessageStyles.css" rel="stylesheet" type="text/css" />
+    <link href="FinalStyles/cssverticalmenu.css" rel="stylesheet" type="text/css" />    
+    <script src="FinalScripts/cssverticalmenu.js" type="text/javascript"></script>
+
+    <link href="FinalStyles/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css" />
+    <script src="FinalScripts/jquery-ui-1.10.3.custom.min.js" type="text/javascript"></script>
+    <link href="FinalStyles/demo_table.css" rel="stylesheet" type="text/css" />
+    <script src="FinalScripts/jquery.dataTables.columnFilter.js" type="text/javascript"></script>
+    <script src="FinalScripts/jquery.dataTables.min.js" type="text/javascript"></script>
+    <%--<link href="FinalStyles/style.css" rel="stylesheet" type="text/css" />--%>
+  <%--  <script src="FinalScripts/site.js" type="text/javascript"></script>
+    <script src="FinalScripts/easypiechart.min.js" type="text/javascript"></script>--%>
+
+    <%-- <script src="FinalScripts/jquery-1.9.1.min.js" type="text/javascript"></script>
+    <link href="FinalStyles/stylesOnlineTest.css" rel="stylesheet" type="text/css" />
+    <link href="FinalStyles/UserStyles.css" rel="stylesheet" type="text/css" />
+    <script src="FinalScripts/jquery.modal.min.js" type="text/javascript"></script>
+    <script type="text/javascript" src="FinalScripts/cssverticalmenu.js"></script>
+    <script src="FinalScripts/jquery.modal.js" type="text/javascript"></script>
+    <script src="FinalScripts/site.js" type="text/javascript"></script>
+    <script src="FinalScripts/jquery.cookie.js" type="text/javascript"></script>
+    <script src="FinalScripts/Menu.js" type="text/javascript"></script>
+    <script src="FinalScripts/amazingcarousel.js" type="text/javascript"></script>
+    <script src="FinalScripts/initcarousel.js" type="text/javascript"></script>
+    --%>
+    <script type="text/javascript">
+
+
+        $(document).ready(function () {
+
+            $('#aLogout').click(yourfunction);
+
+            function yourfunction(event) {
+                window.location = "BookMicro.aspx";
+            }
+        });
+
+        $(document).ready(function () {
+            $('.modalLink').modal({});
+            //$(this).find('form')[0].reset();
+            //alert('val of password = ' + $('#ctl00_mainBodyContents_tbxEmail').val());
+            //$(".ui-widget-content").html("");
+        });
+
+        function mouseOver() {
+            document.getElementById('input').style.display = 'none';
+        }
+        function mouseOut() {
+
+            document.getElementById('input').style.display = 'block';
+        }
+        function FootNoteDisplay(abc) {
+            if (abc == 'true') {
+
+                document.getElementById('divFootNoteDetail').setAttribute('display', 'block');
+                alert(document.getElementById('divFootNoteDetail').getAttribute('display'));
+            }
+            else {
+
+                document.getElementById('divFootNoteDetail').setAttribute('display', 'none');
+                alert(document.getElementById('divFootNoteDetail').getAttribute('display'));
+
+            }
+        }
+        var editor = null;
+        function OnClientLoad(sender) {
+
+            editor = sender;
+        }
+        function PageBreakTextSelected() {
+
+            if (document.getElementById('ctl00$ContentPlaceHolder1$txtPageBreakNo').value == '') {
+                alert('Please insert page break no.');
+                return false;
+            }
+            else {
+                return true;
+            }
+        }
+        function HyperLinkTextSelected() {
+            if (editor.getSelectionHtml() == '') {
+                alert('Please select text in edit Box and insert footnote Detail.');
+                return false;
+            }
+            else {
+                document.getElementById('ctl00_ContentPlaceHolder1_txtSelectedText').value = editor.getSelectionHtml();
+                return true;
+            }
+        }
+        function AlertSelectedHtml() {
+            if (editor.getSelectionHtml() == '' || document.getElementById('ctl00_ContentPlaceHolder1_txtFootNote').value == '') {
+                var ob = 552;
+                alert('Please select text in edit Box and insert footnote Detail.');
+                return false;
+            }
+            else {
+                document.getElementById('ctl00_ContentPlaceHolder1_txtSelectedText').value = editor.getSelectionHtml();
+                document.getElementById('isTreePostBack').value = 'true';
+                return true;
+            }
+        }
+        function disableButton(btnId) {
+            ShowLoadingGif();
+            var btn = document.getElementById(btnId);
+            btn.enabled = false;
+        }
+    </script>
+    <asp:ContentPlaceHolder ID="mainHeadContents" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server">
+        </asp:ScriptManager>
+        <div id="container">
+            <div id="header" style="height: 130px;">
+                <div id="logo">
+                    &nbsp;
+                </div>
+                <div id="info">
+                    <div id="title">
+                        ReadHowYouWant.com
+                    </div>
+                    <div id="phone">
+                        <div id="imgPhone">
+                            <img src="FinalImages/icon_phone.jpg" alt="No image availabale" />
+                        </div>
+                        <div id="divCellNum">
+                            1-800-797-9277
+                        </div>
+                    </div>
+                    <div id="email">
+                        <div id="img">
+                            <img src="FinalImages/icon_email.jpg" alt="No image availabale" />
+                        </div>
+                        <div id="divEmail">
+                           <%-- info@readhowyouwant.com--%>
+                            info@bookmicro.com
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="divMenu" runat="server" clientidmode="Static">
+                <asp:LinkButton ID="lbtnHome" OnClick="lbtnHome_Click" runat="server" Text="Home"></asp:LinkButton>
+                <asp:LinkButton ID="lbtnMessageBox" OnClick="lbtnMessageBox_Click" runat="server" Text="Message Box"></asp:LinkButton>
+                <asp:LinkButton ID="lbtnHowItWorks" OnClick="lbtnHowItWorks_Click" runat="server" Text="How it works"></asp:LinkButton>
+                <asp:LinkButton ID="lbtnAboutUs" OnClick="lbtnAboutUs_Click" runat="server" Text="About Us"></asp:LinkButton>
+                <asp:LinkButton ID="lbtnContactUs" OnClick="lbtnContactUs_Click" runat="server" Text="Contact Us"></asp:LinkButton>
+                <asp:LinkButton ID="lbtnBooks" OnClick="lbtnBooks_Click" runat="server" Text="Books"></asp:LinkButton>
+                <asp:LinkButton ID="lbtnPayments" OnClick="lbtnPayments_Click" runat="server" Text="Payments & Terms"></asp:LinkButton>
+                <a class="modalLink" runat="server" id="aloginLink" href="#modal_Login">
+                    <label for="lblLogin" id="lblLogin" style="cursor: pointer" runat="server">Log In</label>
+                </a>
+                <asp:LinkButton ID="lbtnLogOut" OnClick="lbtnLogOut_Click" runat="server">Log Out</asp:LinkButton>
+                <div class="overlay">
+                </div>
+                <hr />
+                <%--<div id="divStatusMessages" style="width: 42.5%; margin: 0 auto;" runat="server">
+                    <uc1:ucShowMessage ID="ucShowMessage1" runat="server" />
+                </div>--%>
+            </div>
+            <div id="mid">
+                <asp:ContentPlaceHolder ID="mainBodyContents" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div id="footer">
+                <hr />
+                <p>
+                    &copy; 2016 BookMicro - ReadHowYouWant.com
+                </p>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

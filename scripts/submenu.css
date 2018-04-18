@@ -1,0 +1,141 @@
+/* ================================================================ 
+This copyright notice must be untouched at all times.
+
+The original version of this stylesheet and the associated (x)html
+is available at http://www.stunicholls.com/menus/pro_dropline_2.html
+Copyright (c) 2005-2007 Stu Nicholls. All rights reserved.
+This stylesheet and the associated (x)html may be modified in any 
+way to fit your requirements.
+=================================================================== */
+#pro_linedrop {
+width:100%;
+position:relative; 
+z-index:100;
+}
+
+#pro_linedrop .select {
+margin:0; 
+padding:0; 
+list-style:none; 
+white-space:nowrap;
+}
+
+#pro_linedrop li {
+float:left;
+/*background:url(menuB.gif);*/
+
+}
+
+#pro_linedrop li.lrt {
+float:right;
+/*background-color:#FCD47F;*/
+}
+
+
+#pro_linedrop .select a {
+display:block; 
+float:left; 
+/*background:url(menuB.gif);*/
+padding:0 0 0 0px; 
+text-decoration:none; 
+
+white-space:nowrap; 
+color:#fc0;
+}
+
+
+#pro_linedrop .select li.lrt a {color:#0ff;}
+
+
+#pro_linedrop .select a b {
+display:block;
+/*padding:0 30px 0 15px; */
+/*background:url(menuB.gif) right top;*/
+}
+
+#pro_linedrop .select li.line a b {
+/*background:url(menuB.gif) right top;*/
+}
+
+#pro_linedrop .select a:hover, 
+#pro_linedrop .select li:hover a {
+/*background-color:#FCD47F;*/
+cursor:pointer; 
+color:#fff;
+}
+
+#pro_linedrop .select li.lrt a:hover, 
+#pro_linedrop .select li.lrt:hover a {
+background-color:#FCD47F;
+}
+
+#pro_linedrop .select a:hover b, 
+#pro_linedrop .select li:hover a b {
+display:block; 
+float:left;
+padding:0 30px 0 15px; 
+/*background:url(menuB.gif) right top;*/
+cursor:pointer;
+text-align:left;
+}
+
+#pro_linedrop .select li.line a:hover b, 
+#pro_linedrop .select li.line:hover a b {
+/*background:url(menuB.gif) right top;*/
+}
+
+#pro_linedrop .select li.lrt a:hover b, 
+#pro_linedrop .select li.lrt:hover a b {
+background-color:#FCD47F; 
+}
+
+#pro_linedrop .select li.lrt a:hover b.arrow, 
+#pro_linedrop .select li.lrt:hover a b.arrow {
+background-color:#FCD47F;
+}
+
+#pro_linedrop .sub {
+position:absolute; left:-9999px; width:0;
+}
+
+/* IE6 only */
+#pro_linedrop table {
+border-collapse:collapse; 
+margin:-1px -10px -1px -1px; 
+font-size:1em; 
+width:0; 
+height:0;
+}
+
+#pro_linedrop .sub {
+margin:0; 
+padding:0;
+list-style:none;
+}
+
+#pro_linedrop .sub li {background:transparent;}
+
+#pro_linedrop .select :hover .sub {
+height:35px;
+/*position:absolute;*/
+width:80px;
+top:35px; 
+left:0; 
+text-align:left;
+background-color:#FCD47F;
+/*border-bottom:1px solid #FDAD05;
+border-left:1px solid #FDAD05;
+border-right:1px solid #FDAD05;*/
+}
+
+#pro_linedrop .select :hover .rt li {float:right;}
+
+#pro_linedrop .select :hover .sub li a 
+{display:block; width:100px;  height:25px; line-height:25px; float:left;  margin:0; padding-top:1px; padding-left:5px; 
+font-size:12px; color:#FC8A00; letter-spacing:1px; background-color:#E9E9E9;}
+
+#pro_linedrop .select :hover .sub li.subline a {color:#c00;}
+
+#pro_linedrop .select :hover .sub li a:hover,
+#pro_linedrop .select :hover .sub li:hover
+{color:#294B96; line-height:20px; text-decoration:underline; /*position:relative; background:#fff url(menuB.gif) left bottom;*/ }

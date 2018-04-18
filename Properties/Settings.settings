@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Outsourcing_System.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Outsourcing_System_MailService_MailService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://192.168.0.42:28742/RHYWEMailService/MailService.asmx</Value>
+    </Setting>
+    <Setting Name="Outsourcing_System_MailService1_MailService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://192.168.0.42:28742/RHYWEMailService/MailService.asmx</Value>
+    </Setting>
+    <Setting Name="Outsourcing_System_IndexService_IndexService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:91/Index_Service/IndexService.asmx</Value>
+    </Setting>
+    <Setting Name="Outsourcing_System_TableValidation_Service" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:91/TableValidation/Service.asmx</Value>
+    </Setting>
+    <Setting Name="Outsourcing_System_ImageValidator_ImageValidationService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:15691/ImageValidator/ImageValidationService.asmx</Value>
+    </Setting>
+    <Setting Name="Outsourcing_System_Index_Service_IndexService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:42226/old/IndexService.asmx</Value>
+    </Setting>
+    <Setting Name="Outsourcing_System_AutoMapService_AutoMappService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:60408/AutoMapService_Upgraded/AutoMappService.asmx</Value>
+    </Setting>
+<<<<<<< .mine
+=======
+    <Setting Name="Outsourcing_System_AutoMappSercive_AutoMappService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:91/AutoMappService/AutoMappService.asmx</Value>
+    </Setting>
+    <Setting Name="Outsourcing_System_AutoMapService_AutoMappService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:60408/AutoMapService_Upgraded/AutoMappService.asmx</Value>
+    </Setting>
+>>>>>>> .r314
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="InsertRecordsInWorkMeterDb">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="cloudWmRows" type="tns:ArrayOfWorkMeterEntities" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="ArrayOfWorkMeterEntities">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="WorkMeterEntities" nillable="true" type="tns:WorkMeterEntities" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="WorkMeterEntities">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="FullName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Email" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="UserId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TaskCreationDate" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CatId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="BookId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="StartTime" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="EndTime" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CalculatedTime" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Comments" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Current_Status" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Target" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Achived" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Complexity" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="End_Date" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Expected_Pages" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Expected_Hours" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Result" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Productivity_Hours" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Tool_Used" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="DailyTimeSpent" type="tns:ArrayOfDateWiseInfo" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfDateWiseInfo">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="DateWiseInfo" nillable="true" type="tns:DateWiseInfo" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="DateWiseInfo">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="FullName" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Email" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="BookId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TimeSpent" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TaskDate" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="CategoryId" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="TimeRequired" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="InsertRecordsInWorkMeterDbResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="InsertRecordsInWorkMeterDbResult" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="InsertRecordsInWorkMeterDbSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertRecordsInWorkMeterDb" />
+  </wsdl:message>
+  <wsdl:message name="InsertRecordsInWorkMeterDbSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertRecordsInWorkMeterDbResponse" />
+  </wsdl:message>
+  <wsdl:portType name="SyncronizeDbSoap">
+    <wsdl:operation name="InsertRecordsInWorkMeterDb">
+      <wsdl:input message="tns:InsertRecordsInWorkMeterDbSoapIn" />
+      <wsdl:output message="tns:InsertRecordsInWorkMeterDbSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="SyncronizeDbSoap" type="tns:SyncronizeDbSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="InsertRecordsInWorkMeterDb">
+      <soap:operation soapAction="http://tempuri.org/InsertRecordsInWorkMeterDb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="SyncronizeDbSoap12" type="tns:SyncronizeDbSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="InsertRecordsInWorkMeterDb">
+      <soap12:operation soapAction="http://tempuri.org/InsertRecordsInWorkMeterDb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="SyncronizeDb">
+    <wsdl:port name="SyncronizeDbSoap" binding="tns:SyncronizeDbSoap">
+      <soap:address location="http://localhost:41650/SyncronizeDb.asmx" />
+    </wsdl:port>
+    <wsdl:port name="SyncronizeDbSoap12" binding="tns:SyncronizeDbSoap12">
+      <soap12:address location="http://localhost:41650/SyncronizeDb.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

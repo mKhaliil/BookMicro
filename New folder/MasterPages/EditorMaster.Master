@@ -1,0 +1,81 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="EditorMaster.master.cs"
+    Inherits="Outsourcing_System.MasterPages.EditorMaster" %>
+
+<!DOCTYPE html >
+<html>
+<head id="Head1" runat="server">
+    <link href="../scripts/styles.css" rel="stylesheet" type="text/css" />
+    <link href="../scripts/stylesheet.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../scripts/cssverticalmenu.css" />
+    <script type="text/javascript" src="../scripts/cssverticalmenu.js">
+    </script>
+    <script src="../scripts/jquery-1.4.1.min.js" type="text/javascript"></script>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder0" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+   <asp:ScriptManager ID="ScriptManager1" runat="server" EnablePartialRendering="true" EnablePageMethods="true" />
+    <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0" style="background-color: White">
+        <tr align="left" valign="middle">
+            <td bgcolor="#FFFFFF">
+                <table width="100%">
+                    <tr>
+                        <td align="left" style="padding-left: 5px;">
+                            <img src="../img/logo.gif" alt="http://www.readhowyouwant.com" width="300" height="60" /><a
+                                id="clickMe" href="../img/loading.gif" rel="lightbox" title="" />
+                        </td>
+                        <td align="right">
+                            <img src="../img/ReadHowYouWant.gif" width="250" height="60" alt="http://www.readhowyouwant.com" />
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 44.8%;">
+                <ul id="nav">
+                    <li><a href="Login.aspx" class="menu" id="mmenu1" onmouseover="mopen(1);" onmouseout="mclosetime();">
+                        Home</a> </li>
+                    <li><a href="MessageBoard.aspx" class="menu" id="mmenu2" onmouseover="mopen(2);"
+                        onmouseout="mclosetime();">Message Box</a>
+                        <div class="submenu" id="menu2" onmouseover="mcancelclosetime()" onmouseout="mclosetime();">
+                            <a href="MessageBoard.aspx?act=inbox">inbox</a> <a href="Mail.aspx?act=mail">Compose</a>
+                            <a href="MessageBoard.aspx?act=outbox">Outbox</a> <a href="MessageBoard.aspx?act=sent">
+                                Sent Mail</a>
+                        </div>
+                    </li>
+                    <li><a href="UnderConstruction.aspx" class="menu" id="mmenu5" onmouseover="mopen(5);"
+                        onmouseout="mclosetime();">Contact Us</a> </li>
+                    <li><a href="UnderConstruction.aspx" class="menu" id="mmenu6" onmouseover="mopen(5);"
+                        onmouseout="mclosetime();">Books</a> </li>
+                    <li><a href="UnderConstruction.aspx" class="menu" id="mmenu7" onmouseover="mopen(7);"
+                        onmouseout="mclosetime();">Help</a> </li>
+                    <li>
+                        <asp:LinkButton class="menu" ID="LinkButton1" Text="Log Out" 
+                            runat="server" /></li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <div class="info" id="divInfo" runat="server" visible="false">
+                </div>
+                <div class="success" id="divSuccess" runat="server" visible="false">
+                </div>
+                <div class="error" id="divError" runat="server" visible="false">
+                </div>
+                <asp:ContentPlaceHolder ID="LinkPortion" runat="server">
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+        <tr>
+            <td align="center">
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

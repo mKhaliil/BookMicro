@@ -1,0 +1,266 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="OnlineTestMasterPage.master.cs"
+    Inherits="Outsourcing_System.OnlineTestMasterPage" %>
+
+<!DOCTYPE html >
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Book Micro</title>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.0.min.js"></script>
+    <link href="../scripts/Hiring/stylesOnlineTest.css" rel="stylesheet" type="text/css"/>
+    <link href="../scripts/Hiring/styles_OnlineTest.css" rel="stylesheet" type="text/css" />
+    <link href="../scripts/Hiring/styles_TestUser.css" rel="stylesheet" type="text/css" />
+    <link href="http://localhost:1749/scripts/styles_OnlineTest.css" rel="stylesheet"
+        type="text/css" />
+    <script src="../scripts/Hiring/jquery.modal.js" type="text/javascript"></script>
+    <script src="../scripts/Hiring/site.js" type="text/javascript"></script>
+    <script src="../scripts/Hiring/jquery.cookie.js" type="text/javascript"></script>
+    <script language="javascript" src="../scripts/Hiring/dcsCalendar.js" type="text/javascript"></script>
+    <script type="text/javascript" src="../scripts/Hiring/loader.js" />
+    <script src="../scripts/Hiring/Menu.js" type="text/javascript"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <link href="../scripts/Hiring/styles.css" rel="stylesheet" type="text/css" />
+    <link href="../scripts/Hiring/submenu.css" rel="stylesheet" type="text/css" />
+    <link href="../scripts/Hiring/stylesheet.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="../scripts/Hiring/dcsCalendarStyle.css" />
+    <link href="../scripts/Hiring/initcarousel.css" rel="stylesheet" type="text/css" />
+    <script src="../scripts/Hiring/amazingcarousel.js" type="text/javascript"></script>
+    <script src="../scripts/Hiring/initcarousel.js" type="text/javascript"></script>
+    
+    <link rel="stylesheet" type="text/css" href="../scripts/Hiring/cssverticalmenu.css" />
+    <script type="text/javascript" src="../scripts/Hiring/cssverticalmenu.js">
+    
+    </script>
+    <style type="text/css">
+        .password
+        {
+            padding: 0;
+            height: 45px;
+            width: 400px;
+            position: relative;
+            left: 0;
+            outline: none;
+            border: 1px solid #cdcdcd;
+            border-radius: 10px;
+            border-color: rgba0,0,0,.15);
+            background-color: white;
+            font-size: 16px;
+        }
+        #txt
+        {
+            border: none;
+            font-family: verdana;
+            font-size: 16pt;
+            font-weight: bold;
+            border-right-color: #FFFFFF;
+            position: absolute;
+        }
+    </style>
+
+    <script language="javascript" type="text/javascript">
+        window.history.forward();
+    </script> 
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            $('#aLogout').click(yourfunction);
+
+            function yourfunction(event) {
+                window.location = "BookMicro.aspx";
+            }
+        });
+
+        $(document).ready(function () {
+            $('.modalLink').modal({});
+        });
+
+        function mouseOver() {
+            document.getElementById('input').style.display = 'none'
+        }
+        function mouseOut() {
+
+            document.getElementById('input').style.display = 'block'
+        }
+        function FootNoteDisplay(abc) {
+            if (abc == 'true') {
+
+                document.getElementById('divFootNoteDetail').setAttribute('display', 'block');
+                alert(document.getElementById('divFootNoteDetail').getAttribute('display'));
+            }
+            else {
+
+                document.getElementById('divFootNoteDetail').setAttribute('display', 'none');
+                alert(document.getElementById('divFootNoteDetail').getAttribute('display'));
+
+            }
+        }
+        var editor = null;
+        function OnClientLoad(sender) {
+
+            editor = sender;
+        }
+        function PageBreakTextSelected() {
+
+            if (document.getElementById('ctl00$ContentPlaceHolder1$txtPageBreakNo').value == '') {
+                alert('Please insert page break no.');
+                return false;
+            }
+            else {
+                return true;
+            }
+        }
+        function HyperLinkTextSelected() {
+            if (editor.getSelectionHtml() == '') {
+                alert('Please select text in edit Box and insert footnote Detail.');
+                return false;
+            }
+            else {
+                document.getElementById('ctl00_ContentPlaceHolder1_txtSelectedText').value = editor.getSelectionHtml();
+                return true;
+            }
+        }
+        function AlertSelectedHtml() {
+            if (editor.getSelectionHtml() == '' || document.getElementById('ctl00_ContentPlaceHolder1_txtFootNote').value == '') {
+                var ob = 552;
+                alert('Please select text in edit Box and insert footnote Detail.');
+                return false;
+            }
+            else {
+                document.getElementById('ctl00_ContentPlaceHolder1_txtSelectedText').value = editor.getSelectionHtml();
+                document.getElementById('isTreePostBack').value = 'true';
+                return true;
+            }
+        }
+        function disableButton(btnId) {
+            ShowLoadingGif()
+            var btn = document.getElementById(btnId);
+            btn.enabled = false;
+        }       
+    </script>
+    <link href="../scripts/Hiring/style.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        .reTool .AllCaps
+        {
+            background-image: url(img/all-caps.png);
+        }
+        .reTool .ResetContent
+        {
+            background-image: url(img/reset.gif);
+        }
+    </style>
+    <script language="JavaScript" type="text/JavaScript">
+<!--
+        function MM_swapImgRestore() { //v3.0
+            var i, x, a = document.MM_sr; for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++) x.src = x.oSrc;
+        }
+
+        function MM_preloadImages() { //v3.0
+            var d = document; if (d.images) {
+                if (!d.MM_p) d.MM_p = new Array();
+                var i, j = d.MM_p.length, a = MM_preloadImages.arguments; for (i = 0; i < a.length; i++)
+                    if (a[i].indexOf("#") != 0) { d.MM_p[j] = new Image; d.MM_p[j++].src = a[i]; }
+            }
+        }
+
+        function MM_findObj(n, d) { //v4.01
+            var p, i, x; if (!d) d = document; if ((p = n.indexOf("?")) > 0 && parent.frames.length) {
+                d = parent.frames[n.substring(p + 1)].document; n = n.substring(0, p);
+            }
+            if (!(x = d[n]) && d.all) x = d.all[n]; for (i = 0; !x && i < d.forms.length; i++) x = d.forms[i][n];
+            for (i = 0; !x && d.layers && i < d.layers.length; i++) x = MM_findObj(n, d.layers[i].document);
+            if (!x && d.getElementById) x = d.getElementById(n); return x;
+        }
+
+        function MM_swapImage() { //v3.0
+            var i, j = 0, x, a = MM_swapImage.arguments; document.MM_sr = new Array; for (i = 0; i < (a.length - 2); i += 3)
+                if ((x = MM_findObj(a[i])) != null) { document.MM_sr[j++] = x; if (!x.oSrc) x.oSrc = x.src; x.src = a[i + 2]; }
+        }
+
+       
+    </script>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder0" runat="server">
+    </asp:ContentPlaceHolder>
+    <asp:ContentPlaceHolder ID="LinkPortion" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div id="container">
+        <div id="header">
+            <div id="logo">
+                &nbsp;</div>
+            <div id="info">
+                <div id="title">
+                    ReadHowYouWant.com</div>
+                <div id="phone">
+                    <div id="img">
+                        <img src="img/icon_phone.jpg" /></div>
+                    <div id="txt">
+                        1-800-797-9277</div>
+                </div>
+                <div id="email">
+                    <div id="img">
+                        <img src="img/icon_email.jpg" /></div>
+                    <div id="txt">
+                        info@readhowyouwant.com</div>
+                </div>
+            </div>
+        </div>
+        <form id="form1" runat="server">
+        <div id="menu">
+         <div id="divMenu" runat="server">
+            <asp:LinkButton ID="lbtnHome" OnClick="lbtnHome_Click" runat="server" Text="Home"></asp:LinkButton>
+            <a href="#">Message Box</a> <a href="#">Register</a> <a href="#">About Us</a> <a
+                href="#">Contact Us</a> <a href="#">Books</a> <a href="#">Help</a>
+               <%-- <a class="modalLink" runat="server" id="aloginLink"
+                    href="#modal_Login">
+                    <asp:Label ID="lblLogin" runat="server">Log In</asp:Label></a>--%>
+
+
+                  <%--  <div style="margin-top: -35px; margin-left: 80%" id="divLogout" runat="server" visible="false">
+                <asp:LinkButton ID="lbtnLogOut" OnClick="lbtnLogOut_Click" runat="server">Log Out</asp:LinkButton>
+            </div>--%>
+            <a href="PaymentsTerms.aspx">Payments & Terms</a>
+
+             <a class="modalLink" runat="server" id="aloginLink"
+                    href="#modal_Login">
+                    <asp:Label ID="lblLogin" runat="server">Log In</asp:Label></a>
+
+
+            <div style="margin-top: -35px; margin-left: 89%" id="divLogout" runat="server" visible="false">
+                <asp:LinkButton ID="lbtnLogOut" OnClick="lbtnLogOut_Click" runat="server">Log Out</asp:LinkButton>
+            </div>
+            <div class="overlay">
+            </div>
+            <hr />
+            <div style="text-align: center; margin-bottom: 4px;">
+                <asp:Label ID="lblErrorMsg" Style="font-family: Verdana; font-size: large; font-weight: normal;
+                    color: #FF0000;" runat="server" Visible="false"></asp:Label>
+            </div>
+
+            <div style="width:450px; margin:0 auto;">
+             <div class="info" id="divInfo" runat="server" visible="false">
+                </div>
+                <div class="success" id="divSuccess" runat="server" visible="false">
+                </div>
+                <div class="error" id="divError" runat="server" visible="false">
+                </div>
+
+            </div>
+            </div>
+        </div>
+        <asp:ScriptManager ID="ScriptManager1" runat="server" EnablePageMethods="true">
+        </asp:ScriptManager>
+        <div id="mid">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+            </asp:ContentPlaceHolder>
+            <table width="95%" border="0" align="center" cellpadding="0" cellspacing="0" style="background-color: White">
+                <tr align="left" valign="middle">
+                </tr>
+            </table>
+        </div>
+        </form>
+    </div>
+</body>
+</html>

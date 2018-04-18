@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="ValidateExcel">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Path" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidateExcelResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ValidateExcelResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidateTablesZipFile">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Path" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidateTablesZipFileResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ValidateTablesZipFileResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConvertXlsToXmlTable">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Path" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ConvertXlsToXmlTableResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ConvertXlsToXmlTableResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AttachTables">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="rhywFilePath" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="TablesZipPath" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AttachTablesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="AttachTablesResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ValidateExcelSoapIn">
+    <wsdl:part name="parameters" element="tns:ValidateExcel" />
+  </wsdl:message>
+  <wsdl:message name="ValidateExcelSoapOut">
+    <wsdl:part name="parameters" element="tns:ValidateExcelResponse" />
+  </wsdl:message>
+  <wsdl:message name="ValidateTablesZipFileSoapIn">
+    <wsdl:part name="parameters" element="tns:ValidateTablesZipFile" />
+  </wsdl:message>
+  <wsdl:message name="ValidateTablesZipFileSoapOut">
+    <wsdl:part name="parameters" element="tns:ValidateTablesZipFileResponse" />
+  </wsdl:message>
+  <wsdl:message name="ConvertXlsToXmlTableSoapIn">
+    <wsdl:part name="parameters" element="tns:ConvertXlsToXmlTable" />
+  </wsdl:message>
+  <wsdl:message name="ConvertXlsToXmlTableSoapOut">
+    <wsdl:part name="parameters" element="tns:ConvertXlsToXmlTableResponse" />
+  </wsdl:message>
+  <wsdl:message name="AttachTablesSoapIn">
+    <wsdl:part name="parameters" element="tns:AttachTables" />
+  </wsdl:message>
+  <wsdl:message name="AttachTablesSoapOut">
+    <wsdl:part name="parameters" element="tns:AttachTablesResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceSoap">
+    <wsdl:operation name="ValidateExcel">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Validates the ZipFile Containg Tables as xls files, Returns the log File Path</wsdl:documentation>
+      <wsdl:input message="tns:ValidateExcelSoapIn" />
+      <wsdl:output message="tns:ValidateExcelSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ValidateTablesZipFile">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Validates the ZipFile Containg Tables as xls files, Returns the errors as string, otherwise "Successfull"</wsdl:documentation>
+      <wsdl:input message="tns:ValidateTablesZipFileSoapIn" />
+      <wsdl:output message="tns:ValidateTablesZipFileSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ConvertXlsToXmlTable">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Accepts Validated ZipFile and Converts all Tables to RHYW table xmls, Returns the directory of the saved XML files</wsdl:documentation>
+      <wsdl:input message="tns:ConvertXlsToXmlTableSoapIn" />
+      <wsdl:output message="tns:ConvertXlsToXmlTableSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AttachTables">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Attaches the Excel Files in Zip into the RHYW file, Returns the Path of the xml file</wsdl:documentation>
+      <wsdl:input message="tns:AttachTablesSoapIn" />
+      <wsdl:output message="tns:AttachTablesSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceSoap" type="tns:ServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ValidateExcel">
+      <soap:operation soapAction="http://tempuri.org/ValidateExcel" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidateTablesZipFile">
+      <soap:operation soapAction="http://tempuri.org/ValidateTablesZipFile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConvertXlsToXmlTable">
+      <soap:operation soapAction="http://tempuri.org/ConvertXlsToXmlTable" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AttachTables">
+      <soap:operation soapAction="http://tempuri.org/AttachTables" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiceSoap12" type="tns:ServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ValidateExcel">
+      <soap12:operation soapAction="http://tempuri.org/ValidateExcel" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidateTablesZipFile">
+      <soap12:operation soapAction="http://tempuri.org/ValidateTablesZipFile" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ConvertXlsToXmlTable">
+      <soap12:operation soapAction="http://tempuri.org/ConvertXlsToXmlTable" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AttachTables">
+      <soap12:operation soapAction="http://tempuri.org/AttachTables" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service">
+    <wsdl:port name="ServiceSoap" binding="tns:ServiceSoap">
+      <soap:address location="http://192.168.0.200:91/TableValidation/Service.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiceSoap12" binding="tns:ServiceSoap12">
+      <soap12:address location="http://192.168.0.200:91/TableValidation/Service.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

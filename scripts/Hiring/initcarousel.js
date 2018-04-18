@@ -1,0 +1,70 @@
+jQuery(document).ready(function(){
+    var jsFolder = "http://amazingcarousel.com/wp-content/uploads/amazingcarousel/2/carouselengine/";
+    if ( typeof html5Lightbox === "undefined" )
+    {
+        html5Lightbox = jQuery(".html5lightbox").html5lightbox({
+            jsfolder:jsFolder
+        });
+    }
+    jQuery("#amazingcarousel-2").amazingcarousel({
+        jsfolder:jsFolder,
+        width:200,
+        height:300,
+        interval:3000,
+        itembottomshadowimagetop:100,
+        random:false,
+        direction:"horizontal",
+        arrowheight:32,
+        itembackgroundimagewidth:100,
+        skin:"Classic",
+        responsive:true,
+        bottomshadowimage:"bottomshadow-110-95-0.png",
+        navstyle:"bullets",
+        enabletouchswipe:true,
+        backgroundimagetop:-40,
+        arrowstyle:"always",
+        bottomshadowimagetop:95,
+        transitionduration:1000,
+        hoveroverlayimage:"hoveroverlay-64-64-3.png",
+        itembottomshadowimage:"itembottomshadow-100-100-5.png",
+        showitembottomshadow:false,
+        transitioneasing:"easeOutExpo",
+        showitembackgroundimage:false,
+        itembackgroundimage:"",
+        playvideoimagepos:"center",
+        circular:true,
+        arrowimage:"arrows-32-32-2.png",
+        showbottomshadow:false,
+        screenquery:{
+	mobile: {
+		screenwidth: 600,
+		visibleitems: 1
+	}
+},
+        navimage:"bullet-16-16-0.png",
+        itembackgroundimagetop:0,
+        showbackgroundimage:false,
+        showplayvideo:true,
+        spacing:18,
+        scrollitems:1,
+        showhoveroverlay:true,
+        scrollmode:"page",
+        navdirection:"horizontal",
+        itembottomshadowimagewidth:100,
+        backgroundimage:"",
+        arrowwidth:32,
+        pauseonmouseover:true,
+        navmode:"page",
+        arrowhideonmouseleave:1000,
+        navwidth:16,
+        navspacing:8,
+        playvideoimage:"playvideo-64-64-0.png",
+        visibleitems:3,
+        navswitchonmouseover:false,
+        bottomshadowimagewidth:110,
+        autoplay:false,
+        backgroundimagewidth:110,
+        loop:0,
+        navheight:16
+    });
+});

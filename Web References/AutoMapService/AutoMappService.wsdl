@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="MergMethod">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pdfFilePath" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="MergMethodResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="MergMethodResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CreateTaggingUntagging">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="adminUser" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="bookTitle" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pdfPath" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CreateTaggingUntaggingResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CreateTaggingUntaggingResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AutoProcessAll">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="adminUser" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="bookTitle" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pdfPath" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="isIndex" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="indexStart" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="indexEnd" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="isImage" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="isTable" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="Algo1" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="Algo2" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="Algo3" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="isNPara" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="nParaAlgo1" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="nParaAlgo2" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="isSPara" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="isFootNotes" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="AutoProcessAllResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="ResetTask">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pdfPath" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="isSplitMerge" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="isIndex" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="indexStart" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="indexEnd" type="s:int" />
+            <s:element minOccurs="1" maxOccurs="1" name="isImage" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="isTable" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="Algo1" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="Algo2" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="Algo3" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="isNPara" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="nParaAlgo1" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="nParaAlgo2" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="isSPara" type="s:boolean" />
+            <s:element minOccurs="1" maxOccurs="1" name="isFootNotes" type="s:boolean" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ResetTaskResponse">
+        <s:complexType />
+      </s:element>
+      <s:element name="InsertVolumeBreaks">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="rhywPath" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="InsertVolumeBreaksResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="InsertVolumeBreaksResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FinalizeBook">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="rhywFile" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="FinalizeBookResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="FinalizeBookResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ManualCorrections">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="rhywPath" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ManualCorrectionsResponse">
+        <s:complexType />
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="MergMethodSoapIn">
+    <wsdl:part name="parameters" element="tns:MergMethod" />
+  </wsdl:message>
+  <wsdl:message name="MergMethodSoapOut">
+    <wsdl:part name="parameters" element="tns:MergMethodResponse" />
+  </wsdl:message>
+  <wsdl:message name="CreateTaggingUntaggingSoapIn">
+    <wsdl:part name="parameters" element="tns:CreateTaggingUntagging" />
+  </wsdl:message>
+  <wsdl:message name="CreateTaggingUntaggingSoapOut">
+    <wsdl:part name="parameters" element="tns:CreateTaggingUntaggingResponse" />
+  </wsdl:message>
+  <wsdl:message name="AutoProcessAllSoapIn">
+    <wsdl:part name="parameters" element="tns:AutoProcessAll" />
+  </wsdl:message>
+  <wsdl:message name="AutoProcessAllSoapOut">
+    <wsdl:part name="parameters" element="tns:AutoProcessAllResponse" />
+  </wsdl:message>
+  <wsdl:message name="ResetTaskSoapIn">
+    <wsdl:part name="parameters" element="tns:ResetTask" />
+  </wsdl:message>
+  <wsdl:message name="ResetTaskSoapOut">
+    <wsdl:part name="parameters" element="tns:ResetTaskResponse" />
+  </wsdl:message>
+  <wsdl:message name="InsertVolumeBreaksSoapIn">
+    <wsdl:part name="parameters" element="tns:InsertVolumeBreaks" />
+  </wsdl:message>
+  <wsdl:message name="InsertVolumeBreaksSoapOut">
+    <wsdl:part name="parameters" element="tns:InsertVolumeBreaksResponse" />
+  </wsdl:message>
+  <wsdl:message name="FinalizeBookSoapIn">
+    <wsdl:part name="parameters" element="tns:FinalizeBook" />
+  </wsdl:message>
+  <wsdl:message name="FinalizeBookSoapOut">
+    <wsdl:part name="parameters" element="tns:FinalizeBookResponse" />
+  </wsdl:message>
+  <wsdl:message name="ManualCorrectionsSoapIn">
+    <wsdl:part name="parameters" element="tns:ManualCorrections" />
+  </wsdl:message>
+  <wsdl:message name="ManualCorrectionsSoapOut">
+    <wsdl:part name="parameters" element="tns:ManualCorrectionsResponse" />
+  </wsdl:message>
+  <wsdl:portType name="AutoMappServiceSoap">
+    <wsdl:operation name="MergMethod">
+      <wsdl:input message="tns:MergMethodSoapIn" />
+      <wsdl:output message="tns:MergMethodSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CreateTaggingUntagging">
+      <wsdl:input message="tns:CreateTaggingUntaggingSoapIn" />
+      <wsdl:output message="tns:CreateTaggingUntaggingSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="AutoProcessAll">
+      <wsdl:input message="tns:AutoProcessAllSoapIn" />
+      <wsdl:output message="tns:AutoProcessAllSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ResetTask">
+      <wsdl:input message="tns:ResetTaskSoapIn" />
+      <wsdl:output message="tns:ResetTaskSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertVolumeBreaks">
+      <wsdl:input message="tns:InsertVolumeBreaksSoapIn" />
+      <wsdl:output message="tns:InsertVolumeBreaksSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="FinalizeBook">
+      <wsdl:input message="tns:FinalizeBookSoapIn" />
+      <wsdl:output message="tns:FinalizeBookSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ManualCorrections">
+      <wsdl:input message="tns:ManualCorrectionsSoapIn" />
+      <wsdl:output message="tns:ManualCorrectionsSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="AutoMappServiceSoap" type="tns:AutoMappServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="MergMethod">
+      <soap:operation soapAction="http://tempuri.org/MergMethod" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateTaggingUntagging">
+      <soap:operation soapAction="http://tempuri.org/CreateTaggingUntagging" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AutoProcessAll">
+      <soap:operation soapAction="http://tempuri.org/AutoProcessAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ResetTask">
+      <soap:operation soapAction="http://tempuri.org/ResetTask" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertVolumeBreaks">
+      <soap:operation soapAction="http://tempuri.org/InsertVolumeBreaks" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FinalizeBook">
+      <soap:operation soapAction="http://tempuri.org/FinalizeBook" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ManualCorrections">
+      <soap:operation soapAction="http://tempuri.org/ManualCorrections" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="AutoMappServiceSoap12" type="tns:AutoMappServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="MergMethod">
+      <soap12:operation soapAction="http://tempuri.org/MergMethod" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CreateTaggingUntagging">
+      <soap12:operation soapAction="http://tempuri.org/CreateTaggingUntagging" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="AutoProcessAll">
+      <soap12:operation soapAction="http://tempuri.org/AutoProcessAll" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ResetTask">
+      <soap12:operation soapAction="http://tempuri.org/ResetTask" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertVolumeBreaks">
+      <soap12:operation soapAction="http://tempuri.org/InsertVolumeBreaks" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FinalizeBook">
+      <soap12:operation soapAction="http://tempuri.org/FinalizeBook" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ManualCorrections">
+      <soap12:operation soapAction="http://tempuri.org/ManualCorrections" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="AutoMappService">
+    <wsdl:port name="AutoMappServiceSoap" binding="tns:AutoMappServiceSoap">
+      <soap:address location="http://localhost:11533/AutoMappService/AutoMappService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="AutoMappServiceSoap12" binding="tns:AutoMappServiceSoap12">
+      <soap12:address location="http://localhost:11533/AutoMappService/AutoMappService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

@@ -1,0 +1,187 @@
+﻿body
+{
+    margin: 0;
+    padding: 0;
+    background: #0F162C;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#mnuBtn
+{
+    background-color: #fb8105;
+    border-top-left-radius: 8px;
+    background: linear-gradient(to bottom, #fdbc79, #fb8105);
+    width: 80px;
+    height: 28px;
+}
+.divToolBar
+{
+    width: 445px;
+    text-align: left;
+    height: 25px;
+    padding-top: 1px;
+    padding-left: 5px;
+    border-top-right-radius: 3px;
+    border-top-left-radius: 3px;
+    border: 1px solid #8D8888;
+    background: linear-gradient(to bottom, #f4f4f4, #c6c6c6);
+}
+.LinkButton
+{
+    cursor: default;
+}
+.LinkButton: hover
+{
+    background-color: #c6c6c6;
+    border-radius: 3px;
+    height: 20px;
+    width: 21px;
+    border: 1px solid #8D8888;
+    text-align: center;
+}
+.txtMultiLine
+{
+    resize: none;
+}
+#mnuBtn a
+{
+    color: #2652a4;
+    text-decoration: none;
+    padding-left: 22px;
+    font-weight: bold;
+    font-size: 16px;
+}
+#mnuBorder
+{
+    background: linear-gradient(to bottom, black, white);
+    width: 80px;
+    height: 4px;
+}
+.td
+{
+    background-color: #8CA0D9;
+    color: white;
+    text-align: center;
+}
+.message
+{
+    font-size: 10pt;
+    color: Yellow;
+}
+.normaltext
+{
+    font-size: 10pt;
+    color: #8CA0D9;
+}
+.link
+{
+    font-size: 10pt;
+    text-decoration: none;
+    font-weight: bold;
+    color: #A9D0F5;
+}
+.button
+{
+    width: 69px;
+    height: 24px;
+    padding: 4px 5px 1px 5px;
+    border: 1px solid #2A4F96;
+    background: #FFFFFF;
+    text-transform: capitalize;
+    font: normal 11px Arial, Helvetica, sans-serif;
+    color: #5D781D;
+}
+.button:hover
+{
+    color:#FFFFFF; 
+    background-color: #FC8B01;
+    cursor: pointer;
+cursor: hand;
+}
+/*Menu Css Starts Here */
+
+#nav li
+{
+    border-top: 2px solid #fc8a00;
+    list-style: none;
+    float: left;
+    font: bold 16px arial; /*   border-top-left-radius: 5px;     border-top-right-radius: 8px;*/
+}
+#nav li a.menu
+{
+    display: inherit;
+    text-align: center;
+    background: #2175bc;
+    padding: 4px 10px;
+    margin: 0 1px 0 0;
+    color: #FFF;
+    width: 110px;
+    text-decoration: none;
+}
+#nav li a.menu:hover
+{
+    background: #fc8a00;
+    color: #294b96;
+}
+.submenu
+{
+    background: #2175bc;
+    border-bottom: 3px solid #fc8a00;
+    visibility: hidden;
+    position: absolute;
+    z-index: 5;
+}
+.submenu a
+{
+    display: inherit;
+    font: bold 13px arial;
+    text-align: left;
+    text-decoration: none;
+    color: #ffffff;
+    width: 120px;
+    padding: 4px 6px;
+}
+.submenu a:hover
+{
+    background: #fc8a00;
+    color: #294b96;
+}
+
+
+/*Message Box CSS Starts here*/
+.info, .success, .warning, .error
+{
+    border: 1px solid;
+    margin: 15px 0px;
+    padding: 15px 20px 15px 55px;
+    width: 500px;
+    font: bold 12px verdana;
+    -moz-box-shadow: 0 0 5px #888;
+    -webkit-box-shadow: 0 0 5px#888;
+    box-shadow: 0 0 5px #888;
+    text-shadow: 2px 2px 2px #ccc;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+}
+.info
+{
+    color: #00529B;
+    background: #BDE5F8 url('../img/Blue-Info.gif') no-repeat 10px center;
+}
+.success
+{
+    color: #4F8A10;
+    background: #DFF2BF url('../img/red-error.gif') no-repeat 10px center;
+}
+.warning
+{
+    color: #9F6000;
+    background: #FEEFB3 url('../img/red-error.gif') no-repeat 10px center;
+}
+.error
+{
+    color: #D8000C;
+    background: #FFBABA url('../img/red-error.gif') no-repeat 10px center;
+}
+/*Message Box CSS Ends here*/

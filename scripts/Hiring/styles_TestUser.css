@@ -1,0 +1,259 @@
+body {margin-top:0px; overflow-x:hidden; font-family:"Open Sans"; font-size:14px; color:#333333; }
+
+input[type=password] {
+    padding: 0;
+    height: 45px;
+	width:400px;
+    position: relative;
+    left: 0;
+    outline: none;
+    border: 1px solid #cdcdcd;
+	border-radius:10px;
+    border-color: rgba(0,0,0,.15);
+    background-color: white;
+    font-size: 16px;
+}
+#lb{ font-family:"Open Sans"; font-size:18px; color:#999999; }
+
+#container {	width:100%; margin:0 auto;}
+#container #header { width:100%; margin:0 auto;}
+#container #header #logo { float:left; background-image:url(../../img/logo.gif); background-repeat:no-repeat; width:407px; height:108px; }
+#container #header #info { float:right; font-family:"Open Sans"; font-size:24px; color:#fc8b01; padding:5px 0px 5px 0px; }
+#container #header #info #title { text-align:right; padding-right:51px; clear:both;}
+#container #header #info #phone {text-align:right; }
+#container #header #info #phone #img{ float:left;}
+#container #header #info #phone #txt{ float:left; padding-top:5px; }
+#container #header #info #email {clear:both; text-align:right; }
+#container #header #info #email #img{float:left; }
+#container #header #info #email #txt{float:left; padding-top:5px; }
+
+#container #menu {clear:both;font-family:"Open Sans"; font-size:26px; text-align:center; }
+#container #menu a {padding:0px 12px 0px 12px; text-decoration:none; color:#2a4f96;}
+#container #menu a:hover { border-bottom:3px solid #fc8b01;}
+
+#container #mid { width:100%; margin-top:0px;
+    height: 555px;
+}
+#container #mid h1 { font-family:"Futura Md BT"; font-size:43px; color:#666666; text-align:center; }
+#container #mid h2 { font-family:"Open Sans"; font-size:38px; color:#fc8b01; text-align:center; }
+#container #mid h3 { font-family:"Open Sans"; font-size:26px; color:#666666; text-align:center; }
+#container #mid h4 { font-family:"Open Sans"; font-size:24px; color:#fc8b01; text-align:left; }
+#container #mid #roundBox{ 	border: 1px solid #cccccc;	padding:10px 10px 10px 10px;	text-align:left; width:100%;	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;	border-radius: 25px;
+    height: 1260px;
+}
+
+.roundBox_Quiz{ 	border: 1px solid #cccccc;	padding:10px 10px 10px 10px;	text-align:left; width:50%;	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;	border-radius: 25px;
+     	height: 192px;width: 508px;margin-right: 3%;
+}
+
+#container #mid #roundBox1{ 	border: 1px solid #cccccc;	padding:10px 10px 10px 10px;	text-align:left; width:100%;	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;	border-radius: 25px;
+    height: 1080px;margin: auto;
+}
+	
+#container #mid #tests{ width:75%; clear:both;}	
+
+#container #mid #videos { width:100%; margin:0 auto; }
+#container #mid #videos #listV { height:950px; background-color:#2a4f96;text-align:center; border: 1px solid #2a4f96;	
+padding:10px 10px 10px 10px;	text-align:left; -webkit-border-radius: 25px;	-moz-border-radius: 25px;	border-radius: 25px;}
+#container #mid #videos #listV #listBox { width:250px; float:left; margin:10px 0px 10px 0px;}
+#container #mid #videos #listV #listBox #im{ text-align:center; }
+#container #mid #videos #listV #listBox #imPlay{ position:absolute; margin:-130px 0px 0px 90px; }
+#container #mid #videos #listV #listBox img{ margin:0 auto; text-align:center; }
+#container #mid #videos #listV #listBox #title {font-family:"Open Sans"; font-size:22px; font-weight:bold; text-align:center; color:#FFFFFF; }
+#container #mid #videos #listV #listBox #txt { font-family:"Open Sans"; font-size:14px; text-align:center; color:#cccccc; }
+#container #mid #videos #listV #spr { margin:0px 15px 0px 15px; width:1px; height:200px; background-color:#999999; float:left; }
+#container #mid #videos #videoPanel { width:70%; float:left;   }
+
+#container #mid #videoPanel #videoBox{ width:500px; margin:0 auto;}
+#container #mid #videoBox
+{ 
+	border: 1px solid #cccccc;
+	padding:10px 10px 10px 10px;
+	text-align:left; width:100%;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius: 25px;
+	-webkit-box-shadow: #666 0px 2px 3px;
+	-moz-box-shadow: #666 0px 2px 3px;
+	box-shadow: #666 0px 2px 3px;
+	background: #cccccc;
+	background: -webkit-gradient(linear, 0 0, 0 bottom, from(#cccccc), to(#666666));
+	background: -webkit-linear-gradient(#cccccc, #666666);
+	background: -moz-linear-gradient(#cccccc, #666666);
+	background: -ms-linear-gradient(#cccccc, #666666);
+	background: -o-linear-gradient(#cccccc, #666666);
+	background: linear-gradient(#cccccc, #666666);
+	-pie-background: linear-gradient(#cccccc, #666666);
+	behavior: url(/PIE.htc);
+}
+
+#container #mid #popup { padding-top:10px; }
+#container #mid #btn { margin:0 auto; width:490px; height:109px; background-image:url(../img/button_startTest.jpg); background-repeat:no-repeat; }
+
+#container #mid #profile { width:100%; margin:0 auto; word-break:break-all; }
+#container #mid #profile #notice{ width:90%; margin:0 auto; border: 3px solid #ADDFFF;	padding:10px 30px 10px 30px;	text-align:left; -webkit-border-radius: 25px;
+	-moz-border-radius: 25px;	border-radius: 25px; background-color:#C2DFFF; height:20px;}
+#container #mid #profile #notice #noticeL{ float:left;}
+#container #mid #profile #notice #noticeR{ float:right;}
+
+#container #mid #profile p { clear:both;}
+#container #mid #profile #more { color:#fc8b01; font-size:10px;} 
+#container #mid #profile #tasks{ font-family:Verdana, Arial, Helvetica, sans-serif; font-size:11px; text-align:center;}
+
+#container #mid #profile #profileL { width:75%; float:left;}
+#container #mid #profile #profileL #profileHD {margin:0 auto; width:50%; height:100px; }
+#container #mid #profile #profileL #profileHD #info #img{ float:left; border:3px solid cccccc; width:110px; height:110px;}
+#container #mid #profile #profileL #profileHD #info { float:left; padding-left:10px;}
+#container #mid #profile #profileL #profileHD #info h1 { float:left; }
+#container #mid #profile #profileL #profileHD #info #ql { float:left; }
+#container #mid #profile #profileL #profileHD #info #ql #qlsub { margin-right:20px; float:left; border: 1px solid #fc8b01;	padding:3px 3px 3px 3px;	text-align:left; -webkit-border-radius: 5px;
+	-moz-border-radius: 5px;	border-radius: 5px; background-color:#FFE4B5;}
+
+#container #mid #profile #profileL #hd { margin-left:10px; border: 1px solid #e9e9e9;	padding:18px 3px 3px 13px;	text-align:left; -webkit-border-radius: 15px;
+	-moz-border-radius: 15px;	border-radius: 15px; background-color:#e9e9e9; font-size:18px; font-weight:bold; height:40px; text-transform:uppercase;}
+
+#container #mid #profile #profileR{  margin-right:10px; width:23%; float:right; border: 1px solid #e9e9e9;	padding:3px 3px 3px 3px;	text-align:left; -webkit-border-radius: 5px;
+	-moz-border-radius: 5px;	border-radius: 5px; background-color:#e9e9e9; height:1100px; }
+#container #mid #profile #profileR h3 { font-size:14px;  font-weight:bold;}
+#container #mid #profile #profileR h4{ color:#0066cc; font-size:18px; padding-left:20px; }
+#container #mid #profile #profileR p {color:#666666; padding-left:20px; }
+
+#star {width: 0;height: 40px;border-left: 20px solid #ff0000;border-right: 20px solid #ff0000;border-bottom: 15px solid transparent;position: relative;margin:0 auto; }
+#star span{ color:#FFFF00; font-size:32px; text-align:left; margin-left:-8px;}
+#star:after {width: 30px;height: 35px;border-top: 1px dashed rgba(255,255,255,0.4);border-bottom: 1px solid transparent;
+border-left: 1px dashed rgba(255,255,255,0.4);border-right: 1px dashed rgba(255,255,255,0.4);position: absolute;content: "";top: 4px;left: -16px;}
+
+.score { background-image:url(../img/im_score.png); background-repeat:no-repeat; margin:0 auto; padding-left:15px; color:#FFFFFF; }
+
+#container #footer { height:75px;  margin:50px 0px 0px 0px; clear:both;  }
+#container #footer p{ color:#666666; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:16px; padding-top:5px; text-align:center; }
+
+/* \\\\\\\\\\\\\\\\\    MODAL CODE   ///////////////////////////////// */
+.overlay {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  display: none;
+}
+
+.modal {
+  display: none;
+  padding: 0 20px 20px;
+  overflow: auto;
+  z-index: 1001;
+  position: absolute;
+  width: 500px;
+  min-height: 200px;
+  
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+-webkit-box-shadow: #666 0px 12px 13px;
+-moz-box-shadow: #666 0px 12px 13px;
+box-shadow: #666 0px 12px 13px;
+background: #f2f7dd;
+}
+
+.gridHeader {
+    background-color:#2a4f96;
+    color:#FFF;
+	text-align:center;
+}
+
+.TestClearedFormatting
+{    
+ background-color: #FFE4B5;
+    border: 1px solid #FC8B01;
+    border-radius: 5px;
+    float: left;
+    margin-right: 20px;
+    padding: 3px;
+    text-align: left;   
+}
+
+#divMyTasks 
+{
+    margin-left:10px;
+    background-color: #E9E9E9;
+    border: 1px solid #E9E9E9;
+    border-radius: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    height: 40px;
+    padding: 18px 3px 3px 13px;
+    text-align: left;
+    text-transform: uppercase;
+}
+
+#lblErrorMsg
+{
+    font-family: Verdana;
+    font-size: large;
+    font-weight: normal;
+    color: #FF0000;
+    
+}
+#container #mid #tutorials {
+    margin: 0 auto;
+    width: 100%;
+    height: 418px;
+}
+#container #mid #tutorials #txt {
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    width: 97%;
+}
+#container #mid #tutorials #txt p {
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    width: 97%;
+}
+#container #mid #tutorials h4 {
+    color: #333333;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 14px;
+}
+#container #mid #tutorials p {
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 11px;
+}
+#container #mid #tutorials #more {
+    color: #0066CC;
+    font-size: small;
+}
+#container #mid #tutorialL {
+    background-color: #C2DFFF;
+    border: 3px solid #ADDFFF;
+    border-radius: 25px;
+    float: left;
+    padding: 10px 30px;
+    text-align: left;
+    width: 43%;
+    margin-top:94px;
+}
+#container #mid #tutorialR {
+    background-color: #C2DFFF;
+    border: 3px solid #ADDFFF;
+    border-radius: 25px;
+    float: right;
+    padding: 10px 30px;
+    text-align: left;
+    width: 43%;
+}
+.giveTest
+{
+ color: #0099ff;
+    text-decoration: none;   
+}
+
+a {
+    color: #0099ff;
+    text-decoration: none;
+    
+}

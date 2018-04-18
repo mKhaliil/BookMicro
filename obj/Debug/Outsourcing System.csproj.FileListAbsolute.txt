@@ -1,0 +1,1641 @@
+D:\Office Data\Currently Working Projects\2016-01-06 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-01-06 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-01-06 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-01-06 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-01-06 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-01-06 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-01-06 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-01-07 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-01-07 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-01-07 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-01-07 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-01-07 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-01-07 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-01-07 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-01-07 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-01-09 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-01-09 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-01-09 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-01-09 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-01-09 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-01-09 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-01-09 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-01-09 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-01-11 BookMicroBeta with Forgot password\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-01-11 BookMicroBeta with Forgot password\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-01-11 BookMicroBeta with Forgot password\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-01-11 BookMicroBeta with Forgot password\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-01-11 BookMicroBeta with Forgot password\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-01-11 BookMicroBeta with Forgot password\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-01-11 BookMicroBeta with Forgot password\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-01-11 BookMicroBeta with Forgot password\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-01-18 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-01-18 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-01-18 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-01-18 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-01-18 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-01-18 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-01-18 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-01-18 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-01-20 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-01-20 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-01-20 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-01-20 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-01-20 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-01-20 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-01-20 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-01-20 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-02-19 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-02-19 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-02-19 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-02-19 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-02-19 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-02-19 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-02-19 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-02-19 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-02-22 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-02-22 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-02-22 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-02-22 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-02-22 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-02-22 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-02-22 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-02-22 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-01 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-03-01 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-01 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-01 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-03-01 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-03-01 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-03-01 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-01 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-03 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-03-03 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-03 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-03 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-03-03 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-03-03 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-03-03 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-03 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-07 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-03-07 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-03-07 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-07 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-03-07 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-07 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-07 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-03-07 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-08 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-03-08 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-08 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-08 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-03-08 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-03-08 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-03-08 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-08 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-10 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-03-10 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-10 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-10 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-03-10 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-03-10 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-10 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-10 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-03-15 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-03-15 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-15 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-15 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-03-15 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-03-15 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-15 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-15 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-03-17 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-03-17 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-17 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-17 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-03-17 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-03-17 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-17 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-17 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-03-21 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-03-21 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-21 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-21 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-03-21 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-03-21 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-03-21 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-21 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-25 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-03-25 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-03-25 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-25 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-03-25 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-25 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-25 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-03-25 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-26 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-03-26 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-26 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-26 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-03-26 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-03-26 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-26 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-26 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-03-29 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-03-29 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-29 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-29 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-03-29 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-03-29 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-03-29 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-29 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-31 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-03-31 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-31 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-31 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-03-31 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-03-31 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-31 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-31 BookMicroBeta Xmlfromfile\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-03-31 BookMicroBeta Xmlfromfile\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-31 BookMicroBeta Xmlfromfile\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-03-31 BookMicroBeta Xmlfromfile\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-03-31 BookMicroBeta Xmlfromfile\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-03-31 BookMicroBeta Xmlfromfile\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-03-31 BookMicroBeta Xmlfromfile\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-03-31 BookMicroBeta Xmlfromfile\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-04-01 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-04-01 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-04-01 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-04-01 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-04-01 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-04-01 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-04-01 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-04-01 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-04-04 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-04-04 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-04-04 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-04-04 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-04-04 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-04-04 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-04-04 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-04-04 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-04-07 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-04-07 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-04-07 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-04-07 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-04-07 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-04-07 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-04-07 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-04-07 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-04-14 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-04-14 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-04-14 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-04-14 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-04-14 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-04-14 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-04-14 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-04-14 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-04-19 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-04-19 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-04-19 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-04-19 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-04-19 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-04-19 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-04-19 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-04-19 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-04-27 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-04-27 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-04-27 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-04-27 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-04-27 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-04-27 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-04-27 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-05-03 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-05-03 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-05-03 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-05-03 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-05-03 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-05-03 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-05-03 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-05-03 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-05-13 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-05-13 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-05-13 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-05-13 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-05-13 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-05-13 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-05-13 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-05-13 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-05-18 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-05-18 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-05-18 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-05-18 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-05-18 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-05-18 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-05-18 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-05-23 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-05-23 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-05-23 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-05-23 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-05-23 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-05-23 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-05-23 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-05-23 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-05-30 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-05-30 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-05-30 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-05-30 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-05-30 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-05-30 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-05-30 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-05-30 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-07-20 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-07-20 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-07-20 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-07-20 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-07-20 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-07-20 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-07-20 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-07-20 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-07-25 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-07-25 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-07-25 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-07-28 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-07-28 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-07-28 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-07-28 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-07-28 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-07-28 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-07-28 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-07-28 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-07-29 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-07-29 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-07-29 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-07-29 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-07-29 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-07-29 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-07-29 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-07-29 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-08-01 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-08-01 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-08-01 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-08-01 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-08-01 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-08-01 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-08-01 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-08-01 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-08-03 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-08-03 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-08-03 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-08-03 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-08-03 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-08-03 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-08-03 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-08-03 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-08-08 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-08-08 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-08-08 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-08-08 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-08-08 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-08-08 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-08-08 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-08-08 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-08-09 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-08-09 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-08-09 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-08-09 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-08-09 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-08-09 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-08-09 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-08-09 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-08-11 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-08-11 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-08-11 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-08-11 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-08-11 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-08-11 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-08-11 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-08-11 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-08-29 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-08-29 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-08-29 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-08-29 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-08-29 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-08-29 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-08-29 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-08-29 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-09-09 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-09-09 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-09-09 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-09-09 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-09-09 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-09-09 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+D:\Office Data\Currently Working Projects\2016-09-09 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-09-09 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-09-20 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-09-20 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-09-20 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-09-20 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-09-20 BookMicroBeta\bin\ExcelPackage.dll
+D:\Office Data\Currently Working Projects\2016-09-20 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-09-20 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-09-20 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-09-21 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-09-21 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-09-21 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-09-21 BookMicroBeta\bin\ExcelPackage.dll
+D:\Office Data\Currently Working Projects\2016-09-21 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-09-21 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-09-21 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-09-21 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-09-22 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-09-22 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-09-22 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-09-22 BookMicroBeta\bin\ExcelPackage.dll
+D:\Office Data\Currently Working Projects\2016-09-22 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-09-22 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-09-22 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-09-22 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-09-27 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-09-27 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-09-27 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-09-27 BookMicroBeta\bin\ExcelPackage.dll
+D:\Office Data\Currently Working Projects\2016-09-27 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-09-27 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-09-27 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-09-27 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-03 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-10-03 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-03 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-03 BookMicroBeta\bin\EPPlus.dll
+D:\Office Data\Currently Working Projects\2016-10-03 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-10-03 BookMicroBeta\bin\EPPlus.xml
+D:\Office Data\Currently Working Projects\2016-10-03 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-03 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-03 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-10-04 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-10-04 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-04 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-04 BookMicroBeta\bin\EPPlus.dll
+D:\Office Data\Currently Working Projects\2016-10-04 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-10-04 BookMicroBeta\bin\EPPlus.xml
+D:\Office Data\Currently Working Projects\2016-10-04 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-10-04 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-04 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-06 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-10-06 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-06 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-06 BookMicroBeta\bin\EPPlus.dll
+D:\Office Data\Currently Working Projects\2016-10-06 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-10-06 BookMicroBeta\bin\EPPlus.xml
+D:\Office Data\Currently Working Projects\2016-10-06 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-10-06 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-06 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-10 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-10-10 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-10 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-10 BookMicroBeta\bin\EPPlus.dll
+D:\Office Data\Currently Working Projects\2016-10-10 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-10-10 BookMicroBeta\bin\EPPlus.xml
+D:\Office Data\Currently Working Projects\2016-10-10 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-10-10 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-10 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-11 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-10-11 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-11 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-11 BookMicroBeta\bin\EPPlus.dll
+D:\Office Data\Currently Working Projects\2016-10-11 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-10-11 BookMicroBeta\bin\EPPlus.xml
+D:\Office Data\Currently Working Projects\2016-10-11 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-10-11 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-11 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-13 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-10-13 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-13 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-13 BookMicroBeta\bin\EPPlus.dll
+D:\Office Data\Currently Working Projects\2016-10-13 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-10-13 BookMicroBeta\bin\EPPlus.xml
+D:\Office Data\Currently Working Projects\2016-10-13 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-10-13 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-13 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-14 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-10-14 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-14 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-14 BookMicroBeta\bin\EPPlus.dll
+D:\Office Data\Currently Working Projects\2016-10-14 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-10-14 BookMicroBeta\bin\EPPlus.xml
+D:\Office Data\Currently Working Projects\2016-10-14 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-14 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-14 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-10-18 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-10-18 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-18 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-18 BookMicroBeta\bin\EPPlus.dll
+D:\Office Data\Currently Working Projects\2016-10-18 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-10-18 BookMicroBeta\bin\EPPlus.xml
+D:\Office Data\Currently Working Projects\2016-10-18 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-10-18 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-18 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-19 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-10-19 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-19 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-19 BookMicroBeta\bin\EPPlus.dll
+D:\Office Data\Currently Working Projects\2016-10-19 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-10-19 BookMicroBeta\bin\EPPlus.xml
+D:\Office Data\Currently Working Projects\2016-10-19 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-19 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-19 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-10-21 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-10-21 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-21 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-21 BookMicroBeta\bin\EPPlus.dll
+D:\Office Data\Currently Working Projects\2016-10-21 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-10-21 BookMicroBeta\bin\EPPlus.xml
+D:\Office Data\Currently Working Projects\2016-10-21 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-10-21 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-21 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-23 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-10-23 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-23 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-23 BookMicroBeta\bin\EPPlus.dll
+D:\Office Data\Currently Working Projects\2016-10-23 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-10-23 BookMicroBeta\bin\EPPlus.xml
+D:\Office Data\Currently Working Projects\2016-10-23 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-10-23 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-23 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-24 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-10-24 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-24 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-24 BookMicroBeta\bin\EPPlus.dll
+D:\Office Data\Currently Working Projects\2016-10-24 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-10-24 BookMicroBeta\bin\EPPlus.xml
+D:\Office Data\Currently Working Projects\2016-10-24 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-10-24 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-24 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-25 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-10-25 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-25 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-25 BookMicroBeta\bin\EPPlus.dll
+D:\Office Data\Currently Working Projects\2016-10-25 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-10-25 BookMicroBeta\bin\EPPlus.xml
+D:\Office Data\Currently Working Projects\2016-10-25 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-25 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-25 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-10-27 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-10-27 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-27 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-27 BookMicroBeta\bin\EPPlus.dll
+D:\Office Data\Currently Working Projects\2016-10-27 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-10-27 BookMicroBeta\bin\EPPlus.xml
+D:\Office Data\Currently Working Projects\2016-10-27 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-10-27 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-27 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\bin\Outsourcing System.dll.config
+D:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\bin\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\bin\Outsourcing System.pdb
+D:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\bin\EPPlus.dll
+D:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\bin\TET_dotnet.dll
+D:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\bin\EPPlus.xml
+D:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+D:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\obj\Debug\Outsourcing System.dll
+D:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-10-28 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-02 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-11-02 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-02 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-02 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-11-02 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-11-02 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-11-02 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-11-02 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-02 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-07 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-11-07 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-07 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-07 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-11-07 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-11-07 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-11-07 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-11-07 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-07 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-08 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-11-08 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-08 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-08 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-11-08 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-11-08 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-11-08 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-11-08 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-08 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-10 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-10 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-11-10 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-10 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-10 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-11-10 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-11-10 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-11-10 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-10 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-11-11 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-11-11 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-11 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-11 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-11-11 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-11-11 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-11-11 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-11-11 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-11 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-14 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-11-14 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-14 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-14 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-11-14 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-11-14 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-11-14 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-11-14 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-14 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-21 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-11-21 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-21 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-21 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-11-21 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-11-21 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-11-21 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-11-21 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-11-21 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-21 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-21 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-11-22 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-11-22 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-22 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-22 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-11-22 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-11-22 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-11-22 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-11-22 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-11-22 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-11-22 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-22 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-23 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-11-23 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-23 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-23 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-11-23 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-11-23 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-11-23 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-11-23 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-11-23 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-11-23 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-23 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-24 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-11-24 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-24 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-24 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-11-24 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-11-24 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-11-24 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-11-24 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-11-24 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-11-24 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-24 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-25 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-11-25 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-25 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-25 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-11-25 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-11-25 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-11-25 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-11-25 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-11-25 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-11-25 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-25 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-28 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-11-28 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-28 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-11-28 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-11-28 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-11-28 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-11-28 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-11-28 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-11-28 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-11-28 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-11-28 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-01 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-12-01 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-01 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-01 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-12-01 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-12-01 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-12-01 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-12-01 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-12-01 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-01 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-01 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-12-08 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-12-08 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-08 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-08 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-12-08 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-12-08 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-12-08 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-12-08 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-12-08 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-08 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-08 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-12-09 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-12-09 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-09 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-09 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-12-09 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-12-09 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-12-09 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-12-09 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-12-09 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-12-09 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-09 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-13 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-12-13 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-13 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-13 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-12-13 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-12-13 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-12-13 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-12-13 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-12-13 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-12-13 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-13 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-15 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-12-15 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-15 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-15 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-12-15 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-12-15 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-12-15 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-12-15 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-12-15 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-12-15 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-15 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-16 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-12-16 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-16 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-16 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-12-16 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-12-16 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-12-16 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-12-16 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-12-16 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-12-16 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-16 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-19 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-12-19 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-19 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-19 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-12-19 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-12-19 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-12-19 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-12-19 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-12-19 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-12-19 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-19 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-20 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-12-20 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-20 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-20 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-12-20 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-12-20 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-12-20 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-12-20 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-12-20 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-12-20 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-20 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-21 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-12-21 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-21 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-21 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-12-21 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-12-21 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-12-21 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-12-21 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-12-21 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-12-21 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-21 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-22 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-12-22 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-22 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-22 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-12-22 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-12-22 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-12-22 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-12-22 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-12-22 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-12-22 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-22 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-23 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-12-23 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-23 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-23 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-12-23 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-12-23 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-12-23 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-12-23 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-12-23 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-12-23 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-23 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-26 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-12-26 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-26 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-26 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-12-26 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-12-26 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-12-26 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-12-26 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-12-26 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-12-26 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-26 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-27 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-12-27 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-12-27 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-12-27 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-27 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-12-27 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-27 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-27 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-12-27 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-12-27 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-12-27 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-28 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-12-28 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-28 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-28 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-12-28 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-12-28 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-12-28 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-12-28 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-12-28 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-12-28 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-28 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-29 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2016-12-29 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-29 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2016-12-29 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2016-12-29 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2016-12-29 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2016-12-29 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2016-12-29 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2016-12-29 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2016-12-29 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2016-12-29 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-02 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-01-02 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-02 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-02 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-01-02 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-01-02 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-01-02 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-01-02 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-01-02 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-01-02 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-02 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-03 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-01-03 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-03 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-03 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-01-03 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-01-03 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-01-03 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-01-03 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-01-03 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-01-03 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-03 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-06 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-01-06 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-06 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-06 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-01-06 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-01-06 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-01-06 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-01-06 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-01-06 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-01-06 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-06 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-07 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-01-07 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-07 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-07 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-01-07 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-01-07 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-01-07 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-01-07 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-01-07 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-01-07 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-07 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-09 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-01-09 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-09 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-09 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-01-09 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-01-09 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-01-09 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-01-09 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-01-09 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-01-09 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-09 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-11 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-01-11 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-11 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-11 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-01-11 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-01-11 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-01-11 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-01-11 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-01-11 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-01-11 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-11 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-13 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-01-13 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-13 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-13 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-01-13 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-01-13 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-01-13 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-01-13 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-01-13 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-01-13 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-13 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-16 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-01-16 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-01-16 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-16 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-01-16 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-16 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-16 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-01-16 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-01-16 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-01-16 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-16 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-01-17 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-01-17 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-17 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-17 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-01-17 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-01-17 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-01-17 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-01-17 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-01-17 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-01-17 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-17 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-18 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-01-18 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-18 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-18 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-01-18 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-01-18 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-01-18 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-01-18 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-01-18 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-01-18 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-18 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-23 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-01-23 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-23 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-23 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-01-23 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-01-23 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-01-23 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-01-23 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-01-23 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-01-23 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-23 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-24 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-01-24 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-24 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-24 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-01-24 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-01-24 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-01-24 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-01-24 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-01-24 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-24 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-27 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-01-27 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-27 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-27 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-01-27 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-01-27 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-01-27 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-01-27 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-01-27 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-01-27 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-27 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-30 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-01-30 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-30 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-30 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-01-30 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-01-30 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-01-30 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-01-30 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-01-30 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-01-30 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-30 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-31 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-01-31 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-31 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-01-31 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-01-31 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-01-31 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-01-31 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-01-31 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-01-31 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-01-31 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-01-31 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-03 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-02-03 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-03 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-03 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-02-03 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-02-03 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-02-03 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-02-03 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-02-03 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-02-03 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-03 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-06 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-02-06 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-06 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-06 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-02-06 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-02-06 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-02-06 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-02-06 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-02-06 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-02-06 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-06 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-09 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-02-09 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-09 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-09 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-02-09 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-02-09 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-02-09 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-02-09 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-02-09 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-02-09 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-09 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-10 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-02-10 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-10 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-10 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-02-10 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-02-10 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-02-10 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-02-10 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-02-10 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-02-10 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-10 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-13 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-02-13 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-13 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-13 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-02-13 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-02-13 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-02-13 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-02-13 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-02-13 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-02-13 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-13 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-14 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-02-14 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-14 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-14 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-02-14 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-02-14 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-02-14 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-02-14 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-02-14 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-02-14 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-14 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-15 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-02-15 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-15 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-15 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-02-15 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-02-15 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-02-15 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-02-15 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-02-15 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-02-15 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-15 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-16 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-02-16 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-16 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-16 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-02-16 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-02-16 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-02-16 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-02-16 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-02-16 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-02-16 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-16 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-17 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-02-17 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-02-17 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-02-17 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-17 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-02-17 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-17 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-17 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-02-17 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-02-17 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-02-17 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-18 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-02-18 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-18 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-18 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-02-18 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-02-18 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-02-18 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-02-18 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-02-18 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-02-18 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-18 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-21 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-02-21 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-21 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-21 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-02-21 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-02-21 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-02-21 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-02-21 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-02-21 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-02-21 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-21 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-22 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-02-22 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-22 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-22 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-02-22 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-02-22 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-02-22 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-02-22 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-02-22 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-02-22 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-22 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-27 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-02-27 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-27 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-02-27 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-02-27 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-02-27 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-02-27 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-02-27 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-02-27 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-02-27 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-02-27 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-03-02 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-03-02 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-03-02 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-03-02 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-03-02 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-03-02 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-03-02 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-03-02 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-03-02 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-03-02 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-03-02 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-03-03 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-03-03 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-03-03 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-03-03 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-03-03 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-03-03 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-03-03 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-03-03 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-03-03 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-03-03 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-03-03 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-03-06 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-03-06 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-03-06 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-03-06 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-03-06 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-03-06 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-03-06 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-03-06 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-03-06 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-03-06 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-03-06 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-03-08 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-03-08 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-03-08 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-03-08 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-03-08 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-03-08 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-03-08 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-03-08 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-03-08 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-03-08 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-03-08 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-03-09 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-03-09 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-03-09 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-03-09 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-03-09 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-03-09 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-03-09 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-03-09 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-03-09 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-03-09 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-03-09 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-03-10 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-03-10 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-03-10 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-03-10 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-03-10 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-03-10 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-03-10 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-03-10 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-03-10 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-03-10 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-03-10 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-03-21 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-03-21 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-03-21 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-03-21 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-03-21 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-03-21 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-03-21 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-03-21 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-03-21 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-03-21 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-03-21 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-03-28 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-03-28 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-03-28 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-03-28 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-03-28 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-03-28 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-03-28 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-03-28 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-03-28 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-03-28 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-03-28 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-04-05 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-04-05 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-04-05 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-04-05 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-04-05 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-04-05 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-04-05 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-04-05 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-04-05 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-04-05 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-04-05 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-04-06 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-04-06 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-04-06 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-04-06 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-04-06 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-04-06 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-04-06 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-04-06 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-04-06 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-04-06 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-04-06 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-04-07 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-04-07 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-04-07 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-04-07 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-04-07 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-04-07 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-04-07 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-04-07 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-04-07 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-04-07 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-04-07 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-04-10 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-04-10 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-04-10 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-04-10 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-04-10 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-04-10 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-04-10 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-04-10 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-04-10 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-04-10 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-04-10 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-04-14 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-04-14 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-04-14 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-04-14 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-04-14 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-04-14 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-04-14 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-04-14 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-04-14 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-04-14 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-04-14 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-04-21 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-04-21 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-04-21 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-04-21 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-04-21 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-04-21 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-04-21 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-04-21 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-04-21 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-04-21 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-04-21 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-04-24 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-04-24 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-04-24 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-04-24 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-04-24 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-04-24 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-04-24 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-04-24 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-04-24 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-04-24 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-04-24 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-04-25 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-04-25 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-04-25 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-04-25 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-04-25 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-04-25 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-04-25 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-04-25 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-04-25 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-04-25 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-04-25 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-05-03 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-05-03 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-05-03 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-05-03 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-05-03 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-05-03 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-05-03 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-05-03 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-05-03 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-05-03 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-05-03 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-05-08 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-05-08 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-05-08 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-05-08 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-05-08 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-05-08 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-05-08 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-05-08 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-05-08 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-05-08 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-05-08 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-05-15 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-05-15 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-05-15 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-05-15 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-05-15 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-05-15 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-05-15 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-05-15 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-05-15 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-05-15 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-05-15 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-05-16 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-05-16 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-05-16 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-05-16 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-05-16 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-05-16 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-05-16 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-05-16 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-05-16 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-05-16 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-05-16 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-05-25 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-05-25 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-05-25 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-05-25 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-05-25 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-05-25 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-05-25 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-05-25 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-05-25 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-05-25 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-05-25 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-05-27 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-05-27 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-05-27 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-05-27 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-05-27 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-05-27 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-05-27 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-05-27 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-05-27 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-05-27 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-05-27 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-05-31 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-05-31 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-05-31 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-05-31 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-05-31 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-05-31 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-05-31 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-05-31 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-05-31 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-05-31 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-05-31 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-06-03 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-06-03 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-06-03 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-06-03 BookMicroBeta\bin\EPPlus.dll
+F:\Office Data\Currently Working Projects\2017-06-03 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-06-03 BookMicroBeta\bin\EPPlus.xml
+F:\Office Data\Currently Working Projects\2017-06-03 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-06-03 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-06-03 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-06-03 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-06-03 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-06-11 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-06-11 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-06-11 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-06-11 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-06-11 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-06-11 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-06-11 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-06-11 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-06-11 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-06-16 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-06-16 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-06-16 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-06-16 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-06-16 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-06-16 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-06-16 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-06-16 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-06-16 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-06-20 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-06-20 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-06-20 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-06-20 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-06-20 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-06-20 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-06-20 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-06-20 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-06-20 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-06-29 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-06-29 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-06-29 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-06-29 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-06-29 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-06-29 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-06-29 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-06-29 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-06-29 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-07-05 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-07-05 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-07-05 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-07-05 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-07-05 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-07-05 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-07-05 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-07-05 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-07-05 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-07-08 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-07-08 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-07-08 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-07-08 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-07-08 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-07-08 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-07-08 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-07-08 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-07-08 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-07-13 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-07-13 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-07-13 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-07-13 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-07-13 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-07-13 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-07-13 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-07-13 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-07-13 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-07-14 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-07-14 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-07-14 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-07-14 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-07-14 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-07-14 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-07-14 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-07-14 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-07-14 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-07-19 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-07-19 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-07-19 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-07-19 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-07-19 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-07-19 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-07-19 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-07-19 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-07-19 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-07-21 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-07-21 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-07-21 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-07-21 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-07-21 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-07-21 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-07-21 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-07-21 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-07-21 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-07-28 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-07-28 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-07-28 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-07-28 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-07-28 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-07-28 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-07-28 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-07-28 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-07-28 BookMicroBeta\bin\TET_dotnet.dll
+F:\Office Data\Currently Working Projects\2017-08-04 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-08-04 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-08-04 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-08-04 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-08-04 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-08-04 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-08-04 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-08-04 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-08-09 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-08-09 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-08-09 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-08-09 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-08-09 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-08-09 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-08-09 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-08-09 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-08-15 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-08-15 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-08-15 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-08-15 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-08-15 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-08-15 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-08-15 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-08-15 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-08-18 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-08-18 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-08-18 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-08-18 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-08-18 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-08-18 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-08-18 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-08-18 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-08-25 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-08-25 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-08-25 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-08-25 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-08-25 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-08-25 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-08-25 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-08-25 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-08-28 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-08-28 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-08-28 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-08-28 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-08-28 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-08-28 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-08-28 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-08-28 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-09-05 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-09-05 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-09-05 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-09-05 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-09-05 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-09-05 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-09-05 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-09-05 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-09-08 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-09-08 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-09-08 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-09-08 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-09-08 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-09-08 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-09-08 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-09-08 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-09-14 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-09-14 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-09-14 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-09-14 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-09-14 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-09-14 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-09-14 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-09-14 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-09-21 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-09-21 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-09-21 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-09-21 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-09-21 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-09-21 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-09-21 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-09-21 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-09-25 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-09-25 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-09-25 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-09-25 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-09-25 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-09-25 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-09-25 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-09-25 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-09-29 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-09-29 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-09-29 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-09-29 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-09-29 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-09-29 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-09-29 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-09-29 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-03 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-10-03 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-03 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-03 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-10-03 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-10-03 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-03 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-03 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-10-06 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-10-06 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-06 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-06 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-10-06 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-10-06 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-10-06 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-06 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-11 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-10-11 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-11 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-11 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-10-11 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-10-11 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-11 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-11 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-10-19 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-10-19 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-10-19 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-10-19 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-19 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-10-19 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-19 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-19 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-20 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-10-20 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-20 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-20 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-10-20 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-10-20 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-10-20 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-20 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-21 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-10-21 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-21 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-21 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-10-21 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-10-21 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-10-21 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-21 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-25 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-10-25 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-25 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-25 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-10-25 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-10-25 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-10-25 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-25 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-27 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-10-27 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-27 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-27 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-10-27 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-10-27 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-10-27 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-27 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-30 BookMicroBeta\bin\Outsourcing System.dll.config
+F:\Office Data\Currently Working Projects\2017-10-30 BookMicroBeta\bin\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-30 BookMicroBeta\bin\Outsourcing System.pdb
+F:\Office Data\Currently Working Projects\2017-10-30 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache
+F:\Office Data\Currently Working Projects\2017-10-30 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\Office Data\Currently Working Projects\2017-10-30 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\Office Data\Currently Working Projects\2017-10-30 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\Office Data\Currently Working Projects\2017-10-30 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\OfficeWork\Aamir Projects\2017-10-30 BookMicroBeta\bin\Outsourcing System.dll
+F:\OfficeWork\Aamir Projects\2017-10-30 BookMicroBeta\bin\Outsourcing System.pdb
+F:\OfficeWork\Aamir Projects\2017-10-30 BookMicroBeta\obj\Debug\Interop.Acrobat.dll
+F:\OfficeWork\Aamir Projects\2017-10-30 BookMicroBeta\obj\Debug\Outsourcing System.csproj.ResolveComReference.cache
+F:\OfficeWork\Aamir Projects\2017-10-30 BookMicroBeta\obj\Debug\Outsourcing System.dll
+F:\OfficeWork\Aamir Projects\2017-10-30 BookMicroBeta\obj\Debug\Outsourcing System.pdb
+F:\OfficeWork\Aamir Projects\2017-10-30 BookMicroBeta\obj\Debug\Outsourcing System.csprojResolveAssemblyReference.cache

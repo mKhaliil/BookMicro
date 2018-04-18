@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="ValidateImages">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="zipFile" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidateImagesResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ValidateImagesResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidateImagesAgainstList">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="zipFilePath" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="AID" type="s:long" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ValidateImagesAgainstListResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="ValidateImagesAgainstListResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GenearatePDFPreview">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="srcXMLFile" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="targetPDFPath" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GenearatePDFPreviewResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GenearatePDFPreviewResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ValidateImagesSoapIn">
+    <wsdl:part name="parameters" element="tns:ValidateImages" />
+  </wsdl:message>
+  <wsdl:message name="ValidateImagesSoapOut">
+    <wsdl:part name="parameters" element="tns:ValidateImagesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ValidateImagesAgainstListSoapIn">
+    <wsdl:part name="parameters" element="tns:ValidateImagesAgainstList" />
+  </wsdl:message>
+  <wsdl:message name="ValidateImagesAgainstListSoapOut">
+    <wsdl:part name="parameters" element="tns:ValidateImagesAgainstListResponse" />
+  </wsdl:message>
+  <wsdl:message name="GenearatePDFPreviewSoapIn">
+    <wsdl:part name="parameters" element="tns:GenearatePDFPreview" />
+  </wsdl:message>
+  <wsdl:message name="GenearatePDFPreviewSoapOut">
+    <wsdl:part name="parameters" element="tns:GenearatePDFPreviewResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ImageValidationServiceSoap">
+    <wsdl:operation name="ValidateImages">
+      <wsdl:input message="tns:ValidateImagesSoapIn" />
+      <wsdl:output message="tns:ValidateImagesSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="ValidateImagesAgainstList">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Validates the zipFile against the image list in Activity id, 1 for valid, 2 for warning, 3 for error</wsdl:documentation>
+      <wsdl:input message="tns:ValidateImagesAgainstListSoapIn" />
+      <wsdl:output message="tns:ValidateImagesAgainstListSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GenearatePDFPreview">
+      <wsdl:input message="tns:GenearatePDFPreviewSoapIn" />
+      <wsdl:output message="tns:GenearatePDFPreviewSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ImageValidationServiceSoap" type="tns:ImageValidationServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ValidateImages">
+      <soap:operation soapAction="http://tempuri.org/ValidateImages" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidateImagesAgainstList">
+      <soap:operation soapAction="http://tempuri.org/ValidateImagesAgainstList" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GenearatePDFPreview">
+      <soap:operation soapAction="http://tempuri.org/GenearatePDFPreview" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ImageValidationServiceSoap12" type="tns:ImageValidationServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ValidateImages">
+      <soap12:operation soapAction="http://tempuri.org/ValidateImages" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ValidateImagesAgainstList">
+      <soap12:operation soapAction="http://tempuri.org/ValidateImagesAgainstList" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GenearatePDFPreview">
+      <soap12:operation soapAction="http://tempuri.org/GenearatePDFPreview" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="ImageValidationService">
+    <wsdl:port name="ImageValidationServiceSoap" binding="tns:ImageValidationServiceSoap">
+      <soap:address location="http://localhost:15691/ImageValidator/ImageValidationService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ImageValidationServiceSoap12" binding="tns:ImageValidationServiceSoap12">
+      <soap12:address location="http://localhost:15691/ImageValidator/ImageValidationService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>
